@@ -1,0 +1,16 @@
+Beste Kadet,
+
+Op onze SPEESBEES willen we de veiligheid verhogen. We moeten de beste locaties vinden om onze lasertorens te plaatsen.
+Er zijn zes mogelijke locaties. We moeten echter wel door verschillende keiharde lagen boren om de torens te plaatsen.
+Dat kost een hoop space credits. Als eerste stap willen we daarom bepalen wat de plaatsingskosten zijn per locatie.
+
+We hebben scans gemaakt van de zes locaties. Elke scan is een afbeelding met een getal in een bepaalde kleur.
+Bepaal het volgende per locatie:
+- wat is het meest voorkomende nummer voor de meest voorkomende kleur? Noem dit nummer N.
+    - Hoe vaak komt deze voor? Noem dit X
+- wat is de meest voorkomende kleur voor het meest voorkomende nummer?
+    Hoe vaak komt deze voor? Noem dit Y
+
+De kosten van het plaatsen van een toren per locatie zijn N*X*Y. Deze plaatsingskosten worden gebruikt bij de volgende stap.
+
+Wat is de som van alle plaatsingskosten?
