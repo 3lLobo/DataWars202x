@@ -1,0 +1,4 @@
+- Get locations of tankstations
+- 3 out of 12 locations
+- (x, y, z en tijd)
+- data point -> waarneming

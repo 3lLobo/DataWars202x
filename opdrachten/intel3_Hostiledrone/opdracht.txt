@@ -1,0 +1,27 @@
+Kadet,
+
+We hebben een probleem: Ergens in Nederland is een drone van de vijand actief. We hebben een datadump gemaakt van de output van alle sensoren 
+die we op het moment waarop we vermoeden dat de drone rondvloog beschikbaar hadden, maar kunnen hem in alle 1000 detecties niet terugvinden. 
+Het probleem? De drone heeft waarschijnlijk een pakketje met gestolen, topgeheime informatie opgepikt. We moeten de drone vinden en alleen 
+jullie hebben de skills en authorisatie om dat te doen. 
+
+De sensoren zijn geprogrammeerd om extra oormerk voor Nederlandse signaturen te ontvangen: je kunt zien of de drone in Nederland vloog toen de sensor het signaal ontving.
+De uitdaging? We hebben alle drones die in Nederland vlogen gecheckt. Geen ervan bleek een match met onze database van verdachte drones. 
+Er kan maar één verklaring zijn hiervoor: De drone maskeert zijn signaal en deed alsof het buiten Nederland vloog.
+
+Kunnen jullie het drone-ID-nummer (ID_num) vinden van de drone die doet alsof het buiten Nederland vliegt? 
+
+In de data vind je vijf kolommen:
+ID_num: Het identificatienummer van de drone (een integer tussen de 120000 en 660000)
+Longitude: Lengtegraden (X)
+Latitude: Breedtegraden (Y) 
+Samen vormen deze de locatie van de drone. Deze staan in Mercator (EPSG: 4326) geprojecteerd
+Height_Above_Ground_Level: De hoogte waarop de drone vloog t.o.v. de grond in meters
+Inside_NL: Een Boolean-variabele die in True/False(1/0) opgeslagen staat. Deze variabele geeft aan of de drone binnen de Nederlandse grenzen vloog. 
+
+We proberen jullie zoveel mogelijk bronnen te geven om de drone zo snel mogelijk te vinden, dus hebben we een geojson-bestand meegegeven. Dat bestand bevat een 
+polygon van het gehele gebied dat binnen de Nederlandse grenzen valt, inclusief maritieme grenzen (m.u.v. de bijzondere gemeentes). Misschien helpt het jullie.
+
+Veel succes, onderzoekers. We rekenen op jullie!
+
+Central Command
