@@ -1,0 +1,44 @@
+Kadet,
+
+We hebben een opdracht van kritiek belang voor jullie. Onze vijand gebruikt gebruikt mobiele tankstations om hun RAKETTEN
+bij te tanken. Daardoor het is hun bereik en slagkracht momenteel groter dan de onze. Aan jullie daarom de taak om de
+locaties van de mobiele tankstations te achterhalen zodat we ze kunnen uitschakelen.
+
+Onze passieve observatiesystemen hebben op verschillende plaatsen in dit sterrenstelsel activiteit van vijandelijke RAKETTEN
+geregistreerd. Het is nog onduidelijk welke exacte locaties door de vijand gebruikt worden. Op basis van de intel van
+onze analisten denken we dat de tankstations zich moeten bevinden op enkele van de volgende locaties:
+
+[65, 43, 95, 16]
+[68, 40, 95, 16]
+[68, 43, 92, 16]
+[68, 43, 95, 13]
+[69, 43, 95, 16]
+[68, 44, 95, 16]
+[68, 43, 96, 16]
+[68, 43, 95, 17]
+[71, 43, 95, 16]
+[68, 46, 95, 16]
+[68, 43, 98, 16]
+[68, 43, 95, 19]
+
+We vermoeden dat de vijand gebruik maakt van drie van de bovenstaande 12 potentiele locaties. Kunnen jullie ons vertellen
+welke drie locaties het meest waarschijnlijk zijn?
+
+Om jullie te helpen hebben we de door onze passieve observatiesystemen verzamelde data bijgevoegd als je puzzle-input.
+Daarin vinden jullie eerst nogmaals de locaties van de 12 mogelijke locaties. Onder de streep (###########...) vinden
+jullie daarna de gedane observaties. Elke regel is een detectie van onze observatiesystemen. Een regel kun je als volgt
+interpreteren:
+
+(voorbeeld)
+68.31110802041941,44.97902265140028,98.1087566939654,17.82723165000349
+
+Dit is een coordinaat in 4 dimensies (x, y, z en tijd). Dit betekent dat op deze locatie een waarneming is gedaan. Er
+zijn in totaal 3000 waarnemingen gedaan, maar onze detectiesystemen hebben een bepaalde (onevenredige) foutmarge. Op
+basis van alle waarnemingen, welke drie mogelijk tankstation-locaties denk je dat de vijand gebruikt?
+
+Het antwoord op deze vraag is de vermenigvuldiging van alle coordinaten (x,y,z,t) van de drie locaties.
+
+Hoogachtend,
+
+Commander S
+Offensive Air Support Unit
