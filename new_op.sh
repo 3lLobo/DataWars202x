@@ -18,4 +18,9 @@ git push
 
 gh pr create --title "Added $dir_name" --body "Added $dir_name" --base main 
 
+
+# marge pr
+n_pr=$(gh pr list | tail -n 1 | cut -d' ' -f 1)
+
+gh pr merge --auto --merge 
 echo "Done"
