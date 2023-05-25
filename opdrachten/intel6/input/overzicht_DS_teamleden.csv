@@ -1,0 +1,2345 @@
+werknemer_ID,functie,jaren_in_dienst,leeftijd,opleiding,communicatievaardigheid,expertise,niveau_veiligheidsonderzoek,verdacht_gedrag
+13223,Data Scientist,12,35,WO,6.880687178693965,Generalist,B,False
+198605,DevOps Engineer,4,27,MBO,5.657922664567494,ML-Ops,A,False
+19448,Data Scientist,1,22,HBO,8.229013257853852,Generalist,B,False
+226231,Data Scientist,1,33,WO,9.05573334751295,Geo,A,True
+228585,Data Scientist,2,25,WO,8.63134709902264,Generalist,B,False
+127415,Data Scientist,7,48,PhD,6.621554283077394,Agent-based modelling,B,False
+163946,Data Scientist,6,50,MBO,8.280554179828446,Vision,B,False
+81538,Data Engineer,3,35,PhD,6.526161568622593,Data storage,B,False
+169826,Data Engineer,5,28,HBO,8.301276013796398,Generalist,B,False
+101220,DevOps Engineer,16,39,MBO,6.849496218605216,ML-Ops,C,False
+57176,Staf,6,38,MBO,7.598205499314979,Other,C,False
+186393,Data Scientist,11,34,WO,5.1283686774895205,Generalist,B,False
+30870,DevOps Engineer,4,29,WO,5.3922062206254395,ML-Ops,B,False
+57542,Staf,1,32,PhD,7.028122751752836,Other,B,False
+160874,DevOps Engineer,0,30,MBO,8.178642648090142,ML-Ops,B,False
+123687,Data Engineer,0,29,MBO,7.936211830440102,Data pipelines,C,False
+90536,Data Scientist,6,35,HBO,6.712111804625485,Generalist,B,False
+181137,DevOps Engineer,8,31,PhD,6.114227417172095,ML-Ops,B,False
+14891,DevOps Engineer,6,34,WO,6.741599609598653,ML-Ops,B,False
+201581,Data Scientist,7,30,MBO,6.727363942173124,Generalist,B,False
+105254,Data Scientist,5,29,MBO,8.633942131710187,Generalist,A,False
+190594,Data Engineer,12,38,WO,5.4080067416375455,Data storage,A,False
+34169,Data Engineer,1,22,HBO,6.622803753705805,Generalist,B,False
+130680,DevOps Engineer,6,34,HBO,5.350744291819677,ML-Ops,B,False
+166875,Data Scientist,0,37,WO,8.52095664922617,Generalist,C,False
+218705,Data Scientist,12,43,HBO,7.569581987717929,Agent-based modelling,A,False
+171852,Data Engineer,5,40,WO,8.333197915170846,Data storage,B,False
+42471,Staf,4,43,HBO,7.240801234398818,Other,C,False
+178595,DevOps Engineer,14,39,PhD,7.346270268480698,ML-Ops,A,False
+229886,Data Scientist,7,52,WO,7.791859376360823,Generalist,A,False
+149601,Data Scientist,11,38,PhD,7.389242373724479,Generalist,A,False
+65899,Staf,2,29,MBO,6.129949887482282,Other,C,False
+127171,Data Scientist,9,36,MBO,7.227371263734072,Agent-based modelling,B,False
+122441,Data Engineer,6,56,MBO,6.210064831457232,Generalist,A,False
+137171,Data Engineer,8,31,MBO,5.249534150001995,Generalist,B,False
+239780,Staf,7,35,MBO,8.09167644928119,Other,B,False
+181528,Data Scientist,1,31,WO,7.288508336255849,Generalist,B,False
+87384,Data Scientist,4,55,MBO,6.311628878165029,Generalist,B,False
+23885,Data Scientist,4,41,WO,7.222398837650267,Vision,B,False
+226647,Data Scientist,12,48,MBO,5.838815039229475,Vision,A,False
+96650,Data Scientist,1,24,HBO,6.18963916207041,Agent-based modelling,B,False
+208491,Staf,12,46,WO,9.897398034197554,Other,C,False
+236953,Data Scientist,14,41,WO,8.733126867287428,Generalist,B,False
+235988,DevOps Engineer,2,26,WO,7.453397139282833,ML-Ops,B,False
+72175,DevOps Engineer,1,26,WO,6.941010517194423,ML-Ops,B,False
+57073,Staf,4,48,PhD,7.284299293564574,Other,C,False
+185436,Data Engineer,13,42,HBO,6.390312619607418,Data pipelines,B,False
+207510,Data Scientist,4,27,PhD,7.268356182050457,Agent-based modelling,B,False
+231172,Staf,12,44,HBO,7.599885496924184,Other,B,False
+171138,Data Engineer,13,40,HBO,6.309239553451047,Data storage,B,False
+52485,Data Scientist,9,32,HBO,6.558748648875715,Generalist,B,False
+105150,Data Engineer,12,47,HBO,5.027753017922489,Generalist,A,False
+15879,DevOps Engineer,1,30,WO,6.849836987264336,ML-Ops,B,False
+157220,DevOps Engineer,5,39,MBO,6.915230658451726,ML-Ops,A,False
+183586,Staf,7,36,MBO,8.102878725759128,Other,C,False
+49706,Data Scientist,1,30,WO,6.8183477540645425,Structured data,B,False
+118227,DevOps Engineer,14,38,MBO,7.083363401720178,ML-Ops,B,False
+107897,Data Scientist,7,34,HBO,6.17389253307243,Generalist,A,False
+91570,Staf,7,30,HBO,6.3401167565833045,Other,B,False
+182740,Data Scientist,6,31,PhD,5.053098718061458,NLP,B,False
+180747,Data Engineer,8,32,MBO,6.23307535265224,Data pipelines,C,False
+155742,Data Engineer,5,31,WO,6.460733605261403,Data pipelines,B,False
+200595,Data Scientist,11,41,PhD,8.951987285050226,Generalist,B,False
+198248,DevOps Engineer,2,25,MBO,6.622766612711923,ML-Ops,B,False
+12653,Data Scientist,13,40,MBO,7.7291438931661745,Agent-based modelling,B,False
+152984,DevOps Engineer,14,45,HBO,8.016993810107614,ML-Ops,B,False
+91199,Data Scientist,9,32,PhD,5.32598697189392,Geo,B,False
+163476,Data Engineer,2,43,PhD,7.4461183708297956,Generalist,B,False
+52723,Data Engineer,4,27,HBO,7.016155670617451,Generalist,B,False
+215586,Staf,10,40,HBO,4.4784308637705,Other,A,False
+234445,Staf,7,30,MBO,6.699000259575861,Other,B,False
+84249,DevOps Engineer,2,28,WO,7.502207458814048,ML-Ops,B,False
+127233,Staf,1,24,WO,5.661889564050811,Other,C,False
+195436,Data Scientist,14,57,MBO,5.965573626805087,Vision,A,False
+41053,Data Engineer,1,24,WO,6.600262285622206,Data pipelines,B,False
+149058,Data Scientist,7,32,PhD,4.623558981711271,Structured data,C,False
+23388,Data Scientist,7,53,MBO,5.5945271728985855,NLP,B,False
+127680,DevOps Engineer,9,32,MBO,6.829928673737009,ML-Ops,B,False
+79933,DevOps Engineer,2,35,PhD,6.912023394323506,ML-Ops,A,False
+115395,Data Scientist,5,43,MBO,6.897192692708078,Generalist,B,False
+213192,Staf,8,50,PhD,7.601147332241481,Other,B,False
+136450,Data Scientist,11,34,PhD,9.668854502063123,Geo,B,False
+113073,DevOps Engineer,4,27,MBO,4.698535743304985,ML-Ops,A,False
+172221,Data Engineer,1,24,MBO,5.669834295213067,Data pipelines,C,False
+108048,Staf,0,23,MBO,6.781483432643983,Other,B,False
+48961,Data Scientist,10,37,WO,7.8247532404539095,NLP,B,False
+127833,DevOps Engineer,11,36,PhD,6.60915718794047,ML-Ops,A,False
+87908,Staf,1,24,PhD,6.998424038738846,Other,B,False
+14607,Staf,11,35,HBO,6.99480402647022,Other,C,False
+151613,Data Engineer,6,38,MBO,6.935479775426376,Data pipelines,B,False
+157170,Staf,0,23,PhD,6.24298977195743,Other,B,False
+140480,DevOps Engineer,1,42,MBO,6.915879816958348,ML-Ops,B,False
+30464,Staf,6,36,WO,8.36166314557828,Other,A,False
+43691,Data Scientist,2,25,MBO,7.450566722944608,Generalist,A,False
+30679,DevOps Engineer,4,27,WO,7.558588543060732,ML-Ops,B,False
+68644,Data Engineer,3,33,PhD,6.539241390151044,Data storage,B,False
+223622,DevOps Engineer,6,43,PhD,7.2382809050864685,ML-Ops,B,False
+114917,Data Scientist,4,27,HBO,6.844699562062783,Structured data,B,False
+158588,Data Engineer,4,50,WO,5.173204496586775,Data storage,B,False
+33219,Data Scientist,11,48,HBO,8.323261673833953,Agent-based modelling,A,False
+134432,Staf,8,49,MBO,5.757988612050017,Other,B,False
+86276,DevOps Engineer,3,59,WO,6.005268115263908,ML-Ops,B,False
+74722,DevOps Engineer,3,45,MBO,7.041990781126002,ML-Ops,B,False
+51605,Data Scientist,3,31,WO,7.711518039183683,Structured data,B,False
+72185,Staf,20,43,HBO,7.6362027865234845,Other,A,False
+123625,Staf,1,36,WO,6.513389588270249,Other,B,False
+158400,Data Engineer,1,24,HBO,7.841902608737834,Generalist,B,False
+196461,DevOps Engineer,7,34,WO,7.93399589173271,ML-Ops,C,False
+88450,DevOps Engineer,0,23,MBO,6.805467299132473,ML-Ops,B,False
+115175,Data Scientist,5,29,HBO,7.293123449657086,Vision,B,False
+149603,Data Scientist,6,33,MBO,7.388798185957844,Structured data,A,False
+57750,Data Scientist,7,43,WO,7.640776869459516,Agent-based modelling,A,False
+29082,DevOps Engineer,9,32,MBO,7.553910679807949,ML-Ops,B,False
+239613,DevOps Engineer,10,33,PhD,7.815519823695147,ML-Ops,B,False
+79002,Data Scientist,5,28,MBO,6.327050244922459,Generalist,A,False
+78019,Data Scientist,11,34,WO,6.927381870491075,Agent-based modelling,B,False
+20093,DevOps Engineer,2,50,MBO,7.927722394894863,ML-Ops,A,False
+103562,Data Engineer,13,39,MBO,7.81517938463299,Data storage,B,False
+117920,Data Scientist,18,44,HBO,6.7003219407082435,Structured data,B,False
+227435,Data Scientist,1,36,WO,7.3330830024462665,Agent-based modelling,B,False
+145579,Data Scientist,9,46,WO,7.796385363704943,Generalist,B,False
+44563,DevOps Engineer,2,49,WO,6.519007495544546,ML-Ops,A,False
+118137,DevOps Engineer,7,38,WO,8.92684660019373,ML-Ops,B,False
+83359,Data Engineer,1,30,HBO,8.261343403341398,Generalist,B,False
+209680,Data Engineer,17,40,MBO,8.544088530972907,Data storage,B,False
+190684,DevOps Engineer,5,28,HBO,8.517838362665291,ML-Ops,B,False
+24343,Data Scientist,5,28,WO,6.5897246137153545,Generalist,C,False
+46275,DevOps Engineer,4,27,HBO,6.764260047253925,ML-Ops,A,False
+76251,Data Scientist,10,33,WO,8.198380966954193,Geo,C,False
+172113,Staf,5,28,WO,6.923143224777684,Other,A,False
+94262,Data Scientist,5,28,MBO,3.7121797270711063,NLP,A,False
+176561,Data Scientist,13,40,MBO,7.005894932680816,Agent-based modelling,B,False
+222776,Data Engineer,6,34,MBO,6.966159670738624,Data pipelines,B,False
+59395,Data Scientist,7,30,HBO,7.788756655025296,Geo,B,False
+217100,Data Engineer,1,24,HBO,5.9369223627357,Generalist,A,False
+228813,Data Scientist,3,39,HBO,7.13708062877274,NLP,B,False
+215276,Staf,5,28,MBO,8.510147024951955,Other,B,False
+42137,Data Scientist,12,35,HBO,8.169470400715323,Structured data,B,False
+127025,Data Engineer,9,39,WO,9.11993432021211,Data storage,B,False
+229382,Data Scientist,1,24,MBO,5.357646809459325,Structured data,B,False
+111767,Data Engineer,6,50,MBO,7.51692486109676,Data storage,A,False
+52591,Data Scientist,15,43,MBO,7.997262248636428,Generalist,B,False
+48922,Data Scientist,8,33,WO,6.534208005019403,NLP,A,False
+107238,Data Scientist,12,42,HBO,9.391053814959834,Agent-based modelling,A,False
+210123,DevOps Engineer,0,52,MBO,7.547311837705353,ML-Ops,A,False
+62619,DevOps Engineer,0,23,HBO,7.488234621529092,ML-Ops,B,False
+185850,Data Scientist,2,37,HBO,5.669389020920195,Vision,A,False
+142431,Data Engineer,7,34,WO,5.46670611236898,Data pipelines,A,False
+23470,DevOps Engineer,3,49,WO,6.256886000922548,ML-Ops,B,False
+191758,Data Scientist,1,50,PhD,7.126915071504905,NLP,A,False
+235449,DevOps Engineer,6,43,HBO,7.429275023677918,ML-Ops,A,False
+215460,Data Engineer,3,44,PhD,8.208625849626026,Data pipelines,B,False
+64801,Data Scientist,1,25,PhD,7.456367809950417,NLP,A,False
+123367,Data Scientist,6,29,PhD,6.333690652604082,Agent-based modelling,B,False
+25831,Data Scientist,5,28,HBO,7.755217934031131,Structured data,A,False
+118610,Data Scientist,10,40,PhD,7.941989301479727,NLP,A,False
+196500,Data Scientist,8,31,MBO,5.205968673334352,Agent-based modelling,A,False
+108665,DevOps Engineer,1,40,MBO,8.006188307110442,ML-Ops,B,False
+14678,Data Scientist,0,23,MBO,7.583050345672033,Agent-based modelling,B,False
+146369,Data Scientist,5,45,HBO,7.359524425125624,Vision,B,False
+133110,Data Scientist,0,23,PhD,7.207162732972978,Vision,B,False
+194351,Data Scientist,7,34,HBO,7.9873758770543635,Structured data,C,False
+91117,Staf,9,39,PhD,7.133400374107428,Other,B,False
+127298,Data Scientist,4,27,PhD,6.7470442464081355,Generalist,A,False
+27998,Staf,5,30,WO,8.226673327045479,Other,B,False
+180746,Data Scientist,12,35,HBO,8.187764703741042,Generalist,B,False
+53799,Staf,3,26,WO,7.674558458234288,Other,A,False
+220825,Data Scientist,6,44,HBO,7.641061887423314,Generalist,B,False
+51205,Data Engineer,1,24,MBO,7.719657997018363,Data storage,B,False
+209802,DevOps Engineer,6,44,WO,8.586744720939828,ML-Ops,B,False
+131308,Data Scientist,5,33,MBO,8.432109249759138,Generalist,B,False
+178704,DevOps Engineer,6,39,PhD,6.2766543522863865,ML-Ops,B,False
+167989,DevOps Engineer,1,35,PhD,5.700610971981197,ML-Ops,B,False
+185195,Staf,3,35,PhD,6.862490417088463,Other,B,False
+177941,Data Scientist,5,28,WO,7.008005854784606,Generalist,A,False
+84018,Data Engineer,11,45,PhD,7.168882654755925,Data storage,B,False
+63905,Data Scientist,12,36,MBO,7.07632447518998,Generalist,B,False
+236938,Data Scientist,7,30,PhD,4.9317263854168845,Generalist,B,False
+35582,Data Scientist,0,31,PhD,8.14931865651607,Geo,B,False
+34499,DevOps Engineer,2,25,HBO,9.855044836412928,ML-Ops,A,False
+106619,Staf,1,24,MBO,5.139055475602537,Other,B,False
+85089,Data Engineer,6,40,PhD,5.360904432078136,Data storage,B,False
+104398,DevOps Engineer,7,37,HBO,8.94739526369339,ML-Ops,B,False
+42321,DevOps Engineer,5,36,MBO,5.361163881068105,ML-Ops,B,False
+87651,Staf,10,46,PhD,6.927362726088318,Other,B,False
+157975,Data Engineer,1,53,MBO,8.571918951360294,Generalist,B,False
+217364,Data Scientist,0,23,MBO,7.751997584545754,Generalist,B,False
+155783,Data Scientist,5,36,WO,6.178375055705223,Generalist,B,False
+30487,Data Scientist,4,43,PhD,6.53888088338666,Geo,B,False
+100555,Data Scientist,1,54,WO,7.762558428516186,Generalist,A,False
+119164,DevOps Engineer,19,42,WO,7.537399437077902,ML-Ops,B,False
+142246,Staf,1,28,WO,8.43831114252752,Other,A,True
+160060,Staf,9,43,HBO,7.807016914966143,Other,A,False
+195606,Data Scientist,9,32,MBO,7.2722247774699955,Agent-based modelling,A,False
+116729,Data Scientist,7,31,PhD,7.112968986004145,Vision,B,False
+77820,Data Scientist,2,53,MBO,6.500450744486355,Generalist,B,False
+25966,Data Scientist,3,26,WO,6.877473746634726,Vision,A,False
+79732,Data Scientist,7,35,MBO,6.770004652601307,Generalist,B,False
+98054,Data Scientist,5,34,PhD,7.628445512131037,Geo,C,False
+121332,Data Scientist,4,47,HBO,5.746787281152277,Structured data,A,False
+85770,Data Scientist,12,43,MBO,4.880917931412931,Generalist,B,False
+237458,Staf,12,35,PhD,8.298192784398049,Other,B,False
+84415,Data Scientist,5,45,PhD,5.752641031965227,Geo,B,False
+148482,Data Engineer,1,34,MBO,5.766862176526815,Data pipelines,B,False
+213462,DevOps Engineer,5,40,MBO,5.725745809497715,ML-Ops,B,False
+100369,Data Scientist,6,32,MBO,7.6317301194710705,Generalist,B,False
+189192,Data Scientist,6,56,HBO,7.992604990763118,Structured data,A,False
+215069,Staf,2,54,PhD,7.872314905784296,Other,B,False
+12270,DevOps Engineer,7,30,PhD,6.306569126408055,ML-Ops,A,False
+170976,Data Engineer,3,27,PhD,7.03986480741253,Generalist,B,False
+72010,Staf,6,29,PhD,4.783505244915464,Other,C,False
+39528,Data Scientist,9,32,HBO,4.746005756764543,Agent-based modelling,B,False
+27736,DevOps Engineer,6,39,MBO,7.7385747607558555,ML-Ops,B,False
+211885,DevOps Engineer,11,34,HBO,8.551943319494873,ML-Ops,B,False
+19235,Data Scientist,1,46,HBO,9.13213294632133,Vision,B,False
+93610,Data Engineer,15,38,WO,4.88576484817854,Data pipelines,B,False
+199037,Data Scientist,9,38,PhD,7.230281293648192,NLP,B,False
+230507,DevOps Engineer,0,44,PhD,7.260779862831504,ML-Ops,B,False
+58486,Data Engineer,1,24,WO,5.93700163890741,Generalist,B,False
+202306,Data Engineer,10,36,PhD,6.893977286615372,Data storage,B,False
+105553,Data Scientist,8,39,PhD,6.918930167640321,Structured data,B,False
+85005,Data Engineer,11,34,WO,7.119212077216407,Data pipelines,A,False
+142563,Staf,9,50,HBO,7.236017809712708,Other,B,False
+207507,Data Engineer,10,36,MBO,7.584682895608491,Data pipelines,B,False
+176505,Staf,9,32,WO,4.734116543482438,Other,B,False
+125810,Data Scientist,5,28,PhD,6.705409037492406,Agent-based modelling,B,False
+58295,Data Engineer,1,24,HBO,6.706894306921878,Data pipelines,A,False
+215308,Data Scientist,3,28,MBO,7.023771728252288,Generalist,A,False
+175599,Staf,10,33,HBO,7.733630112505587,Other,C,False
+227708,Staf,9,44,PhD,6.439336384576913,Other,B,False
+236134,Data Scientist,7,49,HBO,6.329265983263084,Generalist,A,False
+171429,Data Scientist,1,35,MBO,6.699381605574245,Generalist,B,False
+130319,Staf,0,35,HBO,6.891471281914242,Other,C,False
+46070,Data Scientist,1,32,WO,8.669983694471023,Geo,A,True
+220881,Data Engineer,0,42,MBO,5.789796660465392,Data pipelines,A,False
+123870,DevOps Engineer,12,40,MBO,5.845382887712047,ML-Ops,B,False
+106038,DevOps Engineer,4,40,HBO,6.1372449126683595,ML-Ops,B,False
+66286,Data Engineer,10,42,HBO,9.318708373310482,Data pipelines,B,False
+37675,DevOps Engineer,5,39,HBO,6.278412091036191,ML-Ops,B,False
+211957,Staf,4,27,MBO,7.2458620283770045,Other,C,False
+39108,Data Scientist,0,46,PhD,7.311127195731354,Structured data,A,False
+230604,Data Engineer,2,44,WO,6.279599470083992,Data pipelines,B,False
+136720,Data Scientist,2,25,HBO,8.020679683352393,Generalist,B,False
+65054,Data Scientist,0,31,MBO,7.116874120516695,Vision,B,False
+155602,Data Engineer,4,34,MBO,8.255315307699371,Data storage,B,False
+48304,Data Engineer,0,27,HBO,7.827739440410007,Data pipelines,B,False
+116340,Staf,0,46,MBO,7.1290474308796625,Other,A,False
+133213,Data Scientist,1,22,HBO,5.87594557477061,Generalist,B,False
+174585,Data Scientist,14,50,PhD,5.9973594680679305,Generalist,B,False
+190677,Staf,3,26,PhD,5.9467720307524425,Other,C,False
+20561,Data Scientist,2,42,HBO,6.904886461901685,Vision,A,False
+167857,DevOps Engineer,7,33,WO,7.846186066794361,ML-Ops,B,False
+196223,Data Scientist,2,25,MBO,8.365604579258559,Generalist,A,False
+185703,DevOps Engineer,14,46,PhD,7.469349048395161,ML-Ops,C,False
+79903,Staf,6,38,HBO,8.831699098452477,Other,B,False
+122805,Staf,2,25,PhD,9.200965981133182,Other,C,False
+142164,Data Engineer,8,31,PhD,6.492823902240984,Data pipelines,C,False
+134484,Data Scientist,1,24,PhD,7.057996890148733,Generalist,B,False
+10375,Staf,6,30,HBO,7.596895097550996,Other,C,False
+54310,Staf,4,32,HBO,6.082183857577048,Other,B,False
+46511,Staf,1,24,HBO,7.455968389907633,Other,C,False
+27849,DevOps Engineer,10,33,MBO,6.546290220377109,ML-Ops,A,False
+158222,DevOps Engineer,0,39,MBO,8.8108549708783,ML-Ops,B,False
+20480,DevOps Engineer,0,23,HBO,6.6274402161821575,ML-Ops,A,False
+132220,DevOps Engineer,8,31,WO,6.511395107532723,ML-Ops,B,False
+195887,Data Scientist,8,34,MBO,6.758129624661782,Generalist,A,False
+183662,Data Scientist,0,23,PhD,4.716808155732091,NLP,A,False
+49850,Data Scientist,9,41,WO,6.870635200092235,Generalist,B,False
+62523,Data Scientist,6,29,WO,7.090550721139092,Generalist,B,False
+202059,DevOps Engineer,9,38,MBO,6.95485979334035,ML-Ops,A,False
+36569,Data Scientist,2,25,PhD,6.819986654313816,NLP,B,False
+172722,Staf,1,36,MBO,7.013703866349381,Other,B,False
+228930,Data Scientist,15,44,PhD,7.6734644431672185,Generalist,B,False
+45841,Data Engineer,7,30,PhD,6.5700435519438685,Data storage,A,False
+76987,DevOps Engineer,16,46,PhD,6.220520040643127,ML-Ops,B,False
+157096,Data Scientist,6,29,PhD,6.907242342273286,Generalist,B,False
+91628,Data Engineer,7,42,HBO,5.873441091841161,Generalist,B,False
+50570,Staf,0,26,MBO,6.334583852397284,Other,B,False
+216780,Data Scientist,11,43,PhD,5.393680623058935,Geo,B,False
+161669,Data Scientist,6,32,WO,7.292528531028536,Generalist,A,False
+143680,Staf,10,43,WO,7.47148340168908,Other,B,False
+223360,DevOps Engineer,21,56,WO,6.684023124184296,ML-Ops,B,False
+24186,Staf,3,41,MBO,7.08241799476787,Other,B,False
+24985,Data Engineer,2,56,PhD,7.694716763471919,Data pipelines,B,False
+147862,Data Scientist,3,32,PhD,6.676485152981272,Generalist,B,False
+62908,Data Scientist,2,35,WO,7.100976983429214,Generalist,A,False
+100660,Staf,7,39,HBO,6.369327844555056,Other,A,False
+184285,Data Engineer,2,36,PhD,7.377239143566008,Generalist,B,False
+176023,Data Scientist,5,49,WO,5.9598436120371225,NLP,B,False
+177805,DevOps Engineer,2,25,WO,7.832930287937953,ML-Ops,B,False
+123972,Data Engineer,15,52,PhD,6.991935550722192,Data pipelines,A,False
+14487,DevOps Engineer,0,23,HBO,5.363449861687572,ML-Ops,A,False
+148905,Data Engineer,1,30,HBO,8.16816298915397,Generalist,B,False
+232837,Data Scientist,7,38,MBO,6.800401597131758,Generalist,B,False
+123749,Data Scientist,1,26,MBO,8.322348342583775,NLP,B,False
+187799,Data Scientist,11,46,WO,6.9197283065238295,Vision,B,False
+85169,DevOps Engineer,8,31,PhD,8.232360724814216,ML-Ops,B,False
+114957,Data Scientist,12,44,PhD,7.275073201837878,Generalist,A,False
+235719,Data Engineer,5,41,HBO,8.260130541020368,Data storage,B,False
+115769,DevOps Engineer,17,43,MBO,5.1908203410177824,ML-Ops,B,False
+37191,Data Engineer,1,53,HBO,8.11032440860357,Data storage,B,False
+153525,Data Engineer,13,41,WO,6.895733841650114,Data storage,A,False
+93545,Data Scientist,8,48,HBO,7.238801389684512,Generalist,B,False
+223266,DevOps Engineer,18,51,WO,5.996117071116568,ML-Ops,B,False
+191577,Data Engineer,1,24,HBO,7.720023148208961,Generalist,B,False
+233559,Data Engineer,10,33,MBO,6.115384556844624,Data pipelines,B,False
+194056,Data Scientist,2,31,HBO,8.766012046454527,Generalist,B,False
+45507,Data Engineer,5,28,HBO,6.547066781496273,Data pipelines,B,False
+66122,Data Engineer,14,43,MBO,6.031429314625544,Generalist,B,False
+23400,Data Scientist,6,29,HBO,5.348382083230292,Generalist,A,False
+197373,DevOps Engineer,6,41,MBO,5.883600235815525,ML-Ops,B,False
+25323,Data Scientist,3,37,PhD,5.928504052768521,Generalist,C,False
+231611,Staf,4,27,HBO,8.783511773393826,Other,B,False
+238076,DevOps Engineer,2,45,PhD,7.7786826191047815,ML-Ops,A,False
+235708,Data Scientist,6,43,HBO,8.635497389660657,Agent-based modelling,B,False
+11038,Data Engineer,9,33,WO,5.468215763998234,Data pipelines,B,False
+40743,Staf,3,26,WO,7.968489343161348,Other,B,False
+113506,Staf,7,49,HBO,6.727778037290046,Other,B,False
+186487,Data Scientist,7,34,WO,5.802751997397662,Vision,B,False
+85470,Data Engineer,7,30,PhD,6.292193490578725,Generalist,A,False
+159386,DevOps Engineer,5,40,HBO,5.480402141524435,ML-Ops,B,False
+31010,Data Scientist,3,26,HBO,7.898834289896887,Generalist,B,False
+72684,Staf,8,31,WO,6.808361668620673,Other,A,False
+211120,Data Scientist,0,48,WO,8.729606580623033,Generalist,B,False
+96835,DevOps Engineer,7,33,PhD,6.034903773866698,ML-Ops,A,False
+178794,Data Engineer,6,35,WO,6.740862667714541,Data pipelines,B,False
+29424,Staf,9,38,WO,7.079108904180571,Other,C,False
+63659,DevOps Engineer,1,31,WO,6.622966098424972,ML-Ops,B,False
+59465,Data Scientist,1,24,MBO,7.440064419629518,Generalist,B,False
+177139,DevOps Engineer,14,45,PhD,6.9411047703440705,ML-Ops,A,False
+110284,Data Scientist,6,29,WO,6.039026086700736,Generalist,B,False
+11238,DevOps Engineer,5,32,HBO,7.523342416892461,ML-Ops,B,False
+107807,Data Engineer,9,39,PhD,6.311072695785389,Generalist,B,False
+69711,Data Scientist,9,34,HBO,7.918292568597817,Structured data,B,False
+125111,Data Engineer,0,34,MBO,7.658832813179947,Data storage,B,False
+115777,Data Scientist,6,45,PhD,8.607331501991544,NLP,A,False
+79987,Data Engineer,11,34,HBO,8.072511871261433,Data pipelines,A,False
+78292,Staf,2,44,PhD,6.633007640100649,Other,A,False
+71306,Data Scientist,9,32,PhD,6.854986760781106,Agent-based modelling,A,False
+183751,DevOps Engineer,3,26,HBO,6.770991014064594,ML-Ops,A,False
+103385,Data Engineer,11,34,HBO,7.008338852855984,Data storage,A,False
+148934,Data Scientist,3,31,HBO,5.226969215379265,Generalist,B,False
+21172,Data Scientist,2,50,HBO,7.391502653909251,Structured data,B,False
+168725,DevOps Engineer,3,34,PhD,7.717830529200247,ML-Ops,B,False
+81139,Data Engineer,13,49,MBO,5.5323618199623,Data pipelines,B,False
+220927,DevOps Engineer,11,34,WO,7.263049326106645,ML-Ops,A,False
+58857,DevOps Engineer,6,38,WO,5.540167120513607,ML-Ops,A,False
+145836,DevOps Engineer,8,31,HBO,7.625695187841152,ML-Ops,B,False
+233651,Data Engineer,0,28,PhD,7.707357675962436,Generalist,B,False
+29838,Data Scientist,8,42,PhD,7.881110147279938,Generalist,B,False
+106080,Data Scientist,3,26,PhD,6.313961279267141,Generalist,B,False
+61039,Data Scientist,7,30,PhD,7.816591968795499,Generalist,B,False
+144401,Data Engineer,8,31,MBO,9.007602129235071,Data storage,B,False
+94086,Data Scientist,13,36,WO,6.500859694434667,Structured data,C,False
+15385,Data Scientist,5,28,WO,6.051610027766439,Agent-based modelling,B,False
+177443,Data Scientist,6,29,HBO,8.673895875366624,Generalist,B,False
+173615,Data Scientist,10,33,MBO,5.908283246887436,NLP,A,False
+55241,Staf,0,23,PhD,7.897297095965411,Other,C,False
+223682,Data Engineer,6,29,MBO,7.898583721547843,Data storage,B,False
+231556,Data Engineer,10,33,WO,8.211530810780106,Data storage,B,False
+14003,DevOps Engineer,9,37,WO,6.568730401561296,ML-Ops,B,False
+44301,DevOps Engineer,6,54,WO,5.318819316174304,ML-Ops,A,False
+23276,DevOps Engineer,6,29,WO,7.398095868795836,ML-Ops,A,False
+91194,Data Scientist,8,31,PhD,7.9206851081534,NLP,B,False
+179537,Data Scientist,3,26,WO,6.411944299473319,Structured data,B,False
+91999,Data Scientist,11,46,PhD,8.20152772257605,Agent-based modelling,B,False
+75384,Data Scientist,0,23,HBO,6.315455919849253,NLP,A,False
+16290,Staf,7,30,MBO,7.967793782507283,Other,C,False
+159720,DevOps Engineer,1,27,PhD,8.532460129517972,ML-Ops,B,False
+119315,DevOps Engineer,12,35,HBO,6.851023880555161,ML-Ops,B,False
+99852,Data Scientist,7,43,WO,6.526487475075605,Generalist,B,False
+226661,DevOps Engineer,14,39,HBO,6.689565215673024,ML-Ops,B,False
+122571,DevOps Engineer,0,23,HBO,8.316663632553391,ML-Ops,B,False
+155977,DevOps Engineer,2,25,HBO,6.965698970003822,ML-Ops,B,False
+141552,Data Scientist,13,37,WO,8.473121443385006,Generalist,B,False
+158964,Data Scientist,4,27,WO,8.306994843118511,Vision,A,False
+225635,Data Scientist,9,32,PhD,7.370437463054766,Generalist,B,False
+21536,Data Scientist,2,42,HBO,8.293684002761207,Generalist,A,False
+76380,DevOps Engineer,1,22,HBO,6.716799429977002,ML-Ops,B,False
+142104,Data Scientist,6,55,MBO,7.541202226786826,Generalist,B,False
+68872,Staf,3,29,MBO,6.018659673969161,Other,B,False
+58048,Data Scientist,7,30,PhD,7.418154779874283,Generalist,C,False
+228068,Data Scientist,11,34,MBO,8.393394424695854,Geo,A,False
+123777,Staf,1,24,WO,7.2164602361701204,Other,C,False
+88160,Data Scientist,6,43,MBO,7.5619011703695564,Generalist,B,False
+213384,Staf,4,42,MBO,5.890644742678816,Other,B,False
+93370,Data Engineer,1,24,PhD,7.705484100804812,Data pipelines,B,False
+224295,Staf,7,30,WO,5.848413717932214,Other,C,False
+82956,DevOps Engineer,5,37,MBO,6.364335602780376,ML-Ops,B,False
+178090,Data Scientist,12,44,MBO,7.46476747090861,Generalist,B,False
+78096,DevOps Engineer,3,30,WO,7.030733634454197,ML-Ops,B,False
+125488,Data Scientist,4,46,WO,7.971687945998871,Generalist,B,False
+16791,Data Scientist,1,40,MBO,7.512082137134001,Generalist,A,False
+175234,DevOps Engineer,0,55,HBO,4.761361309205999,ML-Ops,A,False
+236396,Data Scientist,6,48,WO,5.54283844583614,Generalist,B,False
+145172,Staf,2,30,PhD,7.775608208617212,Other,B,False
+134899,Data Engineer,7,36,HBO,6.698217801388176,Data pipelines,C,False
+169164,Data Scientist,7,42,PhD,6.002370648221011,Generalist,B,False
+214348,Data Scientist,1,24,MBO,8.015976965551339,Vision,A,True
+17704,Staf,10,36,MBO,7.796566635208071,Other,C,False
+165194,Data Engineer,9,36,HBO,6.202156704103818,Data storage,B,False
+73589,Staf,7,30,PhD,7.535625067773331,Other,A,False
+216078,DevOps Engineer,4,38,HBO,6.798412560093989,ML-Ops,B,False
+114236,Data Engineer,4,29,HBO,7.172681244795805,Data storage,B,False
+76636,Data Engineer,9,47,PhD,5.781502084495629,Data pipelines,B,False
+84643,Data Scientist,0,23,WO,6.34115613499133,Generalist,A,False
+95919,Data Engineer,5,57,MBO,8.611458996238358,Data pipelines,B,False
+58639,Staf,13,36,PhD,8.149520021686506,Other,C,False
+225693,Data Engineer,5,28,HBO,6.956049752028966,Generalist,A,False
+16516,Data Scientist,9,32,WO,6.666024592156615,Generalist,B,False
+125346,Data Scientist,8,39,HBO,8.414914138566658,Vision,A,False
+128842,Data Engineer,7,35,MBO,7.057494339356523,Generalist,B,False
+142263,Staf,9,33,PhD,7.016310012269817,Other,C,False
+50469,Data Scientist,0,23,PhD,5.818346006322321,Generalist,B,False
+97818,Data Scientist,6,29,WO,6.458123201217994,Geo,A,False
+14606,Data Scientist,2,32,MBO,5.252663922932481,Agent-based modelling,A,False
+148002,Staf,6,29,WO,7.372526592582374,Other,C,False
+135025,Staf,12,41,PhD,6.6074230644248795,Other,C,False
+117501,Data Scientist,5,30,WO,7.402467719395537,Structured data,B,False
+192580,Data Scientist,7,52,HBO,7.210861642152973,Generalist,B,False
+197889,Data Scientist,8,56,MBO,7.119739031589458,Generalist,A,False
+136852,Data Engineer,12,35,PhD,7.116010622432239,Data storage,A,False
+116457,Staf,4,48,MBO,5.087871136682727,Other,A,False
+89152,Data Scientist,3,26,HBO,7.144342627691842,Generalist,B,False
+85215,Data Engineer,0,23,PhD,7.751313488765462,Generalist,A,False
+33428,Staf,12,57,PhD,7.571186374897215,Other,B,False
+202560,Data Scientist,9,32,MBO,7.634667480704604,NLP,A,False
+174640,DevOps Engineer,9,33,PhD,8.148800922689283,ML-Ops,A,False
+203075,Staf,1,24,MBO,6.737693924118996,Other,A,False
+27056,Data Scientist,2,33,WO,4.327424109876349,Generalist,A,False
+69121,DevOps Engineer,12,36,MBO,7.542123344232364,ML-Ops,A,False
+13528,DevOps Engineer,3,35,MBO,8.231008914496256,ML-Ops,C,False
+178010,DevOps Engineer,9,50,WO,8.43516860442013,ML-Ops,B,False
+212598,Data Scientist,7,48,WO,7.2148151433559375,Geo,B,False
+10010,Data Engineer,4,35,PhD,6.886046311717113,Generalist,B,False
+220344,Staf,3,45,HBO,8.068992604780279,Other,B,False
+91980,Data Scientist,2,25,PhD,5.688123920407312,Generalist,B,False
+206843,DevOps Engineer,6,29,WO,6.028655902770067,ML-Ops,A,False
+79505,DevOps Engineer,4,27,HBO,7.532526632544801,ML-Ops,A,False
+72153,DevOps Engineer,11,36,WO,8.262134847649309,ML-Ops,A,False
+189044,Data Scientist,3,34,WO,7.742614430142326,Generalist,B,False
+88979,Data Scientist,3,55,HBO,6.950502189504344,Generalist,B,False
+12091,Staf,6,36,MBO,5.90651943940262,Other,B,False
+98132,DevOps Engineer,9,32,HBO,6.9292368352713325,ML-Ops,B,False
+142259,Data Engineer,7,30,MBO,7.827131793464884,Generalist,B,False
+184132,DevOps Engineer,3,26,PhD,8.125199339644247,ML-Ops,B,False
+67935,Staf,8,44,PhD,6.899935259246678,Other,B,False
+156343,Data Scientist,14,39,PhD,6.884390041046237,Structured data,C,False
+14054,Data Scientist,4,27,WO,6.268580524680425,Generalist,B,False
+23781,Data Engineer,0,23,PhD,8.211517591022636,Data storage,A,False
+117863,Data Engineer,4,27,MBO,7.389411791536945,Generalist,A,False
+65593,Data Engineer,9,32,WO,8.27476101537054,Data storage,B,False
+172618,Data Engineer,10,33,WO,6.776594924587169,Data pipelines,A,False
+72322,Data Scientist,1,26,HBO,7.948234071898855,Geo,A,False
+96785,Data Scientist,4,34,WO,8.121236390823178,Generalist,A,False
+149666,Staf,11,48,HBO,5.602182641977066,Other,C,False
+175144,Staf,6,44,HBO,7.296554078302861,Other,B,False
+212313,Data Scientist,2,49,PhD,7.673685174638347,Generalist,B,False
+96334,Data Scientist,7,45,PhD,5.450349356982593,Generalist,B,False
+41214,DevOps Engineer,5,40,PhD,7.39060057201937,ML-Ops,B,False
+32231,Data Scientist,1,54,HBO,6.596993891314562,Agent-based modelling,B,False
+156793,DevOps Engineer,10,39,WO,5.166342825615573,ML-Ops,B,False
+98941,Data Scientist,2,25,WO,6.0637874811609445,Vision,B,False
+69012,Data Scientist,7,30,HBO,7.627362146869055,NLP,B,False
+196138,DevOps Engineer,11,34,HBO,7.483232056335326,ML-Ops,B,False
+143285,Staf,3,31,HBO,6.483709855901817,Other,C,False
+130381,Data Scientist,1,24,WO,7.142048785210581,Generalist,B,False
+34162,Data Engineer,1,29,WO,8.38975814508395,Data pipelines,B,False
+191480,DevOps Engineer,14,48,WO,7.015106900605198,ML-Ops,B,False
+98052,Data Engineer,9,52,HBO,8.382377136286998,Data storage,B,False
+208364,Data Scientist,3,44,HBO,7.6109322051945965,Vision,B,False
+59810,Staf,2,25,MBO,5.148327757284385,Other,B,False
+220398,Data Scientist,9,37,WO,5.555267271586612,Generalist,B,False
+178811,Staf,7,37,HBO,6.3046905740087436,Other,B,False
+233996,Data Scientist,8,45,PhD,7.6924306405405085,Agent-based modelling,B,False
+157612,Data Engineer,3,41,WO,7.107967194330526,Generalist,B,False
+21714,Staf,7,38,HBO,5.499261877173126,Other,B,False
+71863,Data Scientist,3,26,PhD,6.341239154685882,Generalist,B,False
+147959,Staf,0,23,PhD,7.569838670792471,Other,B,False
+16462,Data Scientist,4,27,WO,8.389262385450545,Agent-based modelling,B,False
+184646,Data Engineer,7,30,WO,7.345531672561081,Generalist,A,False
+177197,Data Scientist,5,28,WO,7.72009806606229,Generalist,A,False
+168678,Staf,4,27,PhD,6.167692780764797,Other,A,False
+17764,Data Engineer,4,27,HBO,7.017254873875669,Generalist,B,False
+195408,Data Scientist,12,44,MBO,5.918211331660368,Generalist,A,False
+100991,Staf,2,38,HBO,8.034228474054817,Other,A,False
+101466,Data Engineer,5,28,HBO,5.78544393527415,Data pipelines,B,False
+133815,Staf,2,37,HBO,8.079474679971694,Other,A,False
+157969,Data Scientist,8,49,HBO,7.21814301064345,Generalist,A,False
+221334,Data Scientist,7,33,WO,8.035183327219706,Generalist,A,False
+116259,Data Scientist,16,39,WO,6.810939176474447,Geo,B,False
+146218,DevOps Engineer,4,38,MBO,5.366140723261283,ML-Ops,B,False
+62279,Data Engineer,5,40,HBO,6.610700102410335,Generalist,B,False
+207745,Staf,5,37,HBO,7.577428785818724,Other,B,False
+205962,Staf,3,37,PhD,7.469369627358727,Other,A,False
+164022,Data Scientist,4,53,PhD,6.0251871465328,Generalist,A,False
+239669,Data Scientist,13,39,MBO,8.201538889747862,Geo,B,False
+120789,Data Engineer,3,26,PhD,8.346300888304658,Data storage,B,False
+13221,Data Scientist,3,42,WO,7.577870616574613,Vision,B,False
+46906,Data Scientist,6,47,PhD,5.836148805586222,Geo,B,False
+60916,DevOps Engineer,7,44,MBO,6.275622254473449,ML-Ops,B,False
+128034,Data Scientist,3,36,HBO,5.753648529554491,Geo,B,False
+17944,Data Engineer,9,32,PhD,7.180653079498804,Data pipelines,A,False
+11090,Data Scientist,5,28,WO,8.646636265082837,Generalist,B,False
+80916,Data Scientist,0,28,HBO,5.900644694335369,Geo,A,False
+115657,Data Engineer,11,34,WO,6.7709692377388775,Generalist,A,False
+230374,Data Engineer,10,35,HBO,7.59353346145644,Data pipelines,B,False
+203282,Staf,2,40,PhD,6.927539369162804,Other,B,False
+115634,Data Scientist,2,25,PhD,7.636391778294803,NLP,B,False
+122389,Data Scientist,2,25,WO,7.668783848100462,Generalist,A,False
+24803,Data Scientist,5,40,MBO,7.517568678801753,Generalist,B,False
+47014,Data Engineer,8,45,MBO,5.548540242107558,Data pipelines,A,False
+93823,Data Scientist,0,30,WO,6.472741889731035,Generalist,A,False
+207794,Data Engineer,0,23,PhD,7.7460512509014885,Data pipelines,C,False
+192458,Data Scientist,1,39,PhD,7.026783632733934,NLP,B,False
+26470,Data Engineer,4,32,PhD,6.080526848748704,Data pipelines,B,False
+118831,Data Scientist,8,31,WO,6.049802190497556,Generalist,B,False
+65046,Staf,5,28,PhD,7.759650247018114,Other,A,False
+50747,Data Engineer,10,49,WO,7.664057972520379,Generalist,C,False
+22955,Data Scientist,6,29,MBO,7.458598934638571,Generalist,C,False
+210460,Data Scientist,4,35,HBO,6.806090627385988,Generalist,B,False
+215672,Data Scientist,3,38,WO,7.512211651093693,Generalist,B,False
+226459,Staf,8,35,PhD,5.424090191720904,Other,B,False
+193157,Data Scientist,9,53,PhD,9.186314404491412,Generalist,A,False
+175534,Data Scientist,6,29,PhD,7.416067551665675,Structured data,B,False
+117468,Staf,4,36,WO,4.69450559418012,Other,B,False
+171398,Data Engineer,5,28,PhD,7.032312121996915,Data storage,B,False
+162637,Staf,2,30,PhD,5.866261587247112,Other,B,False
+199372,Data Engineer,1,42,PhD,7.55355742977412,Data storage,A,False
+155189,Data Scientist,7,31,WO,5.593237331760096,Geo,B,False
+233642,Data Scientist,1,24,MBO,5.455748081126849,Generalist,C,False
+139715,Data Scientist,1,22,MBO,7.253929479225017,Generalist,B,False
+74354,Data Scientist,12,35,MBO,6.944034629338193,Generalist,A,False
+73632,Data Scientist,1,31,HBO,7.51553701298511,Generalist,A,False
+203383,Data Engineer,6,40,PhD,8.13934029589217,Data pipelines,A,False
+95561,Data Scientist,0,28,HBO,7.3549200633547445,Structured data,A,False
+198378,Data Scientist,0,23,WO,9.026403060956511,Generalist,B,False
+111597,Data Scientist,6,46,HBO,8.131994230430395,Generalist,B,False
+130613,Data Scientist,5,28,PhD,8.593592844100682,Generalist,A,False
+204026,Data Scientist,12,37,MBO,5.337160084489783,Generalist,B,False
+147194,Data Engineer,1,22,WO,7.281499333475747,Data pipelines,B,False
+182119,Staf,8,34,MBO,7.035574021483286,Other,A,False
+46054,Staf,10,45,HBO,6.912903226198336,Other,B,False
+228175,Data Engineer,10,33,MBO,5.540929687402355,Generalist,C,False
+91872,Staf,8,43,MBO,6.084980575180367,Other,A,False
+124460,Data Scientist,0,23,MBO,7.157544909325902,Structured data,C,False
+92380,Staf,6,29,PhD,6.061923084624504,Other,C,False
+117726,DevOps Engineer,1,24,PhD,6.644521733593857,ML-Ops,A,False
+38398,Staf,6,35,MBO,4.203009151595504,Other,A,False
+180173,Staf,6,46,HBO,6.804290772892342,Other,B,False
+92150,Data Scientist,5,28,WO,7.760274789641159,Generalist,B,False
+209207,Data Engineer,6,34,WO,7.392199298891412,Data storage,B,False
+44413,Staf,9,46,PhD,7.983459496161424,Other,C,False
+159813,Staf,2,43,PhD,6.667271623765476,Other,B,False
+117198,Data Scientist,5,36,MBO,6.9153036192348845,NLP,A,False
+63503,Data Scientist,1,40,MBO,6.584511119359511,Agent-based modelling,B,False
+234752,DevOps Engineer,6,30,PhD,10.0,ML-Ops,B,False
+121346,DevOps Engineer,8,31,PhD,7.395366026638195,ML-Ops,B,False
+15522,DevOps Engineer,6,30,WO,7.684061674369518,ML-Ops,A,False
+127090,DevOps Engineer,7,39,WO,7.090476678539222,ML-Ops,A,False
+238682,Data Scientist,5,34,HBO,8.15169136189586,Generalist,B,False
+113105,Data Engineer,13,49,HBO,7.613435209589106,Data pipelines,B,False
+59953,Staf,10,43,WO,9.245701820721791,Other,B,False
+132290,Staf,13,37,PhD,6.971226165652799,Other,B,False
+120800,Data Scientist,1,24,MBO,7.852168208167767,Generalist,B,False
+209489,Data Scientist,4,41,HBO,8.59396958156344,Vision,A,False
+13767,DevOps Engineer,11,41,WO,6.772376667827246,ML-Ops,B,False
+175814,Staf,7,30,MBO,7.088575281235957,Other,C,False
+209766,Data Scientist,3,44,PhD,6.872742470133379,Generalist,B,False
+58946,Data Scientist,8,31,MBO,7.311748100100196,Structured data,B,False
+102380,Data Scientist,8,31,PhD,7.497750078235887,Vision,A,False
+89139,Staf,8,31,WO,7.427029442408946,Other,B,False
+189904,Data Scientist,10,33,PhD,6.366563032950896,Geo,A,False
+52618,Data Scientist,7,30,PhD,7.650013131622447,Geo,A,False
+80906,Data Scientist,6,39,HBO,6.525501679103571,Generalist,B,False
+155078,Data Scientist,12,36,MBO,8.428082018176218,Geo,A,False
+13965,Staf,6,40,PhD,6.114002568409143,Other,C,False
+15574,Data Scientist,3,26,MBO,6.214315031693794,Generalist,B,False
+190585,Data Scientist,6,50,MBO,6.63637223003683,Generalist,B,False
+131429,DevOps Engineer,11,37,WO,6.685441194419103,ML-Ops,A,False
+84746,DevOps Engineer,2,54,MBO,7.087943560976275,ML-Ops,B,False
+188841,Data Scientist,2,25,HBO,6.71191139734701,Structured data,B,False
+85424,Staf,3,30,MBO,7.679507423147335,Other,A,False
+162328,Staf,14,42,MBO,6.792799546916259,Other,C,False
+11470,Data Scientist,0,42,MBO,7.573708514783917,Generalist,B,False
+228234,DevOps Engineer,4,29,WO,6.24385996726334,ML-Ops,B,False
+127387,Data Scientist,1,34,HBO,6.106945391437488,Geo,B,False
+145097,Data Scientist,2,34,PhD,6.988388664377565,Geo,B,False
+50291,Staf,5,28,MBO,4.981813443544102,Other,C,False
+135623,Data Scientist,11,34,MBO,7.9846838917102545,Generalist,B,False
+170055,Data Scientist,9,51,WO,6.404145651257457,Generalist,B,False
+146479,Data Scientist,3,38,HBO,7.5302427642495875,NLP,B,False
+159137,Data Scientist,7,30,MBO,8.354585091858814,Generalist,C,False
+235123,Data Engineer,8,48,WO,7.436703796128591,Data pipelines,B,False
+103117,DevOps Engineer,13,39,WO,4.8624677641545535,ML-Ops,B,False
+213914,Staf,4,31,MBO,6.234120114022552,Other,A,False
+146785,Data Engineer,1,30,PhD,4.85972797594933,Data storage,B,False
+58360,DevOps Engineer,5,28,MBO,5.824815598348543,ML-Ops,B,False
+71262,Data Engineer,10,33,HBO,5.6987601341764265,Data storage,B,False
+199727,Data Scientist,3,26,HBO,7.486953846437138,Generalist,B,False
+164428,Data Scientist,3,40,HBO,6.553286968447943,Geo,B,False
+185390,Staf,1,50,PhD,6.282352301031238,Other,B,False
+126260,Data Scientist,3,30,MBO,7.899625801220112,Agent-based modelling,B,False
+186690,Data Engineer,1,37,PhD,8.417732535940198,Data storage,A,False
+25857,DevOps Engineer,17,52,MBO,8.18170825875869,ML-Ops,B,False
+28678,Data Scientist,0,37,HBO,8.200203239804798,NLP,B,False
+197309,DevOps Engineer,14,52,WO,7.363536089855593,ML-Ops,B,False
+16987,Data Scientist,13,36,WO,7.522378034298276,Generalist,A,False
+51651,Staf,6,63,MBO,6.210017565868771,Other,B,False
+84107,Data Scientist,2,27,HBO,7.503226039863762,Generalist,B,False
+176096,DevOps Engineer,2,32,HBO,8.706821182629529,ML-Ops,A,False
+153376,Staf,1,24,MBO,4.5160245377319,Other,C,False
+22584,Data Scientist,2,25,MBO,6.541144973337368,Generalist,B,False
+69841,Staf,3,26,PhD,7.43785838593067,Other,C,False
+178641,Staf,0,36,PhD,7.475041902634317,Other,C,False
+100425,DevOps Engineer,2,25,PhD,6.78729212421362,ML-Ops,B,False
+49226,DevOps Engineer,1,24,MBO,6.298474671781042,ML-Ops,B,False
+12276,Data Engineer,0,23,HBO,7.203849284862522,Data pipelines,C,False
+119407,Data Engineer,1,24,PhD,6.921936543804494,Data storage,A,False
+22855,Data Engineer,13,42,MBO,5.2476854307479766,Data pipelines,C,False
+144309,Data Scientist,6,29,WO,7.826029048235986,Structured data,B,False
+140847,Data Engineer,10,39,MBO,6.651725694152007,Generalist,B,False
+200376,DevOps Engineer,7,45,WO,8.146161765436899,ML-Ops,A,False
+122216,DevOps Engineer,5,37,WO,5.5093708327448985,ML-Ops,B,False
+94602,DevOps Engineer,12,37,MBO,6.579660934693987,ML-Ops,B,False
+20464,DevOps Engineer,10,45,MBO,7.531902079975851,ML-Ops,A,False
+171646,Data Scientist,1,24,WO,7.4113535896815135,Generalist,A,False
+114221,DevOps Engineer,4,27,HBO,6.619108863598319,ML-Ops,A,False
+197808,Data Scientist,7,30,PhD,9.066812392175645,Generalist,A,False
+171412,DevOps Engineer,2,37,MBO,7.146439865607087,ML-Ops,B,False
+95448,DevOps Engineer,11,44,HBO,7.155762383608718,ML-Ops,B,False
+192529,Data Engineer,1,26,PhD,8.442599444973874,Data storage,B,False
+150294,DevOps Engineer,9,40,MBO,6.185641967248998,ML-Ops,B,False
+164589,Data Scientist,10,43,PhD,6.183074981784037,Vision,B,False
+84163,Data Scientist,8,43,MBO,8.246798131334126,Structured data,A,False
+150102,Staf,5,36,HBO,8.047806488152707,Other,C,False
+162810,Data Scientist,3,34,HBO,6.649823600655004,Generalist,B,False
+163058,DevOps Engineer,0,27,PhD,6.684069081347426,ML-Ops,B,False
+16955,Data Engineer,6,29,HBO,7.0933258992919,Data storage,A,False
+228535,DevOps Engineer,0,23,MBO,5.492022346727641,ML-Ops,B,False
+136731,Data Scientist,1,24,HBO,5.882890939289194,Generalist,B,False
+28150,Data Scientist,5,28,PhD,6.870839919854179,Generalist,B,False
+139584,Data Engineer,3,27,MBO,7.008451410939491,Data pipelines,B,False
+212379,Data Scientist,7,42,WO,6.139127516904393,Generalist,B,False
+168702,Data Scientist,5,28,MBO,6.6024795669379985,Generalist,A,False
+88589,Data Scientist,4,42,WO,8.242726231390606,Generalist,B,False
+190022,Data Engineer,16,42,HBO,7.931426561616644,Generalist,B,False
+172639,Data Scientist,4,54,HBO,6.697104778013853,Generalist,B,False
+41995,DevOps Engineer,14,39,MBO,7.761144391385535,ML-Ops,A,False
+52187,Staf,6,48,PhD,6.29646093193424,Other,A,False
+27806,Data Scientist,7,48,PhD,7.946374813724776,Generalist,B,False
+15927,DevOps Engineer,3,54,MBO,6.297710116235655,ML-Ops,B,False
+166003,Data Engineer,6,36,MBO,7.435188183258135,Data storage,B,False
+31552,Data Engineer,10,43,MBO,7.833545689579953,Data storage,B,False
+177227,Staf,3,26,MBO,7.341113582278147,Other,B,False
+87865,Staf,5,34,PhD,8.351583744925184,Other,A,False
+59129,Data Engineer,1,51,HBO,7.05861860870631,Generalist,B,False
+92082,Data Scientist,12,35,MBO,4.7038898804738976,Structured data,B,False
+127139,Staf,8,31,HBO,8.07397620713334,Other,B,False
+61637,DevOps Engineer,5,37,HBO,6.205842134506585,ML-Ops,B,False
+120862,Data Scientist,2,36,WO,7.064128348972778,Vision,B,False
+78906,DevOps Engineer,1,30,WO,7.575994286227236,ML-Ops,A,False
+57201,Data Scientist,8,44,MBO,7.208051804411198,Generalist,A,False
+10422,Data Scientist,4,35,PhD,6.56421634539415,Vision,A,False
+40749,Data Engineer,3,49,WO,7.699121142326092,Generalist,A,False
+41010,Data Scientist,6,39,WO,5.966378952264086,Structured data,A,False
+28574,DevOps Engineer,6,29,HBO,6.268177488292017,ML-Ops,A,False
+226755,Staf,8,32,HBO,6.59328867835479,Other,C,False
+158310,Data Scientist,6,29,MBO,8.245215838635739,Structured data,B,False
+225794,DevOps Engineer,11,36,WO,6.279866079027696,ML-Ops,A,False
+231454,Data Engineer,15,38,PhD,6.170055020402609,Data storage,A,False
+94472,DevOps Engineer,4,34,WO,9.366598860851376,ML-Ops,B,False
+176831,DevOps Engineer,3,54,WO,6.916309746004764,ML-Ops,A,False
+117558,Data Engineer,6,34,PhD,8.387160909909998,Data storage,B,False
+11156,DevOps Engineer,6,30,MBO,8.074816064942265,ML-Ops,A,False
+239544,Data Scientist,3,26,WO,6.208235652263436,NLP,C,False
+42631,Data Scientist,6,29,PhD,6.389468645647729,Generalist,A,False
+86399,Data Scientist,5,28,WO,6.0325623308298315,NLP,A,False
+16969,Staf,1,25,PhD,6.913464693314902,Other,B,False
+108574,DevOps Engineer,9,41,WO,7.256633019713768,ML-Ops,A,False
+172041,Data Scientist,6,31,WO,5.486886674458743,Generalist,B,False
+41439,Data Engineer,3,39,HBO,6.281424236410431,Generalist,A,False
+104798,Staf,1,22,MBO,7.582736619695053,Other,C,False
+151105,Data Scientist,10,40,PhD,6.1810260740614344,NLP,B,False
+207996,Data Scientist,6,29,MBO,8.01738935434466,Generalist,B,False
+227278,Data Scientist,3,26,PhD,7.718505867062462,Geo,B,False
+201568,Data Scientist,0,23,HBO,6.924462638524584,NLP,B,False
+56223,Data Scientist,2,54,PhD,7.162695023237675,Generalist,A,False
+170890,DevOps Engineer,6,33,PhD,7.000011119572702,ML-Ops,B,False
+178887,Data Engineer,5,37,PhD,7.358007419315475,Data storage,B,False
+43233,DevOps Engineer,4,33,WO,6.114179104741113,ML-Ops,B,False
+19992,DevOps Engineer,13,45,HBO,8.267816584138806,ML-Ops,A,False
+89936,Data Scientist,9,45,MBO,6.060567275521471,Vision,C,False
+108084,Data Scientist,5,32,HBO,6.441489083237633,Generalist,A,False
+138375,Staf,5,28,PhD,6.450751571545867,Other,A,False
+152473,Data Scientist,3,26,MBO,5.7078869665489895,Structured data,A,False
+61756,Data Engineer,5,35,HBO,7.437552219264411,Data storage,A,False
+21616,Data Engineer,8,31,PhD,5.786291817781634,Data pipelines,B,False
+80303,Data Scientist,6,34,MBO,8.264302840372617,Vision,B,False
+184344,Staf,5,51,PhD,7.87951105463375,Other,C,False
+200380,Data Scientist,1,24,MBO,7.390152526759675,Agent-based modelling,A,False
+93002,Data Scientist,8,36,PhD,6.808230652884204,Generalist,A,False
+230998,Data Scientist,0,23,MBO,8.056831576238414,NLP,A,True
+177695,DevOps Engineer,13,38,MBO,7.65234665519565,ML-Ops,B,False
+135686,Data Scientist,1,24,PhD,7.411509266877955,NLP,A,False
+163218,Data Engineer,3,65,MBO,5.795044382811473,Data pipelines,B,False
+167523,Data Engineer,6,29,PhD,5.867420202041984,Data storage,A,False
+190013,Data Engineer,11,55,MBO,6.410480586490129,Data pipelines,B,False
+90371,Staf,5,33,HBO,5.214659088847965,Other,A,False
+108004,DevOps Engineer,6,43,PhD,5.814729608990587,ML-Ops,B,False
+121413,Data Engineer,13,47,PhD,7.528322374622759,Data pipelines,B,False
+104898,Data Scientist,3,48,WO,5.147235489433882,Structured data,B,False
+164215,Staf,7,44,MBO,7.574251354279587,Other,B,False
+197862,DevOps Engineer,8,40,HBO,8.533068198979203,ML-Ops,B,False
+28158,Data Scientist,12,50,MBO,5.590457422359407,NLP,B,False
+202757,Data Engineer,1,24,MBO,8.053612232105102,Generalist,B,False
+39640,DevOps Engineer,1,22,HBO,7.503712900036077,ML-Ops,B,False
+80677,Data Scientist,5,28,MBO,6.6460179663381025,Generalist,A,False
+186902,Data Engineer,3,34,HBO,6.6783160296174175,Data pipelines,B,False
+30865,Data Scientist,9,51,PhD,7.129997468879032,Agent-based modelling,B,False
+41537,Data Scientist,6,37,MBO,6.759711872056934,Generalist,B,False
+49772,Data Scientist,14,38,PhD,6.96832048024598,Structured data,B,False
+184613,Data Engineer,4,30,PhD,6.172165651584501,Generalist,C,False
+50333,Staf,5,36,MBO,8.457342060965058,Other,C,False
+217122,Data Engineer,13,43,MBO,5.601634337367148,Data storage,B,False
+69580,Data Scientist,5,38,HBO,7.467579815862701,Geo,B,False
+204349,Data Engineer,5,28,WO,6.074792348841643,Generalist,A,False
+17781,Data Engineer,11,45,WO,7.754238244842009,Data pipelines,B,False
+238164,DevOps Engineer,5,28,HBO,9.014083443287753,ML-Ops,B,False
+27597,Data Scientist,0,40,WO,8.39699260957016,Structured data,B,False
+180230,DevOps Engineer,7,30,HBO,7.59817163308803,ML-Ops,B,False
+118937,Data Scientist,1,24,WO,7.990587087212395,Generalist,B,False
+180342,DevOps Engineer,6,44,WO,7.191242645065382,ML-Ops,B,False
+108638,Data Scientist,2,42,HBO,5.608553466094319,Agent-based modelling,A,False
+205643,Staf,7,48,MBO,8.194699879124153,Other,C,False
+114255,Data Scientist,5,52,HBO,7.994832885041199,Agent-based modelling,A,False
+133279,DevOps Engineer,12,35,WO,6.902508364931485,ML-Ops,C,False
+109203,DevOps Engineer,5,28,MBO,5.757220805203237,ML-Ops,C,False
+203655,Data Scientist,12,48,WO,7.666784042541633,Generalist,B,False
+100813,Data Scientist,5,53,PhD,6.757981416951688,Structured data,B,False
+85392,Data Scientist,5,31,WO,5.997609034891317,Structured data,B,False
+29187,DevOps Engineer,8,33,MBO,7.3452768689129675,ML-Ops,B,False
+149086,DevOps Engineer,15,43,PhD,6.656986014456237,ML-Ops,A,False
+77200,Data Scientist,5,28,PhD,6.01751486155557,Structured data,B,False
+124053,Data Scientist,7,37,PhD,6.028827845867814,Vision,A,False
+21691,Staf,3,26,PhD,5.27650363954398,Other,A,False
+15178,Data Scientist,3,28,MBO,6.566030620964232,Generalist,A,False
+209345,Data Engineer,1,22,WO,6.625751758454659,Generalist,B,False
+26829,Staf,2,44,PhD,7.1671838590856005,Other,C,False
+80661,Data Engineer,5,28,PhD,6.57835778508956,Data pipelines,B,False
+152910,Staf,14,44,HBO,8.428701258205031,Other,B,False
+138971,Data Engineer,1,44,WO,5.582547247951041,Generalist,B,False
+117661,Data Scientist,4,33,PhD,8.22463061801635,Vision,A,False
+61792,Data Scientist,11,35,HBO,7.426152263780573,Generalist,B,False
+230236,DevOps Engineer,8,35,MBO,7.861630263400487,ML-Ops,B,False
+79619,Data Engineer,4,28,HBO,6.0395151545759775,Data storage,B,False
+138043,Data Scientist,8,31,MBO,8.61125137888131,Geo,B,False
+47207,DevOps Engineer,14,37,PhD,7.584548359397804,ML-Ops,B,False
+79283,DevOps Engineer,18,47,WO,6.734777105960581,ML-Ops,B,False
+232598,Data Engineer,15,38,HBO,6.924748054281566,Data pipelines,B,False
+146816,Data Scientist,7,30,WO,7.458019155835391,Agent-based modelling,A,False
+152655,DevOps Engineer,5,36,HBO,6.125263744959847,ML-Ops,B,False
+171579,Data Scientist,6,29,PhD,6.075387002639262,Structured data,B,False
+22749,Data Engineer,0,51,PhD,6.897775374512979,Generalist,B,False
+227580,Staf,2,29,WO,5.828610077536444,Other,A,False
+170821,Data Scientist,10,54,MBO,4.3374597601693505,Vision,B,False
+66638,Staf,0,23,PhD,6.330333834655909,Other,B,False
+47639,Staf,2,25,WO,8.957483035575278,Other,C,False
+90202,Staf,4,27,MBO,8.185673222467006,Other,C,False
+96212,DevOps Engineer,2,25,MBO,6.096032274955323,ML-Ops,A,False
+21663,Data Scientist,0,27,HBO,5.191486824444038,Generalist,B,False
+178782,DevOps Engineer,0,23,MBO,8.450087551068593,ML-Ops,A,False
+177540,Data Scientist,8,35,MBO,4.122668821977802,Agent-based modelling,A,False
+75452,Staf,11,46,HBO,5.865077928279918,Other,B,False
+185807,Data Engineer,7,30,WO,7.596559877510756,Data storage,B,False
+47869,Staf,4,29,MBO,5.655820500156263,Other,C,False
+238504,Data Scientist,0,48,PhD,7.213429088637316,Structured data,B,False
+146040,Staf,6,39,HBO,8.657009168609074,Other,B,False
+57408,DevOps Engineer,1,24,MBO,6.736529051672844,ML-Ops,B,False
+29093,Data Engineer,6,29,PhD,6.794327023911135,Data pipelines,B,False
+193347,Data Scientist,2,42,WO,6.448427320509933,Agent-based modelling,B,False
+168550,Staf,13,48,HBO,6.937117876439402,Other,C,False
+13492,Data Scientist,0,45,HBO,9.265821940277833,Generalist,B,False
+41856,Data Scientist,0,31,MBO,7.41226157837711,Structured data,A,False
+81849,Data Scientist,11,39,MBO,7.105560174287368,Geo,B,False
+105217,Staf,10,33,HBO,7.238598752240088,Other,C,False
+17006,DevOps Engineer,12,39,HBO,8.626448030175721,ML-Ops,B,False
+94445,Data Engineer,5,28,HBO,7.10906502820609,Data storage,B,False
+201744,Staf,10,33,WO,8.500080633659785,Other,C,False
+100157,Staf,11,39,HBO,6.925461890145078,Other,A,False
+60899,Data Scientist,1,24,WO,7.180611553892341,Generalist,B,False
+81260,Data Engineer,4,35,WO,7.51994806137143,Data storage,B,False
+215118,Data Scientist,0,30,HBO,7.4810671244677485,Generalist,B,False
+153139,Data Engineer,9,32,PhD,7.270458383638979,Generalist,A,False
+237604,DevOps Engineer,12,35,HBO,6.538121767199134,ML-Ops,B,False
+145130,Data Engineer,3,36,HBO,6.3520969197591155,Data storage,B,False
+84977,DevOps Engineer,1,33,WO,8.219268804848397,ML-Ops,B,False
+226711,Staf,4,41,HBO,7.292850225797178,Other,C,False
+214236,Data Scientist,6,31,PhD,8.518639723894566,Geo,A,False
+173691,DevOps Engineer,7,30,HBO,7.704458236418134,ML-Ops,B,False
+27611,Data Engineer,4,27,HBO,7.029276883048766,Data storage,C,False
+121954,Data Engineer,7,30,MBO,5.899171769193776,Data storage,B,False
+22515,Data Scientist,10,36,HBO,5.3364695537255225,Generalist,B,False
+179656,Data Engineer,0,34,MBO,6.3588790973182086,Data storage,B,False
+22993,Staf,10,43,MBO,7.352772168714031,Other,B,False
+196081,Data Engineer,6,47,HBO,7.508101412329513,Generalist,B,False
+28833,Data Engineer,5,28,HBO,6.06554407222213,Generalist,B,False
+91391,DevOps Engineer,14,38,HBO,8.21192886186605,ML-Ops,B,False
+20588,Staf,8,43,MBO,7.3897916979655776,Other,A,False
+223908,Staf,2,28,PhD,6.006114131295634,Other,B,False
+60285,Data Scientist,5,46,MBO,6.32671272270923,Generalist,B,False
+51882,DevOps Engineer,10,43,PhD,8.180233518499335,ML-Ops,B,False
+49041,Data Engineer,4,27,HBO,6.391728234943295,Data storage,B,False
+36748,Data Engineer,5,37,PhD,6.811587646936523,Generalist,B,False
+78434,DevOps Engineer,0,31,MBO,7.730328219643649,ML-Ops,B,False
+130953,Data Scientist,3,26,WO,4.848192303505243,Generalist,B,False
+119047,Data Engineer,16,39,PhD,7.891412218244063,Data storage,B,False
+58483,Data Scientist,14,47,PhD,6.046264710268592,Generalist,B,False
+192967,DevOps Engineer,8,31,MBO,5.895794937691335,ML-Ops,B,False
+201099,Data Scientist,12,42,WO,7.112465746059615,Generalist,A,False
+235030,Data Scientist,2,25,MBO,8.333283771835436,Generalist,B,False
+202873,Staf,12,35,HBO,5.039937256397165,Other,A,False
+192166,Data Scientist,4,28,WO,7.24439002216608,Generalist,A,False
+13037,Data Scientist,7,31,HBO,8.392049197103814,Generalist,B,False
+95253,Data Scientist,1,28,HBO,6.1887359767260826,Vision,B,False
+117599,Data Scientist,8,47,HBO,8.802702680407075,Structured data,A,False
+77465,Staf,11,34,HBO,7.599287162693016,Other,C,False
+65186,DevOps Engineer,12,39,MBO,7.259744931814761,ML-Ops,B,False
+134596,Data Engineer,7,44,HBO,7.721165078231768,Data pipelines,B,False
+59062,Staf,1,24,MBO,7.54165386337025,Other,C,False
+212734,Data Engineer,4,33,WO,7.79419065465936,Data pipelines,B,False
+54763,Staf,2,25,HBO,6.226536838099077,Other,A,False
+214682,DevOps Engineer,1,25,PhD,4.479052813325744,ML-Ops,C,False
+23545,Data Scientist,3,30,PhD,6.966564479242333,NLP,B,False
+21131,Data Scientist,14,45,PhD,6.588439801086406,Geo,B,False
+73842,Data Engineer,10,51,WO,6.0294538310607,Data pipelines,B,False
+59906,Data Engineer,4,27,MBO,8.862441600661686,Data storage,B,False
+210960,Data Scientist,12,35,PhD,6.38837861554604,NLP,A,False
+14696,DevOps Engineer,7,30,MBO,7.4493573694408735,ML-Ops,B,False
+91928,Data Engineer,10,33,HBO,6.725983278366287,Data storage,B,False
+166747,Data Scientist,4,27,HBO,7.4375655737515025,Geo,A,False
+203889,Data Engineer,0,23,WO,8.268943890079317,Data storage,B,False
+156117,Data Engineer,4,38,HBO,6.551523759794959,Data storage,B,False
+107643,Staf,5,28,PhD,7.039080807942748,Other,A,False
+230784,Data Scientist,11,37,MBO,6.675499147228655,Vision,B,False
+34474,Staf,13,37,MBO,6.752916718396666,Other,A,False
+34455,Staf,7,44,WO,8.641223611493325,Other,B,False
+151752,Data Engineer,4,32,PhD,6.941058573909793,Data pipelines,B,False
+86095,Data Scientist,10,44,PhD,6.107464941535916,Structured data,B,False
+84524,DevOps Engineer,3,26,PhD,8.880331749208588,ML-Ops,B,False
+197392,Data Engineer,10,33,HBO,6.6050605902975095,Data pipelines,B,False
+211361,Data Engineer,12,35,MBO,6.356567159376597,Data pipelines,A,False
+36973,Data Engineer,3,49,PhD,8.092205203823715,Data pipelines,B,False
+123493,Data Scientist,1,24,WO,7.448774093617191,Generalist,A,False
+28491,Staf,1,22,HBO,10.0,Other,A,True
+105508,DevOps Engineer,4,39,WO,4.749021941347623,ML-Ops,A,False
+61743,DevOps Engineer,1,29,MBO,7.547188802715709,ML-Ops,B,False
+10416,Staf,3,38,HBO,8.000516654330454,Other,C,False
+47892,Data Scientist,0,40,WO,6.88664122731812,Agent-based modelling,A,False
+78151,Staf,2,25,PhD,6.675829754931888,Other,C,False
+205697,Staf,5,35,PhD,8.777221672496307,Other,A,False
+20634,Data Scientist,2,27,MBO,6.473464684492868,Geo,B,False
+58855,Staf,12,35,HBO,6.573672619317093,Other,B,False
+50938,Data Scientist,7,42,MBO,7.841433110654227,Generalist,B,False
+60768,Data Engineer,5,28,MBO,6.868586276369517,Generalist,B,False
+36839,DevOps Engineer,7,49,MBO,8.568046467945358,ML-Ops,B,False
+198798,Data Scientist,5,28,PhD,8.276109150348193,Vision,A,False
+78586,Data Scientist,3,26,MBO,7.148648745933407,Generalist,B,False
+219416,DevOps Engineer,8,45,MBO,6.015506045449497,ML-Ops,A,False
+99047,Staf,8,32,MBO,7.052267638746705,Other,B,False
+107053,Staf,10,33,PhD,5.395043507528106,Other,B,False
+173875,Data Engineer,2,25,WO,7.940779308147797,Generalist,B,False
+234808,Data Engineer,4,33,MBO,6.275884794728764,Data storage,A,False
+139404,Data Scientist,14,45,HBO,6.244631041083947,Vision,A,False
+90398,Data Scientist,6,37,MBO,5.525456589544425,Geo,B,False
+150634,Data Scientist,1,35,PhD,7.302753532433148,Vision,B,False
+122863,Data Engineer,0,34,MBO,6.215445383981601,Data pipelines,C,False
+24362,Data Scientist,15,49,PhD,5.687418933197334,Generalist,B,False
+100542,DevOps Engineer,3,37,WO,8.404085699806108,ML-Ops,B,False
+208281,Data Engineer,7,37,HBO,6.260936378401189,Data pipelines,A,False
+217946,Data Scientist,12,46,PhD,7.55122945862673,Geo,A,False
+154268,Data Scientist,4,37,PhD,7.377663033446828,NLP,A,False
+135320,Staf,11,40,MBO,6.713406004181346,Other,B,False
+231427,DevOps Engineer,4,32,HBO,7.194932895507167,ML-Ops,B,False
+193442,Data Scientist,3,26,PhD,5.734860811410036,Generalist,B,False
+138064,Data Engineer,12,44,PhD,6.820845510965992,Data storage,B,False
+60471,Data Scientist,2,25,PhD,7.361328360454894,Generalist,A,False
+127670,Data Scientist,10,48,WO,5.960894008692923,Agent-based modelling,B,False
+189221,DevOps Engineer,0,23,MBO,7.71976093849721,ML-Ops,B,False
+205074,Data Scientist,4,47,HBO,7.923150180009631,Vision,B,False
+165310,DevOps Engineer,11,44,WO,7.352793196148256,ML-Ops,B,False
+168828,Data Scientist,7,49,WO,6.800302226433028,Generalist,B,False
+232115,Data Engineer,3,30,HBO,7.24163846686499,Data pipelines,B,False
+184593,Data Scientist,8,31,HBO,6.62703384905832,Geo,A,False
+176181,Data Scientist,1,29,PhD,6.39851794074931,Agent-based modelling,B,False
+130566,DevOps Engineer,0,32,HBO,7.829612347422052,ML-Ops,B,False
+75952,Data Scientist,4,28,WO,6.595821482097524,Generalist,A,False
+23633,Data Scientist,1,24,PhD,7.920111896383805,NLP,B,False
+162096,DevOps Engineer,8,31,MBO,6.397064722910881,ML-Ops,B,False
+169855,Data Scientist,5,43,MBO,5.500146090270589,Geo,C,False
+200540,Data Scientist,0,23,MBO,6.06106088139605,NLP,B,False
+186343,Staf,10,34,MBO,7.270148368266716,Other,A,False
+47665,Data Engineer,0,53,PhD,4.174302005877456,Data pipelines,B,False
+166105,Data Engineer,16,54,HBO,7.534444985988231,Generalist,A,False
+114722,Data Scientist,3,39,HBO,7.129308805898168,Generalist,B,False
+149472,Staf,6,29,PhD,6.764581052038288,Other,A,False
+150757,Data Scientist,8,41,HBO,9.437115343804898,Agent-based modelling,C,False
+31496,Data Engineer,2,25,WO,4.68672153173651,Generalist,B,False
+14718,Staf,3,36,HBO,7.067549280665486,Other,B,False
+57682,Data Engineer,4,27,PhD,8.269844564829413,Generalist,A,False
+50689,Data Scientist,8,32,PhD,7.46824075905421,Structured data,B,False
+94858,Data Scientist,10,36,PhD,5.421061117808534,Agent-based modelling,B,False
+156152,Staf,5,44,MBO,6.062973367503459,Other,A,False
+44835,Data Scientist,15,41,HBO,6.240348066245275,Generalist,B,False
+128738,Staf,3,26,MBO,8.425494650170888,Other,B,False
+174160,Data Scientist,7,40,WO,6.830111224325092,Generalist,B,False
+174577,DevOps Engineer,7,50,MBO,5.792734637463413,ML-Ops,B,False
+43313,Staf,1,22,HBO,6.500321803147411,Other,C,False
+37801,Data Engineer,7,32,MBO,7.220508806771933,Data storage,C,False
+71626,Data Engineer,8,45,HBO,7.514771000989434,Data storage,B,False
+21980,DevOps Engineer,8,31,WO,8.24872031925462,ML-Ops,C,False
+228614,Data Engineer,5,28,WO,5.985853680955157,Generalist,A,False
+181141,Data Engineer,12,42,WO,8.346012890964746,Generalist,B,False
+207496,Data Engineer,0,23,HBO,5.434865857374942,Generalist,A,False
+136822,Data Scientist,1,24,HBO,5.821923675358281,NLP,B,False
+166998,Data Scientist,8,44,HBO,5.494971284558665,Generalist,B,False
+112536,Data Scientist,10,33,HBO,6.24425776378544,Structured data,B,False
+177431,Data Engineer,0,24,HBO,6.777128195811366,Data storage,A,False
+51491,Data Engineer,1,32,WO,6.796662484516863,Data storage,A,False
+203567,DevOps Engineer,4,28,WO,7.104950754440957,ML-Ops,B,False
+179746,Staf,4,27,WO,6.438244572609584,Other,A,False
+101674,Data Scientist,9,53,PhD,6.225365249930833,Structured data,B,False
+98527,DevOps Engineer,0,25,HBO,6.749034271101028,ML-Ops,A,False
+67572,Data Engineer,1,24,PhD,7.6859067332602615,Data storage,B,False
+113004,Data Engineer,13,36,HBO,5.059687738062548,Generalist,B,False
+149729,Staf,9,46,HBO,8.771294526800386,Other,A,False
+52424,Data Scientist,9,36,MBO,6.596527827546958,Generalist,B,False
+92318,Data Scientist,4,27,PhD,6.297216116985598,Geo,B,False
+142846,DevOps Engineer,13,38,HBO,7.91958463417772,ML-Ops,B,False
+30714,DevOps Engineer,6,29,PhD,5.174181727666751,ML-Ops,B,False
+159821,Data Scientist,13,43,WO,6.180873032089078,Vision,B,False
+120887,Data Scientist,0,54,WO,8.883694096361582,Geo,A,False
+161027,Data Engineer,5,28,HBO,7.60100681930748,Generalist,B,False
+111265,Data Engineer,9,33,PhD,8.085415896459963,Data storage,B,False
+156549,Data Scientist,12,38,PhD,8.745706614886215,Generalist,A,False
+28914,Staf,5,28,PhD,7.314386492221042,Other,B,False
+176124,Data Scientist,9,47,PhD,7.243547419210809,Generalist,B,False
+172404,Data Scientist,12,35,MBO,6.616616642832398,Agent-based modelling,B,False
+41202,Data Scientist,10,33,HBO,4.943657029838893,NLP,B,False
+155454,DevOps Engineer,2,36,WO,8.045545326974002,ML-Ops,B,False
+164703,Data Scientist,12,46,MBO,7.839887929043263,Agent-based modelling,B,False
+211163,Data Scientist,9,52,PhD,5.362689155302597,Generalist,A,False
+139637,Staf,8,31,MBO,9.058285430998037,Other,A,False
+131780,Staf,6,29,HBO,6.087625369013522,Other,C,False
+180625,Data Scientist,12,40,MBO,7.750046066317696,Generalist,B,False
+138567,Data Scientist,5,28,WO,6.557861106402357,Structured data,C,False
+146653,Data Scientist,3,26,HBO,6.473853153500222,Generalist,B,False
+168103,Data Scientist,1,39,PhD,6.853019871332802,NLP,B,False
+167027,Data Engineer,15,54,MBO,6.0916468483193995,Generalist,A,False
+228683,Data Engineer,2,44,WO,6.91899840025141,Generalist,B,False
+196581,Data Engineer,6,33,HBO,5.428996694453437,Generalist,B,False
+224561,Staf,2,33,MBO,7.018740251161578,Other,C,False
+222737,Data Scientist,4,27,MBO,7.853231341714465,Vision,B,False
+159116,DevOps Engineer,6,31,WO,8.16360867154777,ML-Ops,B,False
+29976,Data Scientist,3,45,PhD,7.175581233358111,NLP,B,False
+81457,DevOps Engineer,0,23,MBO,7.617748859934009,ML-Ops,B,False
+187671,Data Engineer,6,31,WO,6.509773151041694,Data pipelines,C,False
+183582,Data Engineer,7,43,WO,7.686997326156574,Generalist,B,False
+173470,Staf,2,33,MBO,6.890557440200475,Other,C,False
+85484,Staf,11,34,PhD,6.896029079067901,Other,B,False
+151056,Data Scientist,9,38,WO,6.062211951709973,Generalist,A,False
+237193,DevOps Engineer,7,39,MBO,8.208553436829172,ML-Ops,A,False
+28958,Data Scientist,0,36,HBO,7.068160127650055,Vision,A,False
+154942,Data Scientist,7,31,WO,8.78855962006095,Generalist,B,False
+154491,Data Scientist,1,48,PhD,5.91885750227715,NLP,B,False
+97743,Data Engineer,2,44,MBO,8.362995169758948,Data storage,B,False
+234279,DevOps Engineer,1,42,MBO,7.170310504935993,ML-Ops,C,False
+215977,DevOps Engineer,5,30,HBO,6.73963674710865,ML-Ops,B,False
+137473,Data Scientist,0,36,PhD,8.16404690225242,Generalist,C,False
+48499,Staf,8,31,HBO,6.99923315873161,Other,C,False
+215010,Staf,2,25,MBO,6.268627950948177,Other,C,False
+89619,Data Scientist,14,37,HBO,7.972232656634288,Generalist,A,False
+97331,Data Scientist,8,49,PhD,6.352955860728,Agent-based modelling,B,False
+72400,Data Scientist,9,32,MBO,9.11404832583374,Generalist,A,False
+113635,Data Engineer,7,30,HBO,6.860562409310163,Data pipelines,B,False
+83775,Data Scientist,0,23,PhD,7.948267337325508,Generalist,B,False
+12114,Staf,0,47,PhD,6.745272285240456,Other,A,False
+10103,Staf,1,24,HBO,7.973284040073168,Other,C,False
+27163,Staf,1,24,HBO,4.623899891512808,Other,B,False
+223321,Staf,6,29,WO,7.046441388474816,Other,B,False
+197244,Data Engineer,2,25,HBO,6.93075417373522,Data pipelines,B,False
+231099,DevOps Engineer,3,48,WO,8.919145634358,ML-Ops,B,False
+159491,DevOps Engineer,16,48,HBO,7.917844848851801,ML-Ops,A,False
+14866,DevOps Engineer,5,54,MBO,7.569264807318937,ML-Ops,A,False
+121210,Data Scientist,4,35,MBO,8.58760650921224,Generalist,B,False
+230676,Data Engineer,11,40,HBO,8.191272547941422,Data storage,B,False
+157149,Data Scientist,2,25,MBO,5.907080904344233,Geo,C,False
+227864,DevOps Engineer,2,25,PhD,7.222346680269626,ML-Ops,A,False
+161343,Data Scientist,4,45,HBO,7.793114701811151,NLP,B,False
+42205,Data Engineer,7,36,PhD,5.93702784778776,Data pipelines,A,False
+89127,DevOps Engineer,9,37,HBO,7.226912823641309,ML-Ops,B,False
+64443,Data Scientist,11,34,PhD,8.065074695320112,Generalist,A,False
+104768,Data Scientist,4,42,HBO,4.152416495268069,Generalist,B,False
+132497,Data Scientist,1,24,WO,6.5305635495655485,Vision,A,False
+156450,Data Scientist,6,29,PhD,7.14651319074169,Agent-based modelling,B,False
+187911,Data Scientist,7,47,HBO,7.784568124273463,Geo,B,False
+192530,DevOps Engineer,0,29,PhD,8.120281362378902,ML-Ops,B,False
+161488,Data Engineer,1,24,HBO,6.331271590690912,Data storage,B,False
+101058,Data Scientist,4,52,MBO,6.4607222095301005,Generalist,B,False
+63632,Data Scientist,1,22,WO,5.608420725962376,Generalist,B,False
+46092,Data Scientist,2,33,MBO,7.093048940790638,Agent-based modelling,A,False
+106138,Data Scientist,0,23,HBO,6.094642437141854,Agent-based modelling,A,False
+140567,Data Scientist,7,30,WO,7.811451192252802,Generalist,B,False
+96474,Data Engineer,10,39,WO,7.658821921083813,Generalist,B,False
+59740,Staf,8,41,HBO,7.281462826950509,Other,A,False
+193990,DevOps Engineer,4,48,WO,4.954334254839415,ML-Ops,B,False
+114224,DevOps Engineer,6,43,HBO,4.645136826991485,ML-Ops,B,False
+76710,Data Scientist,3,26,HBO,7.623326152087796,NLP,A,False
+122751,Data Scientist,0,48,MBO,7.326479492448682,NLP,B,False
+97770,Data Scientist,6,29,WO,6.751116664760952,Generalist,B,False
+173488,Data Scientist,5,29,WO,6.196474117187336,Generalist,B,False
+196581,Data Scientist,4,27,MBO,9.072813567886651,Generalist,B,False
+54969,Data Scientist,3,26,MBO,7.317442129109375,Geo,B,False
+53185,Data Scientist,4,45,WO,6.665819545230154,Generalist,B,False
+77949,Data Scientist,1,31,HBO,7.170990273261997,Geo,B,False
+153845,DevOps Engineer,3,46,PhD,7.25401398786631,ML-Ops,B,False
+86564,Data Scientist,3,26,WO,6.267219433862371,Structured data,A,False
+154707,Data Scientist,11,38,MBO,6.146249284334052,Vision,A,False
+165947,Staf,1,22,HBO,5.753202356953418,Other,A,False
+142420,Data Scientist,4,32,PhD,7.494867073447184,Vision,A,False
+24905,Staf,7,38,MBO,7.754141189496168,Other,B,False
+84234,Data Scientist,7,54,MBO,6.843328027768693,Generalist,B,False
+159965,Data Scientist,8,41,PhD,5.60420489216188,NLP,A,False
+27540,Data Engineer,11,35,WO,6.678364786673549,Data pipelines,B,False
+228252,Staf,8,47,HBO,7.053711706908086,Other,A,False
+32422,DevOps Engineer,7,30,HBO,6.799725850640724,ML-Ops,C,False
+106229,Data Engineer,8,51,PhD,6.728938531363033,Generalist,B,False
+167009,Data Engineer,9,37,PhD,6.7737943387045565,Data pipelines,B,False
+192139,Staf,2,25,WO,8.097418087700037,Other,B,False
+19738,Data Engineer,1,51,MBO,7.5627572922876825,Data storage,A,False
+147344,Data Scientist,3,35,MBO,6.630748831410199,Generalist,B,False
+205410,Staf,8,44,MBO,8.116340238612665,Other,B,False
+47997,Data Engineer,8,33,HBO,6.287957574854045,Data storage,A,False
+216911,Data Scientist,11,43,HBO,6.872451258661988,Agent-based modelling,A,False
+50554,Data Scientist,5,32,WO,6.359119256359817,Generalist,C,False
+119530,Data Scientist,5,30,WO,7.10726017189741,Structured data,B,False
+132849,Data Engineer,1,29,WO,6.742309422380548,Data pipelines,B,False
+138161,Data Engineer,4,31,HBO,4.864389390096264,Data storage,A,False
+199842,Data Scientist,9,32,MBO,6.71622241672093,Structured data,B,False
+147059,Data Scientist,8,31,WO,7.012713732519451,Generalist,B,False
+44772,Staf,1,32,WO,6.702991617122102,Other,A,False
+69329,Data Scientist,12,35,HBO,7.091239801719234,Structured data,B,False
+239749,Data Scientist,6,38,PhD,6.899780979646609,NLP,B,False
+127853,Data Engineer,2,25,PhD,8.055031842965805,Data storage,A,False
+151232,Staf,7,30,WO,6.366765290525563,Other,C,False
+12881,Data Engineer,6,29,WO,6.861167759165658,Data storage,B,False
+111281,Staf,7,30,MBO,6.644676770088167,Other,A,False
+142113,Data Engineer,3,26,PhD,7.161542682723117,Data pipelines,B,False
+176467,DevOps Engineer,7,41,MBO,6.498579901655475,ML-Ops,A,False
+111906,Staf,2,34,HBO,7.612373689441944,Other,A,False
+179452,Data Scientist,6,37,WO,7.510843389798244,Agent-based modelling,C,False
+40780,DevOps Engineer,9,32,MBO,8.82492897233609,ML-Ops,B,False
+100510,Data Scientist,4,44,WO,7.030953252290416,Vision,A,False
+157202,DevOps Engineer,1,24,WO,8.198750491091463,ML-Ops,B,False
+192937,Data Scientist,2,44,HBO,5.363887423671598,NLP,B,False
+198241,Staf,10,33,HBO,7.623405285452718,Other,C,False
+185891,Staf,9,40,WO,6.94095737185229,Other,B,False
+116884,Staf,0,37,MBO,5.593992779116012,Other,B,False
+130808,Data Scientist,7,50,PhD,8.927871409498755,Generalist,B,False
+79252,Data Scientist,5,28,WO,6.00509476352858,Generalist,B,False
+209932,Staf,3,34,MBO,7.070242437030276,Other,B,False
+106247,Data Scientist,4,34,PhD,6.463928048165954,Vision,A,False
+122244,Data Scientist,11,36,WO,8.838444335710943,Generalist,A,False
+11094,Data Scientist,2,36,HBO,5.056786632385356,Agent-based modelling,A,False
+223924,Staf,7,39,WO,8.436617379834752,Other,B,False
+210237,Staf,2,25,PhD,7.513057764773254,Other,B,False
+149398,Staf,6,29,PhD,6.035827839546553,Other,A,False
+180488,DevOps Engineer,10,49,HBO,7.189129085430325,ML-Ops,B,False
+31295,Data Scientist,7,34,PhD,7.186035752142358,Geo,C,False
+207842,Staf,10,39,PhD,6.276363039415627,Other,B,False
+59915,Data Engineer,9,36,PhD,6.942421806192894,Generalist,B,False
+62055,Data Scientist,0,29,WO,6.758097428898408,Generalist,B,False
+195129,Data Scientist,8,31,WO,8.736098087096044,Generalist,B,False
+183316,Data Engineer,19,46,WO,6.6613499308714275,Generalist,B,False
+78160,Data Scientist,4,37,WO,8.645988049454772,Agent-based modelling,B,False
+115157,Data Scientist,5,30,MBO,7.154862945725291,Agent-based modelling,B,False
+202519,Data Engineer,13,36,MBO,8.40014357293467,Data pipelines,B,False
+103827,Data Scientist,7,42,PhD,8.265117937501858,Generalist,A,False
+154191,Data Engineer,8,31,WO,6.7452316034149735,Generalist,B,False
+108807,Data Scientist,2,26,MBO,6.213297181672997,Geo,B,False
+119742,Data Engineer,8,31,PhD,6.217330062103931,Data storage,B,False
+156590,Staf,7,30,MBO,4.764893869181773,Other,A,False
+100189,DevOps Engineer,6,35,PhD,6.87736707602807,ML-Ops,B,False
+189708,Data Engineer,12,44,WO,6.00243409449749,Data pipelines,B,False
+43721,Staf,9,32,WO,8.308351093912576,Other,B,False
+170841,Data Engineer,10,34,PhD,7.214038661212918,Data storage,B,False
+205739,Staf,1,45,HBO,6.540897759203999,Other,B,False
+210646,Data Scientist,0,53,PhD,7.887534161896383,Generalist,A,False
+155431,DevOps Engineer,0,23,WO,7.807374880896908,ML-Ops,A,False
+134733,Staf,10,40,PhD,6.231917267413568,Other,A,False
+10795,Staf,12,38,WO,6.974558094952041,Other,B,False
+151326,Data Engineer,12,35,HBO,6.122066995129027,Data storage,B,False
+173683,DevOps Engineer,4,39,PhD,9.66697580760451,ML-Ops,A,False
+114219,Data Scientist,6,29,PhD,5.560618910294251,Generalist,A,False
+220897,Data Scientist,0,23,WO,6.698841694280105,Generalist,B,False
+218734,Data Engineer,16,50,MBO,7.89475997686499,Generalist,A,False
+131389,DevOps Engineer,0,23,WO,6.0318449606831575,ML-Ops,C,False
+158657,Data Scientist,3,48,WO,6.99108271438672,Generalist,B,False
+163136,Data Scientist,10,36,WO,5.406733879283248,Generalist,A,False
+150552,DevOps Engineer,3,28,WO,7.841741946221581,ML-Ops,A,False
+62018,DevOps Engineer,8,40,PhD,6.563936944813063,ML-Ops,A,False
+83702,DevOps Engineer,12,35,WO,6.785919600140676,ML-Ops,B,False
+121013,Data Scientist,8,31,PhD,6.974096095126408,Vision,B,False
+159536,DevOps Engineer,3,40,MBO,8.305686486989922,ML-Ops,A,False
+140177,Staf,9,39,WO,8.07777987657641,Other,B,False
+234263,Data Scientist,2,40,PhD,6.357557433247381,NLP,A,False
+239538,Staf,11,34,PhD,7.816519400042415,Other,B,False
+187673,DevOps Engineer,9,32,WO,7.077542684415176,ML-Ops,B,False
+56109,Data Scientist,7,36,PhD,7.243252878400291,Agent-based modelling,B,False
+214528,Staf,2,37,WO,5.882843522030072,Other,B,False
+108951,DevOps Engineer,6,46,HBO,6.216470190183307,ML-Ops,B,False
+182474,Data Scientist,7,44,HBO,8.139628459472565,NLP,B,False
+88979,DevOps Engineer,4,38,PhD,6.772709530868124,ML-Ops,B,False
+139152,Staf,10,34,PhD,7.257959452289496,Other,C,False
+72021,DevOps Engineer,3,35,WO,8.544787010334515,ML-Ops,B,False
+102562,Data Engineer,9,40,HBO,6.8140043248994235,Data pipelines,B,False
+85464,Staf,1,24,PhD,6.403613077938569,Other,A,False
+135340,Data Scientist,6,29,MBO,5.0713831308942225,Generalist,B,False
+188141,DevOps Engineer,8,49,WO,9.7030059186897,ML-Ops,A,False
+107964,DevOps Engineer,4,37,PhD,6.394550429711419,ML-Ops,B,False
+98344,DevOps Engineer,5,39,WO,7.851646785668476,ML-Ops,B,False
+42771,Staf,8,47,HBO,5.355985872662905,Other,C,False
+72144,Staf,8,31,HBO,6.446761246829697,Other,B,False
+127929,Data Scientist,9,32,MBO,7.5379925062849695,Structured data,B,False
+45553,Data Scientist,1,41,MBO,5.734277971947642,Structured data,B,False
+157526,DevOps Engineer,1,24,HBO,7.5093514411584446,ML-Ops,B,False
+207551,Data Scientist,7,30,HBO,7.492999823678461,Generalist,C,False
+220246,Data Scientist,7,39,MBO,7.675100293053659,NLP,C,False
+139378,Staf,7,30,PhD,6.786975537883391,Other,B,False
+208460,Data Engineer,4,31,MBO,8.247934548638243,Data pipelines,B,False
+202113,Data Scientist,0,23,PhD,6.470251266062821,Generalist,B,False
+117818,Data Scientist,12,39,PhD,7.03793043235552,Agent-based modelling,A,False
+125195,Staf,2,33,PhD,7.401203601502128,Other,A,False
+132757,Data Engineer,8,34,PhD,7.907361750138562,Data storage,B,False
+118137,Data Engineer,2,25,WO,4.975134244968895,Generalist,B,False
+216050,Staf,13,44,PhD,7.88902105603246,Other,B,False
+20164,Data Scientist,5,28,MBO,6.981987444594918,Vision,B,False
+220484,DevOps Engineer,4,51,HBO,6.569792346705697,ML-Ops,B,False
+126998,Staf,8,37,MBO,7.554071689499372,Other,C,False
+77287,Data Scientist,9,52,HBO,6.568573485800583,NLP,A,False
+122641,Staf,10,43,MBO,5.32746426398965,Other,A,False
+181352,Data Engineer,10,34,WO,8.205693906200493,Generalist,C,False
+219517,Staf,8,43,HBO,5.922180216941777,Other,C,False
+237076,Data Scientist,12,49,MBO,7.052895895494102,Agent-based modelling,A,False
+228448,Data Scientist,1,24,MBO,6.889679529273488,Vision,B,False
+228719,Staf,1,27,HBO,8.302872341266346,Other,A,True
+114735,Data Engineer,11,43,MBO,6.9835515684008085,Data pipelines,A,False
+147378,DevOps Engineer,7,38,MBO,7.333879864435024,ML-Ops,B,False
+213643,Data Scientist,11,34,HBO,4.548573455295789,Vision,B,False
+205917,DevOps Engineer,8,35,PhD,7.531022851268569,ML-Ops,A,False
+118838,Data Engineer,6,31,MBO,7.5572811072001365,Data storage,B,False
+105168,Data Scientist,1,37,MBO,5.4412094029523175,NLP,A,False
+188974,Staf,5,28,HBO,5.910395232369559,Other,C,False
+89031,Data Scientist,7,30,MBO,5.974351384601087,Generalist,A,False
+42102,Data Engineer,2,37,MBO,7.8141542632092245,Data storage,B,False
+170159,Data Scientist,2,53,MBO,6.132225776659569,Generalist,B,False
+88218,Data Engineer,10,35,WO,6.539169488235526,Data pipelines,B,False
+202313,Data Engineer,9,45,PhD,7.7769586894427105,Data pipelines,A,False
+147659,Staf,3,26,WO,6.7452153644073665,Other,C,False
+186035,DevOps Engineer,2,25,MBO,6.798777653458343,ML-Ops,A,False
+107512,Data Engineer,13,36,WO,7.215286268960527,Data storage,B,False
+209150,Data Scientist,14,42,MBO,7.691028235498893,Agent-based modelling,A,False
+158007,Data Scientist,10,33,PhD,6.853767174151567,Agent-based modelling,B,False
+235992,Staf,11,36,HBO,7.860448733096501,Other,C,False
+12236,Data Scientist,1,53,HBO,4.517073297619662,Agent-based modelling,B,False
+56287,Data Scientist,0,23,HBO,6.356995110001656,Generalist,A,False
+34753,Data Scientist,1,24,WO,7.733980789867129,Geo,B,False
+26793,Data Scientist,1,27,PhD,7.627802142415136,Generalist,A,False
+171842,Staf,10,33,HBO,8.193633464665064,Other,B,False
+230307,Staf,6,29,WO,8.33637721749333,Other,C,False
+60382,Staf,2,25,PhD,4.940208235981736,Other,A,False
+111437,Data Scientist,5,45,HBO,7.194644113254064,Structured data,B,False
+98173,Data Scientist,3,35,MBO,7.437064165520327,Geo,B,False
+54042,Data Engineer,0,23,PhD,6.014777809998848,Data storage,A,False
+92695,Data Engineer,8,31,PhD,7.264166825382634,Data storage,A,False
+109620,Staf,9,46,PhD,8.290820508460886,Other,B,False
+176567,DevOps Engineer,0,28,HBO,8.309262820369678,ML-Ops,A,False
+233576,DevOps Engineer,9,37,WO,6.17583079912862,ML-Ops,B,False
+64313,Data Engineer,4,45,MBO,7.989092950535494,Data pipelines,A,False
+115195,Data Scientist,0,32,HBO,5.7505140673294886,Generalist,B,False
+43017,DevOps Engineer,13,36,PhD,4.966302532165747,ML-Ops,B,False
+146621,Data Scientist,3,30,PhD,7.097521973575466,Generalist,B,False
+114481,Data Engineer,1,33,MBO,5.940504161954019,Generalist,A,False
+208363,Staf,7,30,MBO,6.585816207571099,Other,C,False
+92360,Data Scientist,6,29,WO,7.54871811703817,Generalist,B,False
+163877,Data Engineer,6,33,WO,9.653348570697222,Data pipelines,B,False
+82822,DevOps Engineer,0,23,PhD,5.294746631186184,ML-Ops,B,False
+29828,Staf,7,30,WO,6.386306950690943,Other,C,False
+27440,Staf,4,27,HBO,7.392144643642056,Other,A,False
+11893,Data Scientist,8,37,WO,6.788062264255676,Structured data,B,False
+54926,Data Scientist,5,38,HBO,6.786473584810373,Generalist,B,False
+209595,Data Scientist,7,30,HBO,7.477158765995443,Structured data,B,False
+48958,Data Engineer,4,39,HBO,6.928957033815982,Data pipelines,A,False
+28721,DevOps Engineer,9,43,WO,7.5565607247578725,ML-Ops,B,False
+34869,Data Engineer,10,63,HBO,5.971111884780335,Data pipelines,A,False
+70313,DevOps Engineer,6,44,WO,7.8248631474355035,ML-Ops,B,False
+21452,Data Scientist,3,32,HBO,5.781158467941486,Agent-based modelling,B,False
+152104,Data Scientist,16,41,MBO,7.0659066347268915,Agent-based modelling,A,False
+135401,Data Scientist,4,34,HBO,6.38330108044694,Generalist,B,False
+21214,Data Scientist,6,29,WO,5.760003079540313,Generalist,B,False
+230375,Data Scientist,2,33,MBO,7.393794593958498,Generalist,B,False
+110393,DevOps Engineer,0,54,MBO,6.3640034574087645,ML-Ops,B,False
+47733,Data Engineer,8,35,MBO,6.734864541379992,Generalist,B,False
+168737,Data Engineer,16,53,MBO,6.172774494760029,Generalist,B,False
+26080,DevOps Engineer,6,43,HBO,7.644189802164406,ML-Ops,A,False
+56127,Data Scientist,9,34,PhD,7.6787235363782775,Vision,B,False
+65674,Data Engineer,6,29,HBO,6.455009821643891,Data storage,B,False
+216227,Data Scientist,1,38,HBO,7.078480343537626,Geo,B,False
+169898,Data Scientist,2,27,WO,8.709366772755148,Generalist,B,False
+29674,Staf,4,34,MBO,5.417690688918642,Other,A,False
+15448,Data Scientist,6,45,MBO,8.711088013098927,NLP,A,False
+47676,Data Scientist,12,35,WO,5.570071841751377,Vision,B,False
+45983,DevOps Engineer,9,42,WO,6.040523544453057,ML-Ops,B,False
+181244,Data Scientist,1,22,WO,6.363001127112291,Geo,A,False
+136798,Data Scientist,1,37,PhD,6.479870000930585,NLP,C,False
+20216,Data Engineer,0,23,WO,6.352796322302543,Data storage,C,False
+205965,Staf,0,23,WO,7.043364717167516,Other,A,False
+24016,Data Scientist,5,28,WO,8.111743974375875,NLP,B,False
+219356,Staf,7,40,HBO,5.85431329330983,Other,C,False
+221255,Staf,4,27,HBO,7.532815150855577,Other,A,False
+39195,Staf,7,53,MBO,6.185515999288043,Other,A,False
+45967,Staf,7,42,HBO,5.077653208335687,Other,C,False
+109309,Staf,8,35,WO,7.093029086897768,Other,B,False
+185428,Data Engineer,2,60,PhD,7.064457120350102,Data pipelines,A,False
+194193,DevOps Engineer,12,42,WO,6.849004407763578,ML-Ops,B,False
+117226,Data Scientist,8,31,PhD,7.049634750925774,Generalist,B,False
+207122,Data Engineer,6,29,WO,8.3720441051491,Generalist,B,False
+204483,Data Scientist,1,34,PhD,8.573515693021777,Generalist,A,True
+50795,DevOps Engineer,0,57,MBO,7.122299571438738,ML-Ops,B,False
+213427,Staf,15,38,WO,7.792427746343866,Other,C,False
+68964,DevOps Engineer,5,28,PhD,6.9178509801481285,ML-Ops,A,False
+194195,DevOps Engineer,4,27,WO,6.426798873820399,ML-Ops,B,False
+227887,Data Scientist,8,51,MBO,7.8696074732485615,Generalist,A,False
+38055,Data Scientist,0,41,MBO,7.394414364165404,Generalist,B,False
+76504,Data Scientist,9,43,HBO,4.883448983253696,Generalist,B,False
+113657,Staf,2,48,HBO,6.949130610357123,Other,C,False
+171372,Data Scientist,8,36,WO,7.2336300883466835,Vision,B,False
+119467,Data Scientist,0,45,PhD,6.206234784083991,Geo,A,False
+44313,DevOps Engineer,5,39,PhD,6.491513133875814,ML-Ops,B,False
+131551,Data Engineer,8,34,PhD,6.848877753503302,Data storage,B,False
+142996,Data Scientist,0,23,HBO,7.755122864062976,Generalist,B,False
+21013,Data Scientist,9,42,MBO,8.223057525899286,Vision,B,False
+79348,Data Scientist,12,40,MBO,7.368595216564347,Generalist,B,False
+46533,Data Scientist,7,35,MBO,6.3032293480121115,Structured data,B,False
+123959,Data Scientist,3,26,MBO,5.214433525674532,Generalist,B,False
+190371,Data Scientist,10,36,HBO,6.17282322320452,Generalist,A,False
+22778,Data Scientist,2,32,HBO,8.885357792511964,Generalist,B,False
+82728,DevOps Engineer,11,40,MBO,7.949452603544682,ML-Ops,B,False
+134049,Data Scientist,21,52,WO,7.616054041351067,Generalist,B,False
+120147,Data Engineer,10,41,WO,6.2668003031306165,Data storage,B,False
+140942,Staf,2,25,PhD,7.82393928957744,Other,B,False
+44056,Data Scientist,4,27,PhD,6.747052009500387,Generalist,C,False
+66383,Data Engineer,7,45,PhD,7.049819369688134,Data pipelines,A,False
+232356,Data Scientist,10,36,WO,7.582948285908691,Generalist,B,False
+14214,Data Scientist,8,43,PhD,8.095680290509332,Generalist,A,False
+200567,Data Scientist,1,37,WO,7.695561455631605,Generalist,B,False
+29268,Data Scientist,5,33,HBO,7.60938552569883,Vision,B,False
+105578,Staf,0,28,MBO,8.79150439899667,Other,C,False
+97615,Data Engineer,5,28,WO,6.611520069055544,Generalist,A,False
+11483,DevOps Engineer,8,40,HBO,6.410705296038806,ML-Ops,A,False
+205365,Staf,1,25,WO,5.73103368558609,Other,A,False
+41083,Data Engineer,11,40,HBO,7.224652071260441,Data storage,B,False
+117281,Data Scientist,9,32,WO,5.84045382977725,Generalist,A,False
+21788,Staf,9,33,PhD,5.763460346459506,Other,B,False
+194645,Data Scientist,3,26,HBO,6.331244547790629,Generalist,A,False
+95868,DevOps Engineer,6,32,WO,8.013873729598066,ML-Ops,B,False
+177101,Data Engineer,15,38,WO,6.561449713871089,Data pipelines,B,False
+140484,DevOps Engineer,11,42,HBO,6.4957839491745535,ML-Ops,C,False
+53644,Data Engineer,1,22,PhD,7.086082017867164,Generalist,A,False
+99583,Data Scientist,0,23,HBO,5.988905622899539,Generalist,B,False
+62692,Data Engineer,5,33,HBO,8.437857944659733,Generalist,A,False
+112908,Staf,1,24,HBO,6.811519060182853,Other,A,False
+206855,Staf,18,44,MBO,7.303066172878821,Other,C,False
+159730,Data Scientist,5,28,PhD,5.052470726190054,Generalist,A,False
+218174,Data Engineer,12,39,HBO,8.275330790265507,Data pipelines,B,False
+237037,DevOps Engineer,1,45,PhD,7.07302693274955,ML-Ops,B,False
+56831,Data Engineer,5,28,WO,6.394231251409699,Generalist,A,False
+210102,Data Scientist,4,38,PhD,8.665388267766133,Generalist,B,False
+231210,Staf,9,32,HBO,6.941812963811099,Other,B,False
+158642,Staf,7,31,HBO,5.382268036469488,Other,C,False
+239993,DevOps Engineer,7,30,WO,5.113672233685134,ML-Ops,B,False
+206095,Data Scientist,9,47,WO,7.1911172190427335,Generalist,B,False
+160814,Data Scientist,3,29,MBO,5.505353813808117,Generalist,B,False
+235018,Staf,5,28,MBO,6.5166426655408225,Other,B,False
+68552,Data Scientist,11,34,WO,7.471169972080011,Structured data,B,False
+124376,DevOps Engineer,2,25,WO,7.535973648522252,ML-Ops,B,False
+52630,Staf,1,24,MBO,7.3428774998488215,Other,B,False
+60834,Data Scientist,5,28,MBO,6.711830417950213,Generalist,A,False
+169692,DevOps Engineer,2,25,HBO,7.387387612843736,ML-Ops,A,False
+102866,Data Scientist,1,31,MBO,6.461913172084473,Structured data,B,False
+34982,Data Scientist,11,45,WO,8.687335224277914,Generalist,B,False
+215679,Data Engineer,15,44,PhD,6.556265526768067,Generalist,B,False
+36103,Data Engineer,8,40,MBO,8.00762923905157,Data storage,A,False
+211861,Data Scientist,17,40,MBO,6.0143212978803575,Generalist,B,False
+67711,Data Scientist,12,44,HBO,7.652127457786243,Generalist,C,False
+129567,Staf,11,35,PhD,7.301763047563656,Other,A,False
+59405,Data Scientist,3,26,HBO,6.510100248936583,Geo,A,False
+221175,DevOps Engineer,4,42,WO,7.571951004337613,ML-Ops,C,False
+26746,Staf,9,44,PhD,5.985045531208309,Other,A,False
+69827,Data Scientist,6,55,MBO,7.01866220259394,Generalist,A,False
+34555,Data Scientist,4,27,PhD,7.0355036401919575,Agent-based modelling,B,False
+60007,Data Scientist,5,35,PhD,6.392237901346147,Generalist,B,False
+107297,Data Engineer,11,54,PhD,6.441772642390412,Generalist,B,False
+44841,Data Scientist,2,34,PhD,5.96684414294071,Generalist,B,False
+233304,DevOps Engineer,7,52,PhD,8.105001293717482,ML-Ops,B,False
+33429,Data Scientist,1,33,PhD,7.231914846406604,Generalist,B,False
+210756,Data Engineer,13,43,PhD,6.281173384590407,Generalist,B,False
+118907,Data Engineer,5,28,HBO,6.577844115225561,Data pipelines,B,False
+199142,Data Scientist,7,49,MBO,8.654911041727502,Generalist,C,False
+178259,Data Scientist,2,25,WO,7.075858831348551,Generalist,B,False
+130811,DevOps Engineer,9,52,PhD,8.10296888430991,ML-Ops,B,False
+213665,Data Scientist,3,39,MBO,5.281262621473983,Agent-based modelling,A,False
+166126,Staf,8,38,MBO,7.964894026135752,Other,C,False
+214073,Data Scientist,0,29,WO,7.841786924153534,Generalist,A,False
+14454,Staf,5,29,HBO,5.567594391690671,Other,A,False
+106934,Staf,10,33,HBO,8.957955887418969,Other,C,False
+67918,Data Scientist,9,39,PhD,7.758674622837924,NLP,B,False
+188769,Data Scientist,15,44,HBO,6.598009241430055,Generalist,B,False
+59858,Data Scientist,10,34,HBO,8.372482224796553,Generalist,A,False
+29794,Data Scientist,6,42,WO,5.576955595918443,Vision,A,False
+133226,Data Scientist,10,54,PhD,7.101443291120169,Generalist,B,False
+93612,Data Engineer,4,27,MBO,8.226259063461827,Data storage,B,False
+181254,DevOps Engineer,10,40,PhD,7.838262596943219,ML-Ops,A,False
+143250,Data Engineer,8,33,HBO,7.2454746369717675,Generalist,B,False
+27093,Data Scientist,5,28,MBO,5.700029203729921,NLP,B,False
+225345,Staf,11,34,PhD,7.5926593570544,Other,B,False
+72772,Staf,0,34,MBO,5.2372325292788435,Other,A,False
+18338,DevOps Engineer,5,39,MBO,6.2555766307265275,ML-Ops,B,False
+228921,Staf,3,31,HBO,5.657444593784988,Other,B,False
+137656,DevOps Engineer,10,46,WO,6.088179046860102,ML-Ops,A,False
+198420,Data Engineer,0,23,MBO,6.901617817565291,Data pipelines,B,False
+72759,DevOps Engineer,4,34,HBO,5.854749872206783,ML-Ops,B,False
+47221,Data Scientist,7,30,WO,6.38154658633208,Geo,A,False
+36210,Data Scientist,7,30,HBO,6.896953041104278,Generalist,A,False
+84479,DevOps Engineer,12,43,WO,5.840494086423833,ML-Ops,B,False
+40843,Data Scientist,4,27,HBO,7.336278176279694,Generalist,B,False
+178730,Data Scientist,1,24,MBO,6.774858343339919,Generalist,B,False
+76252,Data Engineer,0,25,HBO,7.797032852616055,Data storage,A,False
+151241,Data Scientist,4,35,MBO,6.544242385957175,Structured data,B,False
+119898,Data Engineer,7,43,HBO,7.281313790758341,Data pipelines,C,False
+94492,Data Engineer,7,44,HBO,6.481772943454921,Data pipelines,B,False
+237506,Staf,1,24,WO,6.5263835992998285,Other,A,False
+239742,DevOps Engineer,15,39,HBO,5.159652966945412,ML-Ops,B,False
+39948,DevOps Engineer,10,33,HBO,7.62298902308017,ML-Ops,B,False
+229946,DevOps Engineer,1,24,MBO,6.785828809410657,ML-Ops,A,False
+81162,Staf,4,40,HBO,8.406458315814763,Other,A,False
+170238,Data Engineer,10,37,PhD,7.097900527148209,Data storage,B,False
+102794,DevOps Engineer,8,31,MBO,5.9450854834070155,ML-Ops,A,False
+219404,Data Scientist,8,53,HBO,6.550692727322401,Generalist,A,False
+226198,Staf,13,51,PhD,6.854166635436118,Other,B,False
+119126,Staf,5,30,MBO,6.285886136756576,Other,C,False
+239965,DevOps Engineer,11,61,HBO,8.188280492933009,ML-Ops,B,False
+170630,Data Engineer,6,32,HBO,7.7426981620420605,Data pipelines,B,False
+223018,DevOps Engineer,11,48,HBO,7.564737842136214,ML-Ops,B,False
+53569,Staf,13,48,MBO,6.554546481239886,Other,A,False
+195294,DevOps Engineer,8,33,PhD,6.482278227704566,ML-Ops,B,False
+200847,Staf,8,34,PhD,7.444631934125593,Other,B,False
+43288,Staf,3,35,HBO,6.115984998763431,Other,A,False
+117922,Staf,2,45,MBO,6.678192620589016,Other,B,False
+213997,DevOps Engineer,7,56,PhD,7.233235338728188,ML-Ops,B,False
+13072,Staf,10,39,MBO,7.456207663831135,Other,B,False
+174504,Data Scientist,9,33,HBO,6.210568415013591,Agent-based modelling,B,False
+214518,Data Engineer,2,27,HBO,8.355137088336814,Data storage,B,False
+90202,Data Scientist,5,31,PhD,7.1508250500722035,Structured data,B,False
+130007,Staf,10,43,HBO,7.583476712814287,Other,B,False
+153006,Data Engineer,7,42,WO,8.47127960162852,Generalist,B,False
+204847,Data Scientist,9,32,PhD,8.181352118684133,Geo,B,False
+182165,Data Scientist,13,40,PhD,4.477413881736336,Geo,B,False
+47730,Data Engineer,4,43,PhD,7.8977620134942494,Data storage,A,False
+119324,Data Scientist,9,32,WO,6.459112835485848,Generalist,A,False
+66932,DevOps Engineer,6,39,HBO,5.944287188936903,ML-Ops,B,False
+134283,Staf,3,27,WO,6.8826480389425715,Other,A,False
+142695,Data Engineer,9,38,HBO,7.206916190214959,Data pipelines,B,False
+231861,Data Scientist,12,35,MBO,6.7786344277107435,Generalist,B,False
+69738,Data Scientist,4,40,WO,7.197641063208777,Generalist,A,False
+225900,Data Scientist,13,36,MBO,6.785992792313435,Generalist,B,False
+205879,Staf,6,29,HBO,6.068276599505842,Other,A,False
+78771,Data Scientist,5,28,HBO,6.454064653066412,Generalist,B,False
+51644,Data Scientist,10,33,PhD,7.184026563708761,Agent-based modelling,A,False
+78021,Data Engineer,1,22,WO,7.671022454618576,Data storage,B,False
+195691,Staf,10,33,PhD,6.804499447922857,Other,C,False
+111442,Data Scientist,0,23,MBO,6.355266362372635,NLP,B,False
+215152,Staf,1,48,HBO,7.941204510553614,Other,B,False
+212161,Data Scientist,0,23,PhD,7.667552927415191,Structured data,A,False
+76924,DevOps Engineer,5,33,WO,7.801111343136893,ML-Ops,A,False
+95495,Data Engineer,17,44,PhD,7.7079572167743375,Data pipelines,B,False
+87592,Data Engineer,12,35,HBO,7.634212552870864,Generalist,A,False
+150042,Data Scientist,22,45,WO,5.437557558324267,Vision,B,False
+158318,Data Scientist,6,38,PhD,6.942640615456413,Structured data,B,False
+228831,Data Engineer,7,30,MBO,7.226928336733035,Data pipelines,B,False
+14808,DevOps Engineer,7,42,HBO,6.579627719822306,ML-Ops,A,False
+132336,Data Scientist,5,42,WO,7.0333203099646395,Agent-based modelling,A,False
+154023,Data Engineer,10,41,HBO,6.145703220034416,Generalist,B,False
+129575,DevOps Engineer,1,27,WO,6.94800517522741,ML-Ops,B,False
+189809,DevOps Engineer,14,51,HBO,5.075090910107534,ML-Ops,B,False
+152843,Data Scientist,13,36,PhD,6.33206450589864,NLP,B,False
+185420,Data Scientist,10,47,HBO,6.552468171354114,Generalist,B,False
+146885,Staf,10,33,MBO,4.979580896332034,Other,C,False
+148169,Data Scientist,10,36,HBO,7.207445962151014,Generalist,B,False
+160535,Staf,0,23,PhD,8.065144256244366,Other,C,False
+133848,Data Engineer,3,27,PhD,7.770222287960888,Data pipelines,C,False
+190872,Data Engineer,6,39,PhD,8.082416540941216,Data pipelines,A,False
+96423,Data Scientist,10,33,WO,7.38715192135296,Generalist,A,False
+217627,Data Engineer,0,38,WO,7.8590714563272,Data pipelines,A,False
+57436,Staf,10,63,MBO,7.1377275207787525,Other,A,False
+119024,Data Scientist,2,41,WO,7.960236857624635,Generalist,A,False
+170275,Data Engineer,8,45,PhD,6.340319789551835,Data pipelines,B,False
+218087,Data Engineer,6,29,WO,7.074998653930772,Data storage,B,False
+168822,Data Scientist,8,32,WO,6.14097420881537,Structured data,A,False
+174382,Staf,4,32,WO,6.382672553681591,Other,C,False
+149881,Staf,10,35,MBO,7.968092378880895,Other,A,False
+162412,Data Scientist,4,30,MBO,5.216067684473127,Generalist,B,False
+84373,Staf,8,43,WO,7.421599032727161,Other,C,False
+115310,Data Scientist,2,25,HBO,5.961215991495508,Agent-based modelling,B,False
+148450,Staf,7,30,PhD,6.386463864716585,Other,A,False
+233736,Data Scientist,9,33,PhD,6.685755052108345,Structured data,B,False
+145179,Data Scientist,5,31,WO,6.743448312664706,Vision,B,False
+48874,Data Engineer,8,33,MBO,4.5705618946504485,Generalist,A,False
+17159,DevOps Engineer,10,33,PhD,7.515229311563791,ML-Ops,A,False
+170728,Data Engineer,7,44,PhD,7.186151763823594,Generalist,B,False
+55880,Staf,0,23,WO,6.3881827695318885,Other,B,False
+189616,DevOps Engineer,7,30,MBO,5.746235675580203,ML-Ops,A,False
+234240,Staf,10,33,PhD,7.521809119394078,Other,C,False
+52367,DevOps Engineer,7,36,HBO,6.333057046767825,ML-Ops,B,False
+149058,Data Scientist,19,45,MBO,7.031327106863921,Generalist,B,False
+64053,Data Scientist,2,39,PhD,8.78851033547586,Generalist,B,False
+176651,Data Scientist,5,28,HBO,5.923917315549851,Agent-based modelling,B,False
+156085,Staf,2,61,HBO,8.492084497054428,Other,C,False
+221378,Data Engineer,17,40,PhD,9.50803943875933,Data pipelines,B,False
+134939,Data Scientist,3,26,HBO,7.934213972178097,Generalist,B,False
+200968,Data Scientist,7,34,WO,5.176748107371564,Generalist,A,False
+125803,Data Engineer,2,33,PhD,7.789324799478968,Generalist,B,False
+14302,Data Engineer,2,25,PhD,6.560087280952475,Generalist,B,False
+147914,Data Scientist,9,37,HBO,8.157742728554618,Generalist,B,False
+94043,Data Engineer,0,38,PhD,7.062715939687626,Data pipelines,B,False
+91969,Data Scientist,3,34,WO,7.013406782305298,Geo,B,False
+44675,Data Scientist,7,31,MBO,6.915836049965725,Generalist,B,False
+153096,Data Scientist,3,30,MBO,7.982580317687757,Generalist,B,False
+239815,DevOps Engineer,10,33,PhD,5.371799720587625,ML-Ops,A,False
+66093,Staf,1,22,PhD,5.508449812240176,Other,C,False
+73144,Staf,10,38,WO,6.160670471712998,Other,C,False
+60087,Data Engineer,6,31,HBO,6.416721850815558,Data pipelines,B,False
+87766,Data Scientist,1,30,PhD,6.486937276581333,NLP,B,False
+180436,DevOps Engineer,8,36,PhD,6.5117889291702005,ML-Ops,B,False
+158216,Data Engineer,2,43,MBO,5.536711456866225,Data pipelines,A,False
+21877,DevOps Engineer,12,35,WO,7.286277668958112,ML-Ops,A,False
+160252,Data Scientist,12,35,MBO,8.141388763101316,Geo,A,False
+224092,Staf,2,48,MBO,6.311925319528517,Other,A,False
+158126,Data Scientist,6,29,WO,8.210495527714057,Generalist,A,False
+35731,Data Engineer,1,24,MBO,7.166661055126501,Data pipelines,B,False
+16924,Data Scientist,17,51,PhD,6.370721865275353,Agent-based modelling,B,False
+43547,DevOps Engineer,4,50,MBO,6.421478743969095,ML-Ops,B,False
+217284,Data Scientist,0,23,PhD,5.450776931126167,Geo,B,False
+141889,Staf,0,23,PhD,7.757924441195071,Other,C,False
+85953,Data Engineer,10,34,PhD,7.390923416687385,Data storage,B,False
+141600,Data Engineer,1,58,MBO,7.1129998551924505,Data pipelines,B,False
+189577,Data Engineer,2,27,WO,8.017083182199512,Data storage,B,False
+43693,DevOps Engineer,1,24,HBO,5.454731503816603,ML-Ops,A,False
+111047,Data Engineer,6,39,PhD,7.820230743605713,Data pipelines,B,False
+38589,DevOps Engineer,7,40,PhD,7.062040514121129,ML-Ops,B,False
+121635,Data Scientist,0,23,MBO,7.744539627701981,Generalist,B,False
+38839,DevOps Engineer,4,27,HBO,6.649680936121319,ML-Ops,B,False
+122591,Staf,0,23,MBO,6.025556969744695,Other,B,False
+28744,Data Scientist,11,40,WO,8.225901819017318,Generalist,B,False
+175824,Staf,8,31,WO,6.169309784385416,Other,B,False
+26933,Data Scientist,7,33,MBO,9.026396340608839,Vision,B,False
+11694,DevOps Engineer,13,37,WO,5.816036777852654,ML-Ops,B,False
+226134,Staf,8,34,WO,7.6928371679422485,Other,B,False
+182696,Data Scientist,6,29,WO,6.482756782213757,Agent-based modelling,B,False
+45397,Data Scientist,9,37,HBO,5.985146953376123,Agent-based modelling,B,False
+61047,DevOps Engineer,2,25,PhD,6.719961261977371,ML-Ops,A,False
+32175,Staf,3,31,WO,6.172045517098902,Other,B,False
+60433,Staf,2,33,HBO,4.682393276038293,Other,A,False
+184566,Data Engineer,11,43,HBO,7.2596637698011275,Generalist,B,False
+223354,Data Engineer,4,27,WO,6.6383699852408,Generalist,B,False
+112767,Staf,12,35,WO,7.264416362869511,Other,C,False
+36368,Data Scientist,5,28,WO,7.7944717268295305,NLP,B,False
+78989,Staf,8,31,WO,7.608113063686612,Other,B,False
+220093,DevOps Engineer,1,24,MBO,6.837633918347135,ML-Ops,B,False
+102504,Data Engineer,5,32,HBO,7.117509212746682,Data pipelines,B,False
+112957,Data Engineer,4,42,PhD,7.715371429120628,Data storage,C,False
+92348,Staf,2,27,PhD,6.985006410763623,Other,B,False
+25438,Data Scientist,10,41,PhD,7.112214003080778,Structured data,B,False
+180230,DevOps Engineer,5,31,HBO,5.482902916287939,ML-Ops,B,False
+128130,Data Engineer,0,23,WO,8.860897459538329,Data storage,B,False
+38281,Data Scientist,5,33,HBO,6.729766433582096,Generalist,B,False
+112112,Staf,3,26,HBO,8.054625452113587,Other,B,False
+58341,Staf,5,41,WO,7.52166716428619,Other,B,False
+86285,DevOps Engineer,13,43,WO,8.355763648950775,ML-Ops,B,False
+87400,DevOps Engineer,11,38,HBO,7.512754547697433,ML-Ops,B,False
+100766,Data Scientist,6,38,HBO,8.736308166753759,Generalist,B,False
+83371,Data Engineer,1,27,WO,5.904671519225403,Data storage,A,False
+203320,Data Scientist,9,37,WO,7.5689443007898145,Agent-based modelling,B,False
+105658,Staf,2,25,WO,8.685569711368409,Other,B,False
+41812,Staf,2,34,HBO,7.3209326837860305,Other,C,False
+233613,Data Scientist,9,32,MBO,6.166696716067486,Generalist,A,False
+225510,Data Scientist,6,35,HBO,8.026278280849649,Generalist,B,False
+164280,Data Scientist,5,50,PhD,8.16692219317937,Generalist,B,False
+48687,Data Scientist,7,38,PhD,7.751061187934508,Generalist,A,False
+156644,Data Engineer,6,36,WO,5.5172131911529325,Generalist,B,False
+14518,Data Scientist,2,46,PhD,6.20186576406868,Generalist,B,False
+227741,Data Engineer,9,52,HBO,6.79058630512468,Generalist,A,False
+50931,Data Scientist,8,31,PhD,7.638553299371546,Generalist,B,False
+182700,Data Scientist,3,42,PhD,6.799835832663051,NLP,B,False
+142874,Data Scientist,8,45,WO,7.2052514030471695,Agent-based modelling,B,False
+161958,Data Scientist,1,29,PhD,7.193291420743574,Generalist,B,False
+226289,Data Engineer,5,35,MBO,7.450225519811251,Data pipelines,A,False
+13919,DevOps Engineer,0,49,MBO,5.989042107489832,ML-Ops,A,False
+60357,Data Scientist,1,22,WO,7.750438618969539,NLP,B,False
+67647,Data Engineer,4,44,WO,7.448301235319001,Data pipelines,B,False
+83201,Data Scientist,2,40,HBO,6.1276365263239025,Generalist,B,False
+163085,DevOps Engineer,0,38,PhD,6.780046413039306,ML-Ops,A,False
+136969,Data Engineer,6,29,HBO,6.644204400532459,Generalist,A,False
+157048,Data Scientist,11,37,WO,8.219437712644273,Generalist,C,False
+54143,Data Engineer,4,27,PhD,7.007729028567701,Data pipelines,A,False
+90957,DevOps Engineer,9,40,PhD,7.7866276520295905,ML-Ops,B,False
+109726,Data Engineer,8,43,PhD,7.758983724855205,Data pipelines,A,False
+94081,Staf,8,42,PhD,5.722749213779112,Other,A,False
+143893,DevOps Engineer,9,37,HBO,7.145682584945062,ML-Ops,B,False
+221072,Data Engineer,13,37,MBO,7.508310208776113,Data storage,B,False
+92866,Data Scientist,6,41,WO,7.0607077242358836,Generalist,B,False
+30449,Data Scientist,6,29,PhD,6.533313275569806,Vision,B,False
+226388,Data Scientist,6,29,MBO,6.59090612288542,Generalist,A,False
+213667,Data Scientist,5,29,WO,6.553266452101684,Generalist,B,False
+88530,Staf,1,41,WO,7.502433698420668,Other,B,False
+239927,Data Scientist,7,30,WO,6.99481705406482,Geo,B,False
+37978,Data Engineer,12,39,MBO,8.159396569346843,Data pipelines,B,False
+113392,Data Scientist,18,41,HBO,5.211440684271079,Vision,A,False
+115093,Data Scientist,9,35,HBO,7.772785029805879,Structured data,A,False
+224758,DevOps Engineer,14,50,WO,5.28394367147572,ML-Ops,B,False
+81775,Data Engineer,11,44,MBO,6.943525140862918,Generalist,A,False
+126720,Staf,2,25,MBO,6.049486888267162,Other,C,False
+126223,Data Scientist,3,27,PhD,6.39275840895087,NLP,A,False
+239611,Data Scientist,22,53,MBO,6.1058060806554675,NLP,B,False
+81217,Data Scientist,2,25,WO,6.905517468571633,Generalist,B,False
+115227,DevOps Engineer,4,39,MBO,4.186920019146463,ML-Ops,C,False
+64665,DevOps Engineer,4,34,WO,6.2039547604509755,ML-Ops,B,False
+43599,Staf,6,34,HBO,6.574966156767981,Other,C,False
+80824,Data Scientist,0,33,HBO,5.495131304319022,Structured data,B,False
+56449,Staf,10,52,WO,6.9968753466960925,Other,A,False
+206307,Data Scientist,10,33,WO,7.7109283825261175,Generalist,B,False
+130361,DevOps Engineer,3,26,WO,4.948883538739423,ML-Ops,A,False
+70840,Data Engineer,7,30,PhD,5.900323788339525,Data pipelines,A,False
+201068,DevOps Engineer,11,35,MBO,8.765712851178128,ML-Ops,B,False
+132235,DevOps Engineer,1,29,MBO,6.025162575468728,ML-Ops,B,False
+137042,DevOps Engineer,16,47,WO,7.956693183332247,ML-Ops,B,False
+227154,Data Scientist,0,30,HBO,6.714534017487846,Generalist,B,False
+107550,Data Scientist,0,28,MBO,5.551341777172532,Agent-based modelling,B,False
+110316,DevOps Engineer,1,42,HBO,6.433174229228362,ML-Ops,B,False
+162541,Data Scientist,6,29,HBO,6.878327724902547,Geo,B,False
+83553,DevOps Engineer,10,38,WO,6.813982931939454,ML-Ops,B,False
+86676,Data Scientist,1,35,MBO,7.35007970002054,Generalist,B,False
+200163,Data Scientist,4,39,PhD,7.663725183656185,Generalist,A,False
+97520,Staf,1,31,HBO,7.895511480326046,Other,A,False
+137248,Data Engineer,7,38,MBO,7.448644300261713,Data pipelines,B,False
+140902,DevOps Engineer,1,35,WO,7.533312688173047,ML-Ops,B,False
+129288,Data Scientist,10,33,PhD,7.723373291664479,Vision,A,False
+97146,Data Scientist,6,32,HBO,6.2194330905401545,Structured data,A,False
+11158,Data Scientist,8,39,PhD,7.887137576813232,Generalist,B,False
+38245,Staf,2,39,WO,6.691933320041901,Other,A,False
+197947,Staf,8,35,WO,9.080656670447286,Other,B,False
+204827,Data Scientist,7,30,PhD,8.619943104386797,Generalist,B,False
+62066,DevOps Engineer,2,25,HBO,5.891481393109996,ML-Ops,A,False
+238564,DevOps Engineer,7,30,WO,7.811779280744308,ML-Ops,B,False
+51019,Data Engineer,14,37,PhD,5.948977987158777,Generalist,B,False
+197242,Staf,3,27,MBO,7.620582480219648,Other,B,False
+192209,DevOps Engineer,3,36,MBO,6.828845999579398,ML-Ops,A,False
+148631,Data Engineer,8,48,PhD,6.911633479405557,Generalist,B,False
+185455,Data Scientist,1,24,MBO,7.325464645322374,Structured data,B,False
+71881,Staf,5,39,PhD,6.680487839698801,Other,C,False
+44263,Data Scientist,3,46,PhD,6.302477513458842,Generalist,C,False
+226424,Data Scientist,20,44,HBO,8.059450927204448,Generalist,A,False
+57308,DevOps Engineer,13,38,WO,6.107068377954242,ML-Ops,A,False
+83538,Data Scientist,6,34,WO,6.195885928473583,Geo,B,False
+110367,Data Engineer,4,28,MBO,7.242048888798822,Data storage,A,False
+38535,Data Engineer,6,30,MBO,6.253325347141155,Data storage,A,False
+89293,Data Engineer,9,32,MBO,7.73873301955763,Generalist,A,False
+44752,DevOps Engineer,1,22,WO,6.3982286019915975,ML-Ops,C,False
+195195,Staf,2,25,MBO,6.162846214203082,Other,A,False
+75617,Data Engineer,0,23,WO,6.978639337156572,Data storage,B,False
+115585,Data Engineer,2,25,HBO,7.859003187152155,Data storage,A,False
+52695,Staf,3,29,MBO,5.905793388943135,Other,B,False
+166927,Data Scientist,7,33,WO,6.5222197773584885,Vision,B,False
+122498,Data Scientist,9,35,HBO,8.823604309345775,Generalist,C,False
+41270,DevOps Engineer,10,45,HBO,6.215216184182643,ML-Ops,B,False
+16124,Staf,2,35,PhD,5.912174143850978,Other,C,False
+32566,Staf,1,22,WO,6.5810764418469585,Other,C,False
+62730,DevOps Engineer,0,23,HBO,6.403743469523819,ML-Ops,A,False
+105374,Data Scientist,14,37,HBO,5.290712091356039,Generalist,A,False
+71882,DevOps Engineer,7,30,WO,8.38384973787303,ML-Ops,A,False
+93814,Data Engineer,5,33,WO,6.720802096222557,Data pipelines,B,False
+229643,DevOps Engineer,1,22,WO,7.85709618842765,ML-Ops,B,False
+27809,Data Scientist,7,44,MBO,8.292425668631724,Agent-based modelling,B,False
+149798,Data Scientist,2,25,WO,6.040977171250867,NLP,A,False
+129703,DevOps Engineer,10,59,PhD,6.652675051688298,ML-Ops,B,False
+102484,Staf,1,37,PhD,5.399927356253305,Other,A,False
+35332,DevOps Engineer,13,36,PhD,7.3988103844799635,ML-Ops,A,False
+238767,Data Scientist,7,30,PhD,7.699301396334753,NLP,A,False
+148036,Data Scientist,4,40,WO,8.487007612144682,Vision,A,False
+95532,Data Scientist,1,40,WO,5.9333241287423855,Vision,B,False
+188337,Data Scientist,4,39,PhD,7.942782234709835,Vision,B,False
+89511,Data Engineer,0,23,HBO,5.687347650342466,Data storage,B,False
+114645,Staf,11,34,MBO,7.776115986412654,Other,C,False
+91636,Data Scientist,7,42,PhD,5.880854779130601,Generalist,B,False
+130165,Staf,1,28,HBO,7.8355941197065615,Other,B,False
+199908,Staf,8,46,WO,8.398506872583516,Other,B,False
+218461,DevOps Engineer,3,26,MBO,8.024669163966893,ML-Ops,A,False
+168382,Staf,16,42,PhD,8.496287172952794,Other,B,False
+117176,Data Scientist,5,28,MBO,6.856221780385903,Generalist,B,False
+131007,DevOps Engineer,5,28,HBO,8.017537468636204,ML-Ops,B,False
+239920,Data Engineer,16,62,PhD,6.371885823155179,Generalist,B,False
+86679,DevOps Engineer,3,26,HBO,6.187732406936819,ML-Ops,A,False
+197497,Staf,4,34,PhD,6.190608282338054,Other,B,False
+46402,Data Scientist,5,36,WO,7.329402838763917,Generalist,B,False
+98827,Data Engineer,3,41,WO,8.069425856763361,Data storage,A,False
+23974,Data Scientist,8,45,PhD,7.063633772981015,Generalist,A,False
+173198,Data Scientist,6,29,WO,7.713000990479083,Generalist,B,False
+69527,Data Scientist,7,30,WO,6.802750234125307,Generalist,B,False
+112849,Data Scientist,10,38,PhD,8.574874672337902,Generalist,B,False
+183587,DevOps Engineer,11,44,MBO,5.892905932135159,ML-Ops,B,False
+226258,Data Engineer,3,26,PhD,7.0698412647850954,Data pipelines,B,False
+239052,Data Engineer,8,36,PhD,7.6211107177605015,Generalist,A,False
+144791,Staf,8,31,MBO,7.537697244413922,Other,C,False
+34276,Staf,1,24,PhD,6.77399747624863,Other,B,False
+29294,Data Scientist,10,36,PhD,7.2146296581026,NLP,B,False
+90963,Data Engineer,0,36,MBO,8.04084466423701,Generalist,B,False
+137019,Data Scientist,6,29,WO,6.0676142254369045,NLP,A,False
+223359,Data Engineer,5,45,HBO,7.464923163990384,Data pipelines,B,False
+216031,Data Engineer,3,26,MBO,6.904935116612056,Generalist,C,False
+179278,Staf,4,32,WO,6.958634019076608,Other,A,False
+88802,Data Engineer,5,32,WO,6.524107074951193,Generalist,B,False
+236621,Data Scientist,4,27,MBO,6.5092051742024495,Generalist,A,False
+88941,DevOps Engineer,5,37,WO,6.194754813372146,ML-Ops,A,False
+69993,Staf,2,25,PhD,7.986043555936985,Other,A,False
+229311,DevOps Engineer,4,35,MBO,6.549428939062869,ML-Ops,B,False
+163139,Data Engineer,3,26,PhD,6.723119392710827,Generalist,B,False
+186243,Data Scientist,6,45,MBO,5.891333044170043,Generalist,B,False
+48278,Data Scientist,4,27,MBO,7.252347673947277,Generalist,B,False
+77843,Data Scientist,6,54,WO,7.389820656339905,Generalist,B,False
+154176,Staf,8,42,HBO,6.79402950095393,Other,C,False
+198645,Data Scientist,0,44,MBO,7.707812105644605,Generalist,B,False
+43827,DevOps Engineer,4,27,MBO,6.5063774339507,ML-Ops,A,False
+153231,DevOps Engineer,9,37,MBO,7.56118865127302,ML-Ops,A,False
+126136,DevOps Engineer,9,49,HBO,6.7974899809912985,ML-Ops,B,False
+173322,Data Scientist,12,53,WO,7.963582169255624,Geo,B,False
+20114,Data Scientist,0,30,MBO,6.911851761214345,Geo,A,False
+37963,Data Scientist,0,27,MBO,9.34462392310662,Agent-based modelling,B,False
+223218,Data Scientist,17,40,HBO,6.644568163932891,Generalist,B,False
+234268,Data Scientist,1,38,PhD,5.855247290153535,Generalist,B,False
+33229,Staf,11,34,PhD,7.068270952623715,Other,A,False
+75046,Data Scientist,3,37,MBO,6.9611325603448,Vision,B,False
+198075,Data Scientist,9,32,HBO,6.20725321727564,Structured data,A,False
+78851,Data Engineer,7,30,MBO,7.008583081046257,Data pipelines,B,False
+168661,Staf,9,40,HBO,5.517290437175566,Other,A,False
+125313,Data Scientist,4,31,WO,7.2067835719837685,Vision,A,False
+136203,Data Engineer,15,38,HBO,7.134337533023634,Generalist,B,False
+195639,Data Engineer,11,37,WO,6.968389343145913,Data pipelines,B,False
+112256,DevOps Engineer,6,44,HBO,7.752072471475909,ML-Ops,A,False
+81777,DevOps Engineer,4,44,MBO,8.077526186813088,ML-Ops,B,False
+40450,Data Scientist,2,47,HBO,5.727335708117815,Generalist,B,False
+12621,Data Engineer,1,37,MBO,5.948409841211977,Data storage,B,False
+169135,Data Engineer,12,36,WO,9.068952689180456,Data storage,B,False
+138102,Data Scientist,7,30,MBO,6.1447283556639665,Agent-based modelling,B,False
+25570,Data Scientist,3,29,HBO,7.422768039938623,Generalist,A,False
+110868,DevOps Engineer,6,35,PhD,8.289042988968529,ML-Ops,B,False
+58962,Data Engineer,9,40,MBO,6.827476273516862,Data pipelines,B,False
+15661,Data Scientist,8,31,WO,6.944718133767417,Generalist,A,False
+162578,Data Scientist,10,42,HBO,5.543109479655286,Generalist,B,False
+10937,Staf,4,27,MBO,6.338885964740009,Other,A,False
+167048,Staf,4,41,MBO,7.304761017427923,Other,A,False
+37346,Staf,7,42,WO,8.338190759819753,Other,B,False
+94076,Data Scientist,1,27,HBO,6.6486119187417225,Generalist,B,False
+218181,Data Scientist,5,33,PhD,6.652963865563117,Agent-based modelling,B,False
+181941,Data Engineer,17,63,WO,6.375590161712041,Generalist,C,False
+228498,DevOps Engineer,0,31,PhD,7.599616947926026,ML-Ops,B,False
+139537,Data Scientist,13,36,PhD,6.9567753700384145,NLP,A,False
+170079,Data Engineer,7,30,MBO,8.780691008834618,Data pipelines,B,False
+179788,Staf,1,42,MBO,5.985576568989661,Other,A,False
+93921,Data Scientist,9,38,MBO,8.572240061744813,NLP,A,False
+190530,Data Scientist,8,38,HBO,8.117206191851443,Generalist,A,False
+120679,Data Engineer,1,32,WO,7.143812922261397,Data storage,B,False
+200843,DevOps Engineer,8,47,HBO,7.6167994115370545,ML-Ops,A,False
+205617,Staf,1,24,MBO,7.5025288277995354,Other,A,False
+93963,Staf,8,31,HBO,9.199589692771635,Other,B,False
+38466,Data Scientist,6,47,WO,6.52152576844417,Generalist,A,False
+95780,Data Scientist,4,27,HBO,7.597759833354663,Generalist,B,False
+101771,Staf,6,38,PhD,7.379448603443477,Other,B,False
+53346,Data Scientist,4,28,WO,6.168014976283853,NLP,B,False
+120680,DevOps Engineer,6,51,PhD,6.39888425563819,ML-Ops,B,False
+232097,Staf,5,35,MBO,5.840956689255197,Other,A,False
+34933,DevOps Engineer,2,43,WO,6.866830678428566,ML-Ops,A,False
+34509,Staf,2,28,WO,7.902544545834735,Other,B,False
+208428,Data Scientist,8,31,HBO,10.0,Geo,A,False
+138643,Data Engineer,10,43,WO,8.639694292608567,Generalist,A,False
+230321,Data Scientist,7,43,HBO,7.41483453840425,Generalist,A,False
+14038,Staf,14,44,MBO,8.018810932243149,Other,B,False
+24039,Data Scientist,6,36,HBO,7.470607926456086,Generalist,B,False
+130721,Staf,12,46,PhD,5.708651023836053,Other,B,False
+181579,DevOps Engineer,11,48,WO,6.856662747045969,ML-Ops,B,False
+132805,Data Scientist,5,28,HBO,9.06012796490556,Generalist,A,False
+130602,Staf,11,37,MBO,6.662441739108372,Other,B,False
+25783,DevOps Engineer,6,45,HBO,6.7178421823294325,ML-Ops,B,False
+88877,Data Engineer,8,48,WO,6.178412601953327,Data storage,B,False
+26178,Data Engineer,8,31,MBO,6.692805177964157,Data pipelines,B,False
+38647,Data Scientist,13,36,HBO,6.969424125323858,Geo,B,False
+126465,Data Scientist,2,25,PhD,9.34405614898349,Generalist,B,False
+209400,DevOps Engineer,8,46,WO,6.05086042352599,ML-Ops,A,False
+174568,Data Scientist,10,36,HBO,7.218992210681959,Vision,B,False
+138490,DevOps Engineer,12,37,HBO,7.101093669417661,ML-Ops,A,False
+225133,Staf,5,35,WO,8.100769875389856,Other,A,False
+49381,DevOps Engineer,11,35,PhD,5.643737594823709,ML-Ops,B,False
+26633,Staf,6,29,HBO,7.223297426693649,Other,B,False
+230856,Data Scientist,9,34,WO,7.2634884178994135,NLP,A,False
+157647,Data Scientist,6,29,WO,5.849150886740944,Vision,A,False
+238601,Data Engineer,11,43,MBO,6.01698963789574,Generalist,A,False
+178425,Data Scientist,8,31,HBO,7.340026241568765,Generalist,B,False
+55988,DevOps Engineer,8,31,HBO,6.680943293848959,ML-Ops,B,False
+159936,DevOps Engineer,7,40,MBO,6.611506579905324,ML-Ops,B,False
+20886,Staf,8,53,WO,7.551165606881085,Other,C,False
+21264,Data Scientist,0,51,WO,7.470441799820173,Geo,B,False
+147597,Staf,7,30,WO,5.403690466255645,Other,B,False
+188984,DevOps Engineer,16,66,HBO,7.975974887500699,ML-Ops,B,False
+210901,Data Engineer,0,23,PhD,6.845036754368174,Data storage,B,False
+126180,Data Scientist,11,38,WO,6.9904052414967115,Generalist,B,False
+64884,Data Scientist,8,32,HBO,7.429436877712556,NLP,B,False
+61210,Data Engineer,10,56,HBO,6.366875320915321,Data storage,B,False
+55658,Data Scientist,12,41,PhD,5.7560623170958385,Agent-based modelling,B,False
+182934,Staf,2,31,WO,6.689507484102271,Other,C,False
+235566,Data Scientist,13,36,WO,6.885583784151012,Structured data,B,False
+161570,Staf,2,25,WO,8.785278867365186,Other,A,False
+153997,Data Scientist,4,27,MBO,7.472691964692946,Structured data,A,False
+59793,Data Scientist,11,37,WO,6.271903500553711,Agent-based modelling,A,False
+84598,Staf,9,33,PhD,6.962114254288292,Other,C,False
+216443,DevOps Engineer,6,37,WO,6.10446173255264,ML-Ops,A,False
+157091,Data Scientist,11,34,WO,7.732778901953098,Agent-based modelling,B,False
+203328,Staf,4,54,PhD,6.965361269306018,Other,A,False
+127910,Data Engineer,8,31,PhD,5.441934866566879,Generalist,B,False
+119168,Data Engineer,4,27,HBO,6.78624834816948,Generalist,B,False
+47154,Data Scientist,7,30,MBO,6.490813626638625,Generalist,B,False
+119857,Data Engineer,4,32,WO,7.5208115117874765,Data pipelines,B,False
+120668,Data Engineer,8,39,MBO,6.7628427720698125,Data pipelines,C,False
+20662,Staf,1,24,PhD,7.987832887298125,Other,B,False
+76819,DevOps Engineer,4,33,PhD,7.926012184101611,ML-Ops,B,False
+67508,Data Scientist,9,35,MBO,5.918890690191834,Geo,C,False
+177817,DevOps Engineer,7,44,WO,6.405906685877445,ML-Ops,B,False
+60993,Data Scientist,1,24,WO,5.570091909086976,Generalist,C,False
+212790,Staf,8,31,MBO,5.991875263468294,Other,A,False
+12056,Staf,1,24,WO,5.557454481397851,Other,A,False
+212614,DevOps Engineer,3,35,HBO,5.529742447409798,ML-Ops,B,False
+92684,Data Scientist,10,45,HBO,6.529222125315622,Vision,B,False
+138377,Data Engineer,5,37,HBO,7.29018479642761,Data pipelines,B,False
+112866,Data Scientist,7,37,MBO,9.322236158579114,Agent-based modelling,B,False
+66117,DevOps Engineer,5,35,MBO,6.661821292490402,ML-Ops,A,False
+226657,DevOps Engineer,6,29,WO,7.811881970732429,ML-Ops,A,False
+150609,DevOps Engineer,8,32,MBO,6.588320844914535,ML-Ops,B,False
+35358,DevOps Engineer,4,37,PhD,6.527835114130371,ML-Ops,B,False
+115700,Data Scientist,8,37,WO,7.502691816322758,Structured data,A,False
+28605,DevOps Engineer,11,43,PhD,7.87111526053736,ML-Ops,B,False
+173495,Staf,2,28,MBO,7.102581798911621,Other,C,False
+108563,Data Scientist,4,34,MBO,7.148786008078805,Agent-based modelling,B,False
+58156,Staf,5,46,HBO,6.384188679563248,Other,B,False
+123951,DevOps Engineer,10,34,MBO,5.496808360917498,ML-Ops,A,False
+29217,Data Engineer,8,41,HBO,7.408897576258739,Data pipelines,B,False
+86175,Data Scientist,9,34,MBO,7.646621198685875,Agent-based modelling,A,False
+207338,Data Engineer,6,38,WO,7.452986288804395,Data storage,A,False
+224127,Data Scientist,7,54,WO,8.004470869663635,Vision,B,False
+107112,DevOps Engineer,0,27,HBO,8.11037667576505,ML-Ops,B,False
+195296,Data Engineer,13,36,WO,6.844150630430296,Data pipelines,A,False
+98975,Data Scientist,6,29,PhD,7.793138277378393,Generalist,B,False
+55988,Data Scientist,4,27,WO,6.444669656297673,Generalist,A,False
+126419,Data Engineer,4,29,WO,8.158794001345996,Data pipelines,B,False
+102212,Data Scientist,6,36,PhD,6.88974188324492,Generalist,A,False
+38472,Data Scientist,13,39,HBO,7.703455385580289,Generalist,A,False
+59106,Staf,2,25,HBO,7.310712561259254,Other,B,False
+201010,DevOps Engineer,7,30,HBO,9.327207920311283,ML-Ops,A,False
+187704,Staf,19,50,WO,7.191783066079068,Other,C,False
+146630,Data Scientist,0,31,PhD,8.981106946970103,Geo,A,True
+154641,Data Scientist,9,32,WO,5.639600091426924,Generalist,B,False
+209649,DevOps Engineer,3,35,WO,5.480680161740322,ML-Ops,A,False
+50832,Staf,12,39,WO,8.02441976826101,Other,C,False
+191988,DevOps Engineer,2,33,MBO,7.481004835043934,ML-Ops,B,False
+20924,Data Engineer,7,41,PhD,8.528916781374926,Generalist,A,False
+75684,Staf,7,34,PhD,7.040920297682606,Other,C,False
+219299,Data Scientist,4,34,HBO,7.735243387156356,Generalist,B,False
+99588,Staf,2,25,MBO,7.564178802707755,Other,C,False
+229259,Data Scientist,6,37,HBO,8.208921879387923,NLP,B,False
+206899,Staf,8,33,PhD,8.139869757907904,Other,A,False
+168303,Data Scientist,13,43,HBO,6.137348818122445,Agent-based modelling,B,False
+97234,Staf,0,33,HBO,7.218917657542368,Other,B,False
+19130,Data Scientist,7,30,HBO,6.891478465878712,Generalist,B,False
+105758,Staf,4,33,MBO,9.176131253074916,Other,A,False
+113429,Data Scientist,4,46,WO,6.742095463116242,NLP,C,False
+80473,Data Scientist,6,38,PhD,7.850744758129552,Geo,B,False
+54538,Staf,2,32,HBO,8.294110543937013,Other,C,False
+20546,Data Scientist,9,35,PhD,7.4821329570488215,Geo,B,False
+208405,DevOps Engineer,1,33,WO,6.262107843964616,ML-Ops,B,False
+127743,Data Scientist,5,58,HBO,6.57050124360455,Generalist,A,False
+10359,Staf,5,34,MBO,6.384600612144986,Other,B,False
+206370,Data Scientist,8,31,PhD,6.096961879008316,Structured data,B,False
+182142,Data Engineer,2,29,WO,7.871179706753056,Data pipelines,B,False
+109416,DevOps Engineer,1,24,PhD,6.099056556059935,ML-Ops,B,False
+34109,Data Engineer,5,38,MBO,5.9773896427806426,Data pipelines,B,False
+49861,Data Scientist,1,24,WO,7.606826876838769,Generalist,C,False
+213027,Data Scientist,2,41,PhD,7.466515352906972,Generalist,B,False
+168489,Data Engineer,3,26,HBO,5.823173779125117,Generalist,B,False
+71723,DevOps Engineer,8,31,MBO,5.759776294870983,ML-Ops,A,False
+106023,Data Engineer,12,36,HBO,7.592640735506277,Generalist,B,False
+73397,Staf,3,26,WO,7.1046307274329905,Other,B,False
+137597,Staf,8,34,PhD,6.842893150047376,Other,B,False
+127734,Staf,2,25,WO,5.778218532621432,Other,B,False
+63850,Staf,2,25,PhD,8.285464623405682,Other,B,False
+180055,Data Engineer,4,27,MBO,6.216671843936137,Generalist,B,False
+33549,Data Scientist,4,35,PhD,6.779581021986294,Agent-based modelling,A,False
+161100,DevOps Engineer,7,40,MBO,7.220965887847715,ML-Ops,A,False
+69188,Data Scientist,0,23,PhD,8.688846183233991,Agent-based modelling,B,False
+64998,Data Scientist,8,36,WO,6.976742838145099,Generalist,B,False
+152439,Data Scientist,9,32,HBO,7.571947945745782,Generalist,B,False
+77780,Data Engineer,12,47,WO,7.932848603982485,Generalist,B,False
+102760,Data Engineer,12,53,HBO,6.931229854888774,Data storage,B,False
+236594,Data Engineer,2,50,WO,6.236640021571607,Generalist,B,False
+166280,Data Scientist,13,36,HBO,6.190107138962605,Vision,A,False
+137838,Data Scientist,6,59,PhD,5.794312147887495,Generalist,B,False
+34511,Staf,7,39,MBO,7.467453400640087,Other,B,False
+49181,Data Scientist,7,36,PhD,6.226251950542601,Structured data,B,False
+90010,DevOps Engineer,4,27,WO,7.262213876352709,ML-Ops,A,False
+193089,Data Scientist,4,43,HBO,6.808238333238882,Generalist,B,False
+199854,Data Engineer,9,32,PhD,6.93572881285173,Generalist,B,False
+107380,Data Scientist,7,30,HBO,6.838651573676471,NLP,C,False
+197742,Data Engineer,11,34,WO,6.639933456158071,Data storage,B,False
+125389,DevOps Engineer,0,35,PhD,6.002812956032361,ML-Ops,B,False
+108126,DevOps Engineer,12,46,MBO,7.731358233694182,ML-Ops,A,False
+231695,Data Scientist,4,32,MBO,7.447401842385196,NLP,B,False
+212499,Staf,13,42,HBO,6.880633345294888,Other,B,False
+22196,DevOps Engineer,1,27,PhD,7.438805140069347,ML-Ops,B,False
+154351,Data Engineer,3,28,PhD,6.1942971391696275,Generalist,B,False
+151936,DevOps Engineer,9,37,PhD,8.097828151134943,ML-Ops,B,False
+71113,Data Scientist,5,30,WO,8.49629868918025,Generalist,B,False
+177838,Data Scientist,7,32,PhD,7.5539161582156185,Agent-based modelling,B,False
+76686,DevOps Engineer,10,46,MBO,6.703636418670193,ML-Ops,B,False
+16364,DevOps Engineer,0,32,HBO,8.75003940079094,ML-Ops,A,False
+88285,Data Scientist,1,24,MBO,7.770974354311849,Generalist,A,False
+83047,DevOps Engineer,13,41,HBO,6.410965072046508,ML-Ops,B,False
+225964,Staf,10,55,MBO,7.292172225979732,Other,A,False
+168678,Data Scientist,6,29,WO,9.914217779757083,NLP,B,False
+138003,Staf,1,25,HBO,7.159557095324074,Other,B,False
+162738,Data Scientist,18,41,HBO,6.309270351232128,Agent-based modelling,B,False
+132726,Data Scientist,4,31,HBO,6.206317996922923,Generalist,A,False
+93181,Data Engineer,5,36,MBO,8.791747281594542,Generalist,A,False
+10212,Data Engineer,2,25,WO,7.5715628748047505,Data pipelines,B,False
+86891,Data Scientist,10,33,HBO,7.4698644162262156,Generalist,B,False
+118566,Data Scientist,0,31,HBO,7.804141150207503,Vision,A,False
+166614,Data Engineer,7,30,MBO,6.152482963047117,Data pipelines,B,False
+39984,Staf,8,35,HBO,7.208905684036456,Other,C,False
+131866,Data Scientist,7,38,WO,6.79592354258713,Geo,A,False
+46270,Data Engineer,7,34,HBO,8.857348980607949,Data storage,B,False
+145224,Staf,10,35,MBO,7.204512973197041,Other,B,False
+114478,Data Scientist,1,31,WO,7.382244128781603,Geo,B,False
+175742,Staf,7,34,HBO,5.752201188526529,Other,A,False
+125132,DevOps Engineer,1,30,WO,6.52864609661393,ML-Ops,B,False
+80491,Staf,10,34,PhD,7.015041050693827,Other,C,False
+227961,DevOps Engineer,9,37,WO,8.322442498861546,ML-Ops,B,False
+189124,DevOps Engineer,8,40,WO,6.940053700081944,ML-Ops,B,False
+76539,Data Scientist,8,34,WO,9.18961522372685,NLP,B,False
+119869,DevOps Engineer,0,25,HBO,8.185636044169978,ML-Ops,B,False
+128330,Data Scientist,6,36,MBO,5.929169729718397,Agent-based modelling,B,False
+197894,Data Scientist,9,32,WO,7.198958409040896,Agent-based modelling,B,False
+232591,DevOps Engineer,0,23,MBO,6.209807805316029,ML-Ops,A,False
+119117,DevOps Engineer,0,37,MBO,6.93729367689697,ML-Ops,B,False
+239766,Data Scientist,13,47,MBO,6.104204863627269,NLP,B,False
+119420,Data Engineer,6,29,PhD,6.7058234897644216,Data storage,B,False
+209276,Data Engineer,2,38,PhD,8.371349157057097,Generalist,B,False
+136247,Data Scientist,7,41,PhD,6.0857463545815556,NLP,B,False
+49834,Data Engineer,4,34,HBO,5.316031894120821,Data storage,B,False
+186829,Staf,4,36,WO,6.664053256872607,Other,C,False
+216800,Staf,3,27,HBO,5.842213658074465,Other,B,False
+131762,Data Engineer,12,35,HBO,7.643751269588721,Data pipelines,C,False
+226709,Data Engineer,3,26,HBO,8.126328960578586,Generalist,B,False
+82681,Data Engineer,12,40,MBO,6.4426377246395266,Data storage,B,False
+88507,Data Engineer,6,41,MBO,6.6155056146292415,Generalist,A,False
+14011,Data Scientist,11,34,PhD,7.1341620336027445,Agent-based modelling,B,False
+27725,Staf,11,35,PhD,6.746062040701477,Other,C,False
+220592,Data Engineer,1,50,PhD,8.634641326771757,Data pipelines,A,False
+140451,Data Engineer,12,43,MBO,6.701649307895742,Data pipelines,B,False
+97591,DevOps Engineer,4,29,HBO,7.884982770586898,ML-Ops,A,False
+170400,Staf,10,36,MBO,7.443976579932727,Other,C,False
+239135,DevOps Engineer,5,34,HBO,6.5050931138146995,ML-Ops,B,False
+123436,Data Engineer,4,27,PhD,8.228679538619675,Data pipelines,B,False
+173272,Data Scientist,6,33,HBO,7.7077671809118025,Geo,B,False
+72338,Data Scientist,4,43,HBO,7.950008664380108,Generalist,A,False
+29065,Staf,7,40,PhD,7.690808714851275,Other,B,False
+15526,Data Scientist,14,51,PhD,7.380149965638689,Generalist,B,False
+76976,Data Scientist,8,39,PhD,5.720691244693975,Vision,B,False
+212620,Staf,6,45,MBO,8.806706077915283,Other,B,False
+172439,Data Scientist,2,34,MBO,7.021423938809089,Generalist,A,False
+79843,Data Scientist,5,44,HBO,7.152542980027557,Generalist,B,False
+58566,Data Engineer,6,29,HBO,7.934755745380985,Generalist,A,False
+20079,DevOps Engineer,10,44,WO,7.954677446040311,ML-Ops,A,False
+168915,Data Scientist,8,31,PhD,4.963367954576048,Generalist,A,False
+170717,Staf,10,36,WO,7.353324229364787,Other,C,False
+228961,Data Scientist,6,55,HBO,7.7842599053197175,Geo,B,False
+162840,DevOps Engineer,3,26,HBO,7.388055877146966,ML-Ops,A,False
+52873,DevOps Engineer,4,27,HBO,6.9540929603141715,ML-Ops,B,False
+180491,Data Engineer,9,50,PhD,5.932011534736905,Data pipelines,B,False
+150205,Data Scientist,10,51,HBO,5.927444637371998,Generalist,B,False
+172926,Data Scientist,9,34,MBO,6.7046691221799275,Agent-based modelling,B,False
+212424,Data Scientist,4,42,WO,6.410801992874766,Vision,B,False
+18354,DevOps Engineer,8,44,WO,8.724614618801752,ML-Ops,B,False
+71922,DevOps Engineer,10,42,PhD,6.065533892916321,ML-Ops,B,False
+74705,DevOps Engineer,6,48,PhD,7.172661730960801,ML-Ops,B,False
+71194,Staf,7,38,MBO,8.09168694802838,Other,C,False
+218657,Data Engineer,6,36,MBO,6.0672242099061835,Generalist,B,False
+37851,DevOps Engineer,9,56,MBO,5.637814826714378,ML-Ops,B,False
+166309,Data Scientist,1,51,PhD,6.845226480967135,Generalist,B,False
+13461,Data Scientist,10,35,MBO,6.026467158350345,Generalist,B,False
+136645,Data Engineer,9,42,HBO,7.421145546621042,Data pipelines,A,False
+17752,Data Scientist,2,28,HBO,7.41856875017692,Agent-based modelling,A,False
+143525,Data Scientist,4,34,MBO,6.013718169908274,Generalist,B,False
+37804,DevOps Engineer,1,24,HBO,5.950546131780481,ML-Ops,B,False
+151057,Data Engineer,13,36,MBO,6.59027966489047,Data pipelines,B,False
+134624,Staf,4,27,HBO,5.941325814132007,Other,B,False
+163359,Data Scientist,17,40,HBO,4.390439889973948,Agent-based modelling,B,False
+180960,Data Scientist,0,36,PhD,6.675964366165564,Structured data,A,False
+215322,Data Scientist,5,36,PhD,6.961162563119112,Generalist,B,False
+215449,Data Scientist,7,30,MBO,7.059839772177942,Structured data,B,False
+21749,Data Engineer,1,24,MBO,6.0622816927776135,Data pipelines,B,False
+186066,Data Engineer,8,33,MBO,9.001471281538889,Data storage,B,False
+185145,Staf,2,25,WO,7.597107580082081,Other,C,False
+102375,Data Engineer,0,57,HBO,7.06457568231255,Data pipelines,B,False
+120416,Staf,0,23,HBO,5.9094842137210835,Other,A,False
+70056,DevOps Engineer,1,24,MBO,5.5169362542780025,ML-Ops,A,False
+85455,Data Scientist,6,41,MBO,7.566799783818679,Agent-based modelling,A,False
+103526,Data Scientist,11,45,WO,8.322509707684876,Agent-based modelling,A,False
+65046,Staf,6,44,MBO,7.414176221942468,Other,B,False
+141494,DevOps Engineer,4,38,WO,7.077219360378682,ML-Ops,B,False
+182972,Data Scientist,11,49,MBO,8.112131284432703,Generalist,A,False
+230143,DevOps Engineer,0,56,HBO,8.276118255009807,ML-Ops,B,False
+237061,Data Scientist,8,42,PhD,6.46812725263249,Agent-based modelling,A,False
+95197,Data Engineer,1,24,PhD,6.9369622838134495,Data pipelines,A,False
+68745,Data Scientist,4,27,PhD,5.117091579743427,Generalist,A,False
+91740,Data Engineer,4,41,HBO,8.668311289484322,Data pipelines,B,False
+215120,DevOps Engineer,3,26,HBO,8.611077308364091,ML-Ops,B,False
+120263,Data Scientist,9,48,WO,5.948089722104858,Generalist,B,False
+33837,Staf,1,22,PhD,7.100647078519118,Other,C,False
+66443,Data Engineer,1,22,HBO,8.048123073464245,Generalist,B,False
+172594,Staf,15,38,HBO,8.96910677775505,Other,B,False
+206795,Data Scientist,2,28,MBO,7.793371692752978,Generalist,B,False
+233183,Data Scientist,2,25,HBO,6.701447050024705,Generalist,B,False
+46825,Data Scientist,3,43,MBO,8.315378209063098,Generalist,A,False
+56128,Data Scientist,5,28,MBO,6.865015525846689,Generalist,A,False
+179727,Data Scientist,19,43,WO,6.311703002008401,Generalist,A,False
+176684,Data Scientist,1,24,PhD,7.020465244536425,NLP,B,False
+95622,Data Scientist,15,43,PhD,6.903916475202651,NLP,B,False
+209322,Data Engineer,7,32,HBO,6.096448259448845,Data storage,B,False
+41358,Data Scientist,6,29,PhD,5.852674512999765,Vision,B,False
+57939,Staf,15,38,WO,6.455322066899232,Other,C,False
+124792,Data Scientist,4,44,MBO,7.7664427865510595,Geo,A,False
+19559,Data Scientist,11,46,WO,8.511339268722153,NLP,B,False
+208166,Staf,7,41,WO,7.804658611158376,Other,B,False
+69369,Staf,1,24,WO,6.412555050800971,Other,C,False
+219244,DevOps Engineer,9,44,WO,8.527592773060375,ML-Ops,A,False
+60328,Data Scientist,11,34,PhD,6.380044740523756,Geo,B,False
+13237,Data Engineer,10,33,PhD,7.419846536517536,Generalist,B,False
+99879,Data Engineer,0,23,PhD,8.009204739313047,Data storage,A,False
+32347,Data Engineer,0,43,MBO,6.8840710912775664,Data storage,B,False
+59254,DevOps Engineer,2,42,MBO,7.56260274804672,ML-Ops,B,False
+147221,DevOps Engineer,4,27,MBO,7.621144715293887,ML-Ops,B,False
+223684,Data Scientist,0,23,HBO,8.287872346778792,Generalist,B,False
+55373,DevOps Engineer,6,29,PhD,7.851037577111186,ML-Ops,B,False
+87309,Data Engineer,13,40,PhD,8.488378236409677,Data pipelines,A,False
+103469,Data Engineer,7,35,PhD,5.838730556699947,Generalist,B,False
+98857,DevOps Engineer,9,39,PhD,5.957224557728249,ML-Ops,A,False
+237917,Staf,5,28,MBO,5.504156867479598,Other,B,False
+49366,Data Scientist,1,24,HBO,8.34516420101703,NLP,A,True
+82581,Data Scientist,0,23,PhD,7.938293600796891,Structured data,B,False
+36672,Data Scientist,10,33,MBO,6.619803019760757,NLP,B,False
+43395,Staf,2,49,WO,6.436868878559881,Other,A,False
+225142,Data Scientist,2,34,WO,6.826470246201375,Generalist,B,False
+35053,Staf,8,46,MBO,7.844549349715823,Other,B,False
+175602,Staf,10,33,PhD,6.378662360548315,Other,A,False
+100873,Data Scientist,7,38,HBO,7.6689771614812,Generalist,B,False
+80396,Data Scientist,6,35,PhD,6.695681425136281,Generalist,B,False
+223379,Data Engineer,6,31,HBO,7.231087657490547,Data storage,A,False
+29238,DevOps Engineer,5,34,PhD,6.091151297427847,ML-Ops,B,False
+197206,Data Scientist,10,38,WO,8.050961629274004,NLP,B,False
+55895,Data Engineer,7,39,MBO,8.369079487602999,Data storage,A,False
+146038,DevOps Engineer,0,38,PhD,6.0819729363994846,ML-Ops,B,False
+75463,Data Scientist,4,27,HBO,6.893638682908919,Generalist,B,False
+189956,Data Scientist,2,25,WO,7.526563403687287,Structured data,B,False
+39106,Data Scientist,6,29,WO,7.582853639574928,Vision,B,False
+204082,Data Scientist,5,33,HBO,6.329350357430637,NLP,B,False
+186751,Data Scientist,10,45,PhD,7.366558521046805,Agent-based modelling,B,False
+186580,Data Scientist,7,34,WO,6.258236695815117,Generalist,B,False
+107367,DevOps Engineer,8,34,HBO,7.278037926650721,ML-Ops,A,False
+97183,Data Scientist,5,28,MBO,8.396288198524092,Generalist,A,False
+63742,Data Scientist,3,35,MBO,4.596503415829831,Generalist,B,False
+66206,Data Scientist,8,40,PhD,7.037237177236173,NLP,B,False
+42678,Staf,2,25,WO,6.029443262274604,Other,C,False
+71278,Data Engineer,0,40,HBO,5.943290369157338,Data storage,B,False
+149873,Data Scientist,4,42,WO,4.394774670110374,Generalist,B,False
+58338,Data Scientist,2,43,MBO,6.599912923116141,Generalist,B,False
+63887,Staf,8,41,HBO,5.013873946905485,Other,B,False
+51920,Data Scientist,6,30,PhD,9.323449667904722,Agent-based modelling,B,False
+161246,Data Engineer,6,44,HBO,6.3002293240477645,Data pipelines,B,False
+197511,Data Engineer,0,23,WO,4.401701140987295,Data pipelines,B,False
+124829,DevOps Engineer,12,46,MBO,6.036158545947368,ML-Ops,B,False
+90942,Data Scientist,7,30,HBO,5.306596007057928,Generalist,A,False
+44333,DevOps Engineer,16,44,MBO,9.949087255539325,ML-Ops,A,False
+58931,DevOps Engineer,3,37,WO,6.453365870580326,ML-Ops,A,False
+103297,Staf,12,44,WO,7.030312418579203,Other,C,False
+235783,DevOps Engineer,7,30,HBO,7.954808534287982,ML-Ops,A,False
+207763,Staf,9,41,PhD,7.810678954506829,Other,A,False
+133375,Data Scientist,10,33,WO,7.4803425439525935,Agent-based modelling,B,False
+137883,Data Engineer,2,27,WO,5.417855978433797,Data storage,B,False
+129490,DevOps Engineer,0,23,MBO,7.704958198324588,ML-Ops,A,False
+21942,Data Scientist,4,34,WO,8.726021431504844,Generalist,B,False
+197622,Staf,4,28,MBO,6.0178076620335,Other,C,False
+131450,DevOps Engineer,4,27,HBO,7.245362208614606,ML-Ops,C,False
+127394,Data Scientist,4,27,PhD,7.4915568929903875,Generalist,B,False
+19100,Data Engineer,1,22,MBO,8.013411743868813,Data storage,B,False
+44362,Data Scientist,4,46,WO,6.318905487820255,Generalist,A,False
+160350,Staf,1,25,MBO,6.582853601004261,Other,C,False
+237577,Data Engineer,1,24,HBO,7.923623886377152,Generalist,B,False
+24054,Data Scientist,5,42,WO,6.453086532632937,Generalist,B,False
+190232,Staf,7,30,HBO,7.334020606254389,Other,C,False
+120172,Data Scientist,1,24,WO,6.426772658482551,Generalist,B,False
+84337,Staf,0,23,PhD,9.190810369075,Other,A,True
+60127,Data Engineer,4,42,PhD,6.50666392412894,Data storage,B,False
+161317,Data Scientist,2,25,HBO,6.70158695127267,NLP,B,False
+50329,DevOps Engineer,4,28,PhD,6.104867048492388,ML-Ops,A,False
+237932,Data Engineer,14,46,WO,8.482185938690423,Generalist,B,False
+68736,DevOps Engineer,5,36,HBO,5.797464254371896,ML-Ops,B,False
+119762,Staf,6,29,MBO,5.487088450125509,Other,A,False
+177355,Data Scientist,7,37,HBO,8.169108519039785,Agent-based modelling,B,False
+139498,DevOps Engineer,3,42,PhD,5.67862406773151,ML-Ops,A,False
+113544,Data Scientist,7,32,MBO,6.384696745735324,Generalist,A,False
+206271,Staf,3,26,MBO,7.520306570734675,Other,B,False
+108950,Data Engineer,8,42,WO,7.600496314746864,Data storage,B,False
+122929,Staf,6,32,HBO,8.285577708079561,Other,B,False
+168170,DevOps Engineer,17,42,MBO,6.681367791674462,ML-Ops,B,False
+116202,Data Engineer,10,33,WO,8.363948215405621,Data storage,B,False
+217605,DevOps Engineer,9,41,PhD,10.0,ML-Ops,B,False
+23726,Data Engineer,10,40,HBO,8.332860029472801,Generalist,A,False
+238950,Data Scientist,9,32,HBO,6.82082621856528,Geo,C,False
+166837,Staf,8,31,MBO,7.7054814437041985,Other,B,False
+167603,Staf,8,38,HBO,6.8294212305039,Other,A,False
+30157,Data Engineer,7,50,MBO,7.158959960056157,Generalist,B,False
+183574,Data Engineer,8,32,WO,8.367180686657935,Data pipelines,B,False
+43853,Data Scientist,12,40,MBO,7.879207323581662,Vision,A,False
+25475,Staf,1,24,WO,7.1399192746495865,Other,A,False
+207879,Data Engineer,5,37,WO,7.594548279695491,Data storage,A,False
+190478,Data Scientist,12,39,WO,7.085669866409373,Generalist,B,False
+223142,Data Engineer,3,26,MBO,7.646601576691698,Data pipelines,B,False
+166728,Data Scientist,13,49,MBO,6.63265720009393,NLP,B,False
+146695,Staf,13,39,PhD,7.6258749877022,Other,B,False
+239031,Data Scientist,1,28,PhD,7.375941353977047,Vision,A,False
+38482,DevOps Engineer,2,37,HBO,5.844183479096682,ML-Ops,B,False
+188176,Data Scientist,3,26,PhD,4.521110662416817,Structured data,A,False
+110977,Data Engineer,4,27,HBO,8.617836990570872,Data storage,B,False
+194540,Data Scientist,6,29,PhD,7.363749117547636,Generalist,A,False
+131077,Data Scientist,9,59,MBO,5.765332886396072,Generalist,C,False
+55436,Staf,9,32,HBO,8.103217083338379,Other,B,False
+140482,Data Engineer,5,28,HBO,9.048502247692614,Generalist,A,False
+171582,DevOps Engineer,5,28,HBO,6.343307195802828,ML-Ops,A,False
+23375,DevOps Engineer,1,36,WO,7.050299014733929,ML-Ops,B,False
+157046,DevOps Engineer,2,40,HBO,7.813703051788355,ML-Ops,A,False
+154892,Data Scientist,7,30,MBO,5.92572280925345,Generalist,B,False
+34284,Staf,9,32,PhD,7.335479423445198,Other,A,False
+90091,DevOps Engineer,11,34,MBO,4.834498236802743,ML-Ops,A,False
+232952,Data Engineer,13,43,MBO,7.760182903430918,Generalist,A,False
+108176,Data Engineer,17,48,WO,8.706742410480787,Data pipelines,A,False
+153262,Data Engineer,10,33,HBO,7.50915959820421,Data pipelines,A,False
+235557,Data Scientist,19,43,MBO,7.123515429304096,Agent-based modelling,B,False
+206125,DevOps Engineer,0,23,MBO,7.314945823319888,ML-Ops,A,False
+41718,DevOps Engineer,2,43,PhD,6.426919731058493,ML-Ops,B,False
+234990,Staf,8,51,WO,7.192603918838827,Other,A,False
+120806,DevOps Engineer,11,36,PhD,7.5275762834513635,ML-Ops,B,False
+100171,Data Scientist,9,32,WO,7.702731115332932,Agent-based modelling,A,False
+104346,Data Scientist,9,36,HBO,8.428494686731916,Generalist,A,False
+210514,Data Scientist,1,24,MBO,5.080287980129852,Vision,B,False
+75536,Data Engineer,11,34,WO,7.516645742282677,Generalist,B,False
+143009,Data Scientist,1,43,WO,6.90758800604198,Generalist,C,False
+69561,DevOps Engineer,1,24,HBO,7.040243138293933,ML-Ops,A,False
+183234,DevOps Engineer,8,37,HBO,6.071774974124809,ML-Ops,B,False
+48716,Data Engineer,1,24,HBO,6.361506098227941,Data storage,B,False
+115808,Data Engineer,6,50,HBO,7.373962263285672,Data pipelines,B,False
+90948,DevOps Engineer,15,38,MBO,6.5962662793814655,ML-Ops,B,False
+181721,Data Scientist,15,43,WO,6.305124229197243,Agent-based modelling,B,False
+54135,Data Scientist,4,35,WO,8.009201221122282,Generalist,A,False
+144528,Staf,8,31,HBO,6.155977155575504,Other,C,False
+109070,Data Scientist,0,23,WO,6.179325320502734,Generalist,A,False
+116901,Data Scientist,1,31,PhD,8.805087825939017,Geo,A,True
+22670,Data Scientist,7,30,HBO,7.897006742343537,Generalist,A,False
+133134,Data Engineer,3,26,MBO,7.365563793630668,Data storage,B,False
+125753,DevOps Engineer,7,38,WO,7.800463356750128,ML-Ops,B,False
+182730,Data Engineer,8,32,HBO,7.136729764835688,Data pipelines,B,False
+125513,Data Engineer,3,34,WO,6.009322702021929,Data pipelines,B,False
+236803,Data Engineer,6,37,MBO,6.507501780086793,Generalist,A,False
+227106,Data Scientist,6,29,HBO,6.572961750447767,Generalist,A,False
+23231,Data Scientist,3,37,WO,5.598240968356746,Structured data,A,False
+102893,Staf,5,28,WO,8.189027734988336,Other,B,False
+153536,Staf,5,32,HBO,8.232730140614722,Other,C,False
+121730,Data Engineer,6,29,MBO,8.737825550644873,Data storage,A,False
+58162,Data Engineer,1,24,PhD,6.981408526569468,Data pipelines,B,False
+151240,Data Scientist,2,26,MBO,6.666536428830785,Vision,B,False
+19886,Data Scientist,9,40,MBO,5.900714933384629,Generalist,A,False
+116870,DevOps Engineer,9,32,HBO,6.45444050729445,ML-Ops,B,False
+229654,Data Scientist,4,37,MBO,7.987909863159175,Generalist,A,False
+222329,Data Scientist,4,51,PhD,8.290544480463062,Vision,A,False
+162208,DevOps Engineer,2,31,PhD,6.257700048658914,ML-Ops,B,False
+157431,Data Scientist,6,29,WO,7.084210249035008,Generalist,B,False
+227016,DevOps Engineer,9,34,MBO,6.634632938265379,ML-Ops,B,False
+49227,Data Engineer,4,30,PhD,7.696138298223848,Generalist,A,False
+81229,Staf,12,62,MBO,8.131786523866786,Other,B,False
+125219,Data Scientist,1,57,PhD,7.754314343730374,Generalist,B,False
+26092,Staf,1,22,HBO,7.698643080191469,Other,C,False
+137875,Data Scientist,2,25,MBO,7.538521823944663,NLP,B,False
+190084,Data Scientist,15,38,PhD,8.754566250471413,Agent-based modelling,A,False
+124238,DevOps Engineer,2,43,WO,5.943061194102139,ML-Ops,B,False
+193379,DevOps Engineer,7,32,MBO,8.212342094018505,ML-Ops,B,False
+198576,DevOps Engineer,7,30,MBO,7.036711144989165,ML-Ops,A,False
+127314,DevOps Engineer,7,34,PhD,6.774561753577801,ML-Ops,B,False
+119224,Data Scientist,4,27,PhD,6.654683120975336,Generalist,B,False
+195108,DevOps Engineer,3,26,MBO,7.631030570729336,ML-Ops,B,False
+123426,Data Scientist,2,25,WO,8.203770075576113,Generalist,B,False
+233005,Data Engineer,11,38,PhD,6.8317713548816705,Data pipelines,B,False
+131981,Data Scientist,7,45,PhD,7.419966359484727,Geo,B,False
+50685,Staf,2,33,PhD,7.944321817646486,Other,B,False
+74637,DevOps Engineer,1,55,PhD,5.595788233921361,ML-Ops,A,False
+58472,Staf,7,40,HBO,6.441354410387812,Other,C,False
+89129,Data Engineer,4,39,MBO,7.692785080545457,Data pipelines,A,False
+19877,Data Engineer,1,36,HBO,8.114728657877123,Data pipelines,B,False
+128623,Data Scientist,6,29,WO,6.600867790661924,Geo,C,False
+27287,Staf,7,39,WO,5.823825742790405,Other,C,False
+146542,Data Engineer,2,25,MBO,6.680566088611262,Generalist,B,False
+236113,Data Scientist,12,35,HBO,6.9662451175105575,Agent-based modelling,B,False
+170599,Data Scientist,5,35,HBO,8.472192506986362,NLP,A,False
+150292,Data Scientist,1,24,PhD,7.337238474731805,Generalist,A,False
+180670,DevOps Engineer,14,37,HBO,7.5956033536201755,ML-Ops,B,False
+52460,Data Scientist,13,46,WO,6.9502629879165125,Vision,B,False
+223531,Data Engineer,0,39,PhD,7.978644430122279,Data pipelines,B,False
+26108,Data Scientist,7,31,HBO,7.307765797950729,NLP,B,False
+233908,Data Scientist,14,49,MBO,6.305676146578845,Generalist,B,False
+230155,DevOps Engineer,4,31,HBO,8.449288386612132,ML-Ops,B,False
+215508,Data Scientist,9,35,WO,5.310226121680598,Generalist,B,False
+112182,Data Scientist,10,33,MBO,6.668780890475655,NLP,A,False
+123852,DevOps Engineer,10,52,WO,7.344076978429689,ML-Ops,B,False
+138873,Data Scientist,3,30,HBO,7.974353150044571,Vision,B,False
+239456,Data Engineer,6,43,WO,5.751960296339206,Data storage,A,False
+64748,Data Scientist,1,31,PhD,6.794273798239037,Generalist,B,False
+151013,DevOps Engineer,1,24,MBO,7.352437986035131,ML-Ops,B,False
+198430,DevOps Engineer,10,33,WO,6.5951881317010415,ML-Ops,A,False
+41566,Data Engineer,6,29,HBO,6.069402404657424,Data pipelines,B,False
+223617,Data Scientist,10,33,WO,5.8831260257506965,Geo,B,False
+85299,Data Engineer,2,52,WO,7.020245271068451,Generalist,B,False
+139608,Data Engineer,3,26,MBO,6.864351953652708,Data storage,B,False
+109724,Data Scientist,11,34,HBO,6.475001498340603,Generalist,C,False
+76893,Data Scientist,1,24,MBO,7.087336601044513,Generalist,B,False
+123552,Data Scientist,7,32,PhD,6.21756266549889,Structured data,A,False
+13219,Staf,2,40,WO,6.659114148457324,Other,A,False
+21054,DevOps Engineer,11,50,WO,5.811223439221232,ML-Ops,A,False
+127642,Data Engineer,0,23,PhD,6.596006198592668,Data storage,B,False
+51286,Staf,0,37,MBO,6.992227525711063,Other,A,False
+153128,Data Scientist,10,36,PhD,6.751258353172681,Vision,B,False
+166502,Data Scientist,1,28,PhD,7.370771175029434,NLP,B,False
+193024,DevOps Engineer,10,44,MBO,7.023858355426872,ML-Ops,A,False
+83946,Data Scientist,5,28,MBO,7.457105233529608,Structured data,B,False
+176047,Data Scientist,10,33,HBO,7.673498565374673,Generalist,B,False
+113898,Staf,14,37,MBO,8.002981432889106,Other,B,False
+233642,Data Scientist,1,57,PhD,5.224904453773643,Geo,A,False
+54523,DevOps Engineer,9,33,PhD,7.212442179954734,ML-Ops,B,False
+206663,Staf,11,40,PhD,7.218251580016922,Other,A,False
+235343,Staf,2,25,HBO,6.974103922894576,Other,C,False
+36502,Data Engineer,0,23,MBO,6.605470320056343,Generalist,A,False
+28880,Staf,16,47,HBO,7.285069652923028,Other,A,False
+44917,Data Scientist,7,54,WO,7.63684857146032,Generalist,B,False
+145791,DevOps Engineer,9,43,HBO,8.573149379593225,ML-Ops,B,False
+57056,Staf,8,50,MBO,6.365326498507551,Other,A,False
+193031,Data Scientist,7,50,WO,7.142431735827671,Vision,B,False
+138004,Staf,9,35,HBO,6.021099123844193,Other,C,False
+233032,Staf,9,45,PhD,6.233709704922711,Other,B,False
+213415,Data Engineer,11,40,WO,8.744552957225414,Generalist,B,False
+50659,Staf,8,35,HBO,9.259164663639288,Other,C,False
+36441,Data Scientist,7,30,MBO,7.093365643221658,Geo,C,False
+164429,Data Scientist,3,26,PhD,10.0,Vision,A,False
+160687,Data Scientist,3,26,MBO,6.702746194033721,Structured data,B,False
+234579,Data Scientist,0,34,PhD,5.944395616675543,Generalist,C,False
+182800,Data Engineer,2,47,PhD,8.051562588893779,Generalist,B,False
+163562,Staf,9,32,HBO,6.1860392724503,Other,C,False
+54540,DevOps Engineer,10,47,PhD,7.858303904479618,ML-Ops,B,False
+221088,Data Scientist,0,23,PhD,8.929614236102207,Generalist,B,False
+230569,Data Scientist,3,26,WO,7.086265296505399,Geo,B,False
+63833,DevOps Engineer,4,29,HBO,7.8733895236082105,ML-Ops,B,False
+86475,Data Scientist,3,32,MBO,8.16099802438739,Generalist,C,False
+39712,Data Scientist,11,36,WO,7.007401427061708,Agent-based modelling,A,False
+200216,Data Scientist,6,29,HBO,7.508684646612368,Generalist,B,False
+156874,Data Scientist,3,26,HBO,7.375239901221216,Generalist,B,False
+180615,Data Scientist,6,34,HBO,8.590617368239176,NLP,B,False
+34520,Data Scientist,10,42,WO,6.746252096215037,Generalist,B,False
+174540,Data Scientist,5,29,WO,6.825526985779815,Vision,C,False
+38102,Data Scientist,15,38,MBO,5.444287794657379,Generalist,A,False
+92861,Staf,12,47,PhD,9.334554915829623,Other,B,False
+77221,Data Engineer,13,56,MBO,7.020543718527165,Data pipelines,A,False
+135374,Data Scientist,10,41,WO,7.398014231639782,Structured data,B,False
+203864,Data Scientist,3,33,PhD,8.073698941491628,NLP,A,False
+89349,Data Scientist,2,39,HBO,7.473631036032543,NLP,B,False
+32189,Data Engineer,3,26,HBO,6.304790140286474,Generalist,C,False
+35427,Data Engineer,4,31,PhD,7.860171705238957,Data pipelines,B,False
+209111,DevOps Engineer,6,39,PhD,6.90920436351947,ML-Ops,B,False
+83344,Staf,5,28,HBO,7.05262916543683,Other,A,False
+234911,Data Engineer,12,54,PhD,7.332323717540049,Data storage,B,False
+199397,DevOps Engineer,1,22,HBO,6.533432254020142,ML-Ops,A,False
+80892,Data Engineer,2,32,HBO,7.734453358336661,Data pipelines,A,False
+65048,DevOps Engineer,0,23,MBO,6.228133096668598,ML-Ops,B,False
+213791,Data Engineer,2,31,HBO,8.386503096994055,Data pipelines,A,False
+225688,Staf,9,45,WO,6.868133582632073,Other,A,False
+153581,Data Engineer,0,23,WO,7.985483616922329,Data storage,A,False
+198006,Data Scientist,8,31,HBO,6.492671588710461,Generalist,B,False
+228552,DevOps Engineer,9,46,PhD,5.966321955262734,ML-Ops,B,False
+174220,DevOps Engineer,9,32,WO,7.390297028390663,ML-Ops,A,False
+91170,DevOps Engineer,10,48,PhD,6.2928199778745215,ML-Ops,A,False
+234878,Data Scientist,10,47,MBO,6.0836492956803685,Generalist,A,False
+29587,Data Scientist,1,24,WO,6.7039023727837925,Generalist,A,False
+69942,Staf,1,24,MBO,8.054812641775701,Other,C,False
+101805,Staf,7,34,MBO,8.031061870401114,Other,A,False
+133107,Data Scientist,5,40,PhD,6.273782010810128,Generalist,B,False
+108039,DevOps Engineer,5,28,HBO,5.627393218103487,ML-Ops,B,False
+115241,Data Scientist,8,31,MBO,6.998514763337384,Agent-based modelling,B,False
+95560,Data Engineer,0,26,PhD,6.024464399934492,Generalist,A,False
+53347,Data Scientist,10,49,PhD,5.9615947774210545,Geo,C,False
+118818,Data Scientist,3,52,PhD,7.1242889192672685,Geo,A,False
+12771,Staf,7,43,MBO,6.035489928993821,Other,A,False
+192522,DevOps Engineer,1,34,HBO,7.167985829354808,ML-Ops,A,False
+225637,Data Scientist,11,34,HBO,6.489120947266611,Generalist,A,False
+200651,DevOps Engineer,5,30,PhD,6.253768251672525,ML-Ops,B,False
+32074,DevOps Engineer,4,40,MBO,6.460349140259105,ML-Ops,B,False
+60883,Data Engineer,2,46,HBO,7.389999252990339,Generalist,B,False
+56080,Data Engineer,12,35,HBO,6.6375356837476325,Generalist,B,False
+216990,Data Scientist,7,32,WO,7.241917220199071,Generalist,B,False
+109314,Data Scientist,9,32,HBO,8.93214040715008,Generalist,B,False
+197785,Data Engineer,8,33,WO,7.735061439853351,Generalist,B,False
+214920,Data Scientist,4,27,PhD,6.653620713645819,Generalist,B,False
+130951,Staf,0,38,PhD,9.11257866620279,Other,C,False
+128708,Data Engineer,6,29,HBO,7.219314832542897,Data pipelines,B,False
+76211,Staf,15,54,WO,6.062289422024777,Other,B,False
+166093,Data Engineer,5,28,WO,7.941862523150358,Data storage,B,False
+56906,Staf,0,23,MBO,7.230300342664544,Other,C,False
+131295,Data Engineer,1,46,MBO,7.922542828664783,Generalist,A,False
+216532,Data Scientist,0,23,PhD,5.679653771753849,Agent-based modelling,A,False
+14115,Data Engineer,2,25,PhD,8.031151416627347,Data pipelines,A,False
+176026,DevOps Engineer,0,55,MBO,7.953108834255956,ML-Ops,C,False
+19824,DevOps Engineer,5,28,WO,6.795857716970028,ML-Ops,B,False
+59842,Staf,2,25,MBO,6.42751805003734,Other,B,False
+33211,Data Engineer,7,33,WO,6.043692109946343,Generalist,B,False
+189418,DevOps Engineer,12,54,MBO,7.0534804960424795,ML-Ops,B,False
+56364,Data Scientist,2,47,HBO,7.1722652833485965,Geo,B,False
+187356,Data Scientist,7,32,HBO,8.653995106871957,Generalist,B,False
+143338,Staf,0,23,WO,7.9091997730799894,Other,B,False
+185302,Data Engineer,5,32,PhD,7.040462984513192,Data storage,B,False
+169430,Data Scientist,7,38,WO,7.392705994111129,Structured data,B,False
+216370,Data Scientist,0,34,WO,7.506812337754232,Generalist,A,False
+147995,Data Engineer,6,37,MBO,7.116166386829489,Data storage,B,False
+63357,Data Scientist,10,49,WO,7.550459116764777,Agent-based modelling,B,False
+223010,Staf,5,55,HBO,6.540745060392749,Other,A,False
+212629,DevOps Engineer,2,29,HBO,6.127719242201387,ML-Ops,A,False
+231119,Data Scientist,8,41,HBO,6.46176391329178,Generalist,B,False
+57300,Data Scientist,2,32,PhD,5.898231338470198,Geo,A,False
+67760,Data Scientist,13,37,WO,7.0010908898173625,Generalist,B,False
+198784,Staf,5,41,WO,5.594197444327079,Other,A,False
+225736,Data Scientist,8,34,HBO,8.70905473736696,Structured data,A,False
+229565,DevOps Engineer,2,25,PhD,7.411359679354538,ML-Ops,B,False
+82540,DevOps Engineer,2,42,PhD,7.01930468954981,ML-Ops,A,False
+166720,Staf,1,24,PhD,6.63188466243509,Other,A,False
+204412,Data Engineer,6,31,MBO,7.786914473085139,Generalist,B,False
+52742,DevOps Engineer,0,23,HBO,5.6999116367845755,ML-Ops,B,False
+78528,DevOps Engineer,10,42,HBO,7.63698470263807,ML-Ops,B,False
+192411,Data Scientist,11,34,WO,5.636642967528714,Geo,B,False
+63513,Data Engineer,4,35,HBO,5.391531384864276,Generalist,A,False
+234860,Data Scientist,8,32,PhD,7.201490615396651,NLP,A,False
+39676,Data Scientist,6,48,PhD,7.133254625320787,Structured data,B,False
+145850,Data Scientist,5,32,WO,6.169204620421018,Agent-based modelling,B,False
+50308,Data Scientist,13,48,MBO,6.93174952286312,Agent-based modelling,B,False
+201795,Data Engineer,3,34,HBO,7.453247981761307,Data pipelines,A,False
+97038,Data Engineer,2,39,HBO,8.815903440789462,Data storage,B,False
+223022,Staf,0,23,MBO,7.909449244032848,Other,A,False
+175348,Data Scientist,10,45,HBO,5.721013755646878,Vision,B,False
+230328,Data Engineer,5,28,HBO,7.469497561544557,Data storage,B,False
+33507,Data Engineer,10,38,WO,6.869150647278929,Data pipelines,B,False
+228445,Data Scientist,4,27,PhD,6.959211410699449,Generalist,A,False
+172515,Data Scientist,11,42,WO,5.923056704531076,Agent-based modelling,B,False
+57263,DevOps Engineer,13,42,HBO,7.530090326553903,ML-Ops,B,False
+38187,DevOps Engineer,1,25,HBO,6.20638992038015,ML-Ops,A,False
+92532,Data Scientist,11,37,MBO,6.0034374520405285,Structured data,A,False
+150644,Data Scientist,3,26,MBO,6.423023715238929,Generalist,B,False
+50757,DevOps Engineer,2,25,HBO,7.114264110733181,ML-Ops,A,False
+172009,Data Scientist,7,30,MBO,4.655414140609125,Generalist,A,False
+112302,Data Scientist,6,57,WO,7.805090319633109,Geo,A,False
+169755,Data Engineer,1,37,MBO,6.323057644748035,Data pipelines,A,False
+167957,Data Scientist,13,36,PhD,7.174735245861008,Generalist,B,False
+191362,Data Scientist,3,26,MBO,6.608472819498878,Generalist,B,False
+35776,Data Scientist,8,34,MBO,6.220332732515642,Generalist,B,False
+206126,Data Scientist,5,28,PhD,6.685047690509915,Generalist,B,False
+58947,Data Scientist,10,34,MBO,7.85960445032407,Generalist,B,False
+214546,DevOps Engineer,11,55,WO,6.725846189397362,ML-Ops,A,False
+38441,Data Scientist,5,37,HBO,6.544615262017362,Generalist,C,False
+197772,Data Scientist,0,42,MBO,5.282394660538358,NLP,B,False
+47233,Staf,1,24,MBO,4.924936996789661,Other,B,False
+177046,Data Scientist,2,25,WO,7.546457261163678,NLP,B,False
+103747,Data Scientist,9,32,WO,5.795812684568243,NLP,B,False
+166155,Staf,11,47,PhD,8.31270620136154,Other,C,False
+12667,Data Scientist,10,36,WO,6.056906387805438,Generalist,A,False
+215556,Data Engineer,3,26,HBO,7.492875650636102,Data storage,B,False
+54003,DevOps Engineer,6,29,MBO,4.736566348709544,ML-Ops,B,False
+165760,DevOps Engineer,13,39,MBO,6.731589757993251,ML-Ops,A,False
+14657,Staf,1,47,PhD,5.957499147874286,Other,B,False
+209985,Data Scientist,1,24,HBO,8.013274509696956,Structured data,C,False
+161884,DevOps Engineer,4,44,WO,6.569940539175272,ML-Ops,B,False
+73804,Data Scientist,11,34,MBO,6.940656795139432,NLP,B,False
+215933,Data Scientist,10,33,MBO,6.897721909069609,Vision,B,False
+107543,Data Engineer,7,47,HBO,6.379393945287537,Data pipelines,B,False
+228194,DevOps Engineer,10,33,WO,5.924586448300414,ML-Ops,B,False
+136067,DevOps Engineer,4,33,HBO,6.880270205072794,ML-Ops,B,False
+188422,DevOps Engineer,6,29,HBO,5.9783946795909255,ML-Ops,A,False
+21137,Data Scientist,10,41,WO,9.478593369995478,Generalist,A,False
+115938,Data Scientist,1,51,HBO,6.7505842637331535,Generalist,B,False
+146077,Data Scientist,4,30,WO,5.73309734637318,Generalist,B,False
+99195,Staf,8,31,HBO,6.889539195152172,Other,B,False
+223753,Data Scientist,14,57,HBO,6.983141132689693,Geo,B,False
+163098,Data Scientist,9,41,HBO,7.256811126138782,NLP,A,False
+90055,Data Scientist,1,44,HBO,7.7374420030088,Generalist,B,False
+197019,Data Scientist,8,35,HBO,5.7989210739586925,Vision,B,False
+56414,Data Scientist,6,29,HBO,6.611014770604752,Generalist,C,False
+234724,Data Scientist,1,50,HBO,7.281281280405118,Generalist,B,False
+85774,Staf,8,34,HBO,6.729402300158851,Other,B,False
+12867,Staf,19,48,HBO,8.091813410348452,Other,A,False
