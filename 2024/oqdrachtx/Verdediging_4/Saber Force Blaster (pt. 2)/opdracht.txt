@@ -1,0 +1,26 @@
+Beste kadet,
+
+Helaas is er een fout in de metadatering van het wedstrijds-verslag geslopen,
+het ging niet om Padawans, maar om Jedi-masters!
+
+Hun sparsessies verlopen hetzelfde, op één ding na. Als een Jedi-master drie
+keer op rij de Force gebruikt, wint de master sowieso! Dit omdat de Force steeds
+sterker wordt. Er wordt alleen gelijk gespeeld als de andere Jedi-master ook
+voor de derde keer op rij de force heeft gebruikt. Na drie keer is de maximale
+kracht van de force bereikt. 
+
+Hoe vaak heeft speler 1 nu verloren, gelijkgespeeld en gewonnen? Zet de getallen
+achter elkaar.
+
+Voorbeeld:
+
+| P1 | P2 | Force1 | Force2 | Resultaat |
+|----|----|--------|--------|-----------|
+| F  | B  | 1      | 0      | Verloren  |
+| L  | F  | 0      | 1      | Verloren  |
+| F  | F  | 1      | 2      | Gelijk    |
+| F  | F  | 2      | 3 (!)  | Verloren  |
+| F  | F  | 3 (!)  | 3 (!)  | Gelijk    |
+| F  | B  | 3 (!)  | 0      | Gewonnen  |
+
+Resultaat: 321

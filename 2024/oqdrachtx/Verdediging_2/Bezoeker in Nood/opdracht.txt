@@ -1,0 +1,35 @@
+Kadet,
+
+Weer een slachtoffer van het Imperium... Er is een alien neergeschoten door onze
+vijand. Hij is ergens in Nederland terecht gekomen. Gelukkig hebben we een
+recent satellietbeeld van de regio waar hij geland zou moeten zijn. Kun jij hem
+vinden?
+
+We hebben een afbeelding op ware grootte voor je klaargezet op basis van
+eerdere, verdachte waarneming (suspicious_observation.png). Zo groot als dat de
+alien op de afbeelding is, is hij ook in het satellietbeeld
+(sat_beeld_1337.png). Jouw taak is om een coördinaat van waar de alien zich in
+de regio bevindt te vinden. Hij is 50 bij 50 pixels groot in dit beeld. Geef het
+coördinaat van één deze pixels in het satellietbeeld terug in de vorm van
+x-coördinaat,y-coördinaat zodat we een xenobiologische reddingsteam op hem af
+kunnen sturen om hem te helpen.
+
+Om je te helpen, hebben we hier een voorbeeld. Stel dat het satellietbeeld dit
+onderstaande grid van nullen zou zijn.
+
+[0, 0, 0, 0
+ A, 0, 0, 0,
+ 0, 0, 0, 0,
+ 0, 0, 0, 0]
+
+Als A de Alien zou zijn in dit grid, zou jouw antwoord er als volgt uit moeten
+zien: 0,1. De alien bevindt zich op coördinaat 0 (de eerste kolom in het grid)
+op de x-as en coördinaat 1 (de tweede rij in het grid van boven) op de y-as.
+
+Succes! De lot van dit wezen hangt van jouw informatie af.
+
+Majoor Stersnor
+
+P.S. Dit satellietbeeld is verkregen via het Sentinel-2 programma van de
+     European Space Agency (https://sentinels.copernicus.eu/web/sentinel/technical-guides/sentinel-2-msi)
+     en daarna bewerkt.

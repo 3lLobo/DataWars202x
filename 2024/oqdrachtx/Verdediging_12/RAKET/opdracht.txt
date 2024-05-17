@@ -1,0 +1,84 @@
+Kadet,
+
+We hebben twee jaar geleden een groot aantal Remote Anti-Kinetic
+Extra-terrestrial Turbines (RAKET) uitgefaseerd. Nu we aangevallen worden kunnen
+we alle middelen gebruiken die we hebben. Gelukkig zijn de RAKETten nog te
+vinden op de exo-scrapyard. Bij het uitlezen van de RAKETten blijkt dat ze
+voorgeprogrammeerd zijn om naar bepaalde locatie te vliegen en daar te
+detoneren. We hebben nu geen tijd om de RAKETten opnieuw te programmeren. Welke
+RAKETten kunnen we gebruiken om locatie van de vijand (6, 148) aan te vallen?
+Belangrijk om hierbij te bedenken is dat in de RAKET genoeg brandstof past voor
+100 voorwaartse tijd epochs (hierover later meer).
+
+Jouw input ("input.txt") bevat de uitgelezen records van de 1.000 RAKETten.
+Hieronder een voorbeeld van zo'n record, met een uitleg:
+
+449,130,8,1,4,4,16,SbNEggI
+
+De bovenstaande input kan als volgt geïnterpreteerd worden:
+    449 is het y-start-coördinaat
+    138 is het x-start-coördinaat
+    8 is de y-plus-tijdsdelta
+    1 is de y-plus-delta
+    4 is de y-minus-tijdsdelta
+    4 is de y-minus-delta
+    16 is een getal waarvan we het nut nog niet begrijpen
+    SbNEggI is een geheim versleuteld bericht
+
+Het afleggen van de route doet de RAKET als volgt (noot: de RAKET heeft genoeg
+brandstof voor 100 voorwaartse epochs):
+
+* Zolang de RAKET brandstof heeft zal deze eerst een stap voorwaarts maken,
+  daarmee neemt de x-locatie toe met 1.
+* Daarna is de RAKET voorgeprogrammeerd elke y-plus-tijdsdelta epochs een
+  verandering van y-plus-delta stappen in de richting van y te maken (dit zorgt
+  ervoor dat de RAKET naar beneden gaat).
+* Daarna is de RAKET voorgeprogrammeerd elke y-minus-tijdsdelta epochs een
+  verandering van y-minus-delta stappen in de richting van y te maken (dit zorgt
+  ervoor dat de raket omhoog gaat).
+
+Noot: we representeren coordinaten als (y, x).
+
+Het sterrenstelsel heeft een afmeting van 1.000 bij 1.000. Wanneer de RAKET
+dreigt hierbuiten te treden wordt deze door de zwarte gaten op magische wijze
+getransporteerd naar de andere kant van het sterrenstelsel. Voorbeeld: als de
+RAKET zich bevindt op (100, 999) en zou daarna naar (100, 1002) gaan, dan gaat
+deze in plaats daarvan naar (100, 2).
+
+Kort voorbeeld:
+Startlocatie RAKET: (449, 138)
+* Voorwaarts epoch 1:
+- RAKET gaat naar (449, 139)
+* Voorwaarts epoch 2:
+- RAKET gaat naar (449, 140)
+* Voorwaarts epoch 3:
+- RAKET gaat naar (449, 141)
+* Voorwaarts epoch 4:
+- RAKET gaat naar (449, 142)
+- obv y-minus-tijdsdelta --> RAKET gaat naar (445, 142)
+* Voorwaarts epoch 5:
+- RAKET gaat naar (445, 143)
+* Voorwaarts epoch 6:
+- RAKET gaat naar (445, 144)
+* Voorwaarts epoch 7:
+- RAKET gaat naar (445, 145)
+* Voorwaarts epoch 8:
+- RAKET gaat naar (445, 146)
+- obv y-plus-tijdsdelta --> RAKET gaat naar (446, 146)
+- obv y-minus-tijdsdelta --> RAKET gaat naar (442, 146)
+
+enzovoort, totdat de RAKET alle 100 brandstofstappen opgemaakt heeft.
+
+Jullie taak is het om te berekenen welke van de RAKETten na 100 brandstofstappen
+exact de locatie (6, 148) bereikt. De RAKETten die aan dit criterium voldoen
+noteer je. Nu is het zaak de geheime versleutelde berichten te kraken. Wij weten
+ook niet hoe dit moet. Misschien kan het geheime getal na het geheime bericht
+nog ergens bij helpen?
+
+Om het antwoord op deze opdracht te vinden moet je de gedecodeerde berichten van
+de nuttige RAKETten achter elkaar plakken (zonder spaties).
+
+Hoogachtend,
+
+Commander S
+Offensive Air Support Unit

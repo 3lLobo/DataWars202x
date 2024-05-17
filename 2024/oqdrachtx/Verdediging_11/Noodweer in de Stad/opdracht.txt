@@ -1,0 +1,32 @@
+Kadet!
+
+Het is ongekend noodweer op onze planeet! De storm is onvoorspelbaar en
+gevaarlijk, met regen die als waterstralen uit de lucht valt en de straten
+overspoelt! We kunnen het regenwater naar het verlaten, oude gedeelte van de
+stad leiden om het daar op te slaan en daarmee voorkomen dat kritieke
+infrastructuur blank komt te staan! Maar hoeveel water kunnen we kwijt in onze
+oude stad?
+
+Gegeven is een lijst van de hoogtes van gebouwen ("gebouwhoogtes.txt"), aan jou
+de cruciale taak om aan de hand van die lijst de maximum opslagcapaciteit aan
+regenwater tussen de gebouwen te berekenen.
+
+Geef je antwoord als geheel getal.
+
+------------------
+
+Een voorbeeld met als input:
+gebouwhoogtes = [4, 6, 1, 3, 3, 5, 1, 5]
+
+Zie "regenwater0.png" voor een visualisatie van deze data in een staafgrafiek. Het
+maximum dat we aan regenwater kunnen opvangen zie je in "regenwater1.png"
+
+In dit voorbeeld kunnen we dus aan water opvangen: 12 (4+2+2+4: het totaal van
+de blauw weergegeven delen van de staven).
+
+Belangrijke aannames:
+* Water kan niet overvloeien naar een andere positie (dus van links naar rechts
+  bewegen in de staafgrafiek);
+* Er is geen barrière 'aan de zijkanten' die het water kan tegenhouden. Vandaar
+  dat in dit voorbeeld het water op positie 0 gewoon wegstroomt en dus niet kan
+  worden opgeslagen.

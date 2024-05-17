@@ -1,0 +1,44 @@
+Kadet!
+
+Werkelijk niets gaat onze vijand te ver om ons te saboteren en onze processen te
+ontregelen! Dit keer hebben ze zelfs het complete zwaartekrachtveld van onze
+planeet weten uit te schakelen. Wat een drama! Nu vliegt er van alles door de
+lucht: plastifoam, holozines, permacrete, skatecoasters, magnatrams,
+landspeeders, vibrospades, beamdrills en holoscanners. Het is een absolute
+chaos!
+
+Gelukkig zijn onze knapste natuurkundigen in staat de zwaartekracht weer in te
+schakelen, maar de vraag is: waar gaat al dat spul dat nu nog in de lucht
+rondzweeft weer belanden? We hebben in kaart gebracht waar al het puin momenteel
+rondzweeft in "ruimtepuin_B.txt". Aan jou de taak om te laten zien waar al het
+ruimtepuin terecht komt zodra de zwaartekracht weer wordt ingeschakeld.
+
+Een voorbeeld:
+
+# = Wel een object
+- = Geen object
+
+Input: Beginsituatie met de zwaartekracht uitgeschakeld
+
+[-, #, #, #, #, -]
+[#, -, -, #, #, -]
+[-, #, -, -, -, -]
+[-, -, -, -, -, -]
+
+Output: Situatie nadat de zwaartekracht weer is ingeschakeld
+
+[-, -, -, -, -, -]
+[-, -, -, -, -, -]
+[-, #, -, #, #, -]
+[#, #, #, #, #, -]
+
+Je mag je antwoord als volgt geven: het aantal objecten per rij achter elkaar
+gezet, gestart vanaf de bovenste rij. Lege rijen mogen overgeslagen worden. Dus
+in dit geval:
+
+- 0 objecten in de bovenste rij
+- 0 objecten in de rij eronder
+- 3 objecten in de rij eronder
+- 5 objecten in de onderste rij
+
+Geeft als antwoord: 35

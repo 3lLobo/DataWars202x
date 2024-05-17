@@ -1,0 +1,468 @@
+[
+    {
+        "asset": {
+            "image": "ice1.gif",
+            "size": 95
+        },
+        "id": "2gHSx0dffyr4YIDi0tjAXskO3bG",
+        "locks": [
+            "2gHViaFUiukls8fhq5QHRaRnXNN",
+            "2gHVpKz1hV14UnZtY03Wu8Riod6"
+        ],
+        "name": "Intergalactic Language",
+        "namePath": "Intel 1",
+        "points": 6,
+        "position": {
+            "x": 790,
+            "y": 461
+        },
+        "tooltipOffset": null
+    },
+    {
+        "asset": {
+            "image": "moon1.gif",
+            "size": 50
+        },
+        "id": "2gHTJewsRSGyCxUsNjvIsVaYtOW",
+        "locks": [
+            "2gHViaFUiukls8fhq5QHRaRnXNN",
+            "2gHVpKz1hV14UnZtY03Wu8Riod6"
+        ],
+        "name": "Echo Pixel",
+        "namePath": "Intel 2",
+        "points": 12,
+        "position": {
+            "x": 743,
+            "y": 557
+        },
+        "tooltipOffset": null
+    },
+    {
+        "asset": {
+            "image": "sun.gif",
+            "size": 100
+        },
+        "id": "2gHTOW4DqxZ6QIXxjyfs6gPZyy6",
+        "name": "Fighter Identification",
+        "namePath": "Logistiek 1",
+        "points": 6,
+        "position": {
+            "x": 943,
+            "y": 358
+        },
+        "tooltipOffset": -15
+    },
+    {
+        "asset": {
+            "image": "ice4.gif",
+            "size": 100
+        },
+        "id": "2gHTSlG17IutftfTikUwIlHtgKi",
+        "name": "Universum.db",
+        "namePath": "Intel 3",
+        "points": 12,
+        "position": {
+            "x": 621,
+            "y": 147
+        },
+        "tooltipOffset": null
+    },
+    {
+        "asset": {
+            "image": "ice5.gif",
+            "size": 90
+        },
+        "id": "2gHTcOFitMY4SaH3kCnShSU0rcS",
+        "name": "Keylog (pt. 1)",
+        "namePath": "Intel 4",
+        "points": 12,
+        "position": {
+            "x": 488,
+            "y": 258
+        },
+        "tooltipOffset": null
+    },
+    {
+        "asset": {
+            "image": "moon2.gif",
+            "size": 45
+        },
+        "id": "2gHTgsZDjyken9JZOjzKUcWxSN9",
+        "name": "Keylog (pt. 2)",
+        "namePath": "Intel 5",
+        "points": 12,
+        "position": {
+            "x": 535,
+            "y": 331
+        },
+        "tooltipOffset": null
+    },
+    {
+        "asset": {
+            "image": "ice2.gif",
+            "size": 80
+        },
+        "id": "2gHTkNAwJ9RNW48hgVevKnrl1yk",
+        "name": "Proef van de Sith Relieken",
+        "namePath": "Intel 6",
+        "points": 12,
+        "position": {
+            "x": 382,
+            "y": 422
+        },
+        "tooltipOffset": null
+    },
+    {
+        "asset": {
+            "image": "ice1.gif",
+            "size": 95
+        },
+        "id": "2gHTpDdjjOZ3ndtgtePIUsUt7di",
+        "name": "Hyperspectral Reflectance",
+        "namePath": "Intel 7",
+        "points": 12,
+        "position": {
+            "x": 487,
+            "y": 588
+        },
+        "tooltipOffset": null
+    },
+    {
+        "asset": {
+            "image": "ice4.gif",
+            "size": 80
+        },
+        "id": "2gHTsC7FGAhQqrOoflfNA5oBBS5",
+        "name": "Lost Agents",
+        "namePath": "Intel 8",
+        "points": 20,
+        "position": {
+            "x": 305,
+            "y": 708
+        },
+        "tooltipOffset": null
+    },
+    {
+        "asset": {
+            "image": "ice3.gif",
+            "size": 95
+        },
+        "id": "2gHTvC3UZOgb8eIydOtTtiQCtJW",
+        "name": "Maintain Jetmotors (pt. 1)",
+        "namePath": "Intel 9",
+        "points": 30,
+        "position": {
+            "x": 185,
+            "y": 565
+        },
+        "tooltipOffset": null
+    },
+    {
+        "asset": {
+            "image": "ice5.gif",
+            "size": 90
+        },
+        "id": "2gHTy4KErgvTFcu9qDmp0r7a0tF",
+        "name": "Maintain Jetmotors (pt. 2)",
+        "namePath": "Intel 10",
+        "points": 20,
+        "position": {
+            "x": 113,
+            "y": 354
+        },
+        "tooltipOffset": null
+    },
+    {
+        "asset": {
+            "image": "galaxy.gif",
+            "size": 175
+        },
+        "id": "2gHU2CAJ54uWM6gBGSDdpRIYI1K",
+        "name": "Maintain Jetmotors (pt. 3)",
+        "namePath": "Intel 11",
+        "points": 30,
+        "position": {
+            "x": 245,
+            "y": 125
+        },
+        "tooltipOffset": -35
+    },
+    {
+        "asset": {
+            "image": "water1.gif",
+            "size": 95
+        },
+        "id": "2gHViaFUiukls8fhq5QHRaRnXNN",
+        "locks": [
+            "2gHSx0dffyr4YIDi0tjAXskO3bG",
+            "2gHTJewsRSGyCxUsNjvIsVaYtOW"
+        ],
+        "name": "Baudot Code",
+        "namePath": "Verdediging 1",
+        "points": 6,
+        "position": {
+            "x": 1157,
+            "y": 624
+        },
+        "tooltipOffset": null
+    },
+    {
+        "asset": {
+            "image": "moon3.gif",
+            "size": 55
+        },
+        "id": "2gHVpKz1hV14UnZtY03Wu8Riod6",
+        "locks": [
+            "2gHSx0dffyr4YIDi0tjAXskO3bG",
+            "2gHTJewsRSGyCxUsNjvIsVaYtOW"
+        ],
+        "name": "Bezoeker in Nood",
+        "namePath": "Verdediging 2",
+        "points": 12,
+        "position": {
+            "x": 1254,
+            "y": 585
+        },
+        "tooltipOffset": null
+    },
+    {
+        "asset": {
+            "image": "water3.gif",
+            "size": 100
+        },
+        "id": "2gHVt4lzJsPoLztqBFMzF2o0A8j",
+        "name": "Saber Force Blaster (pt. 1)",
+        "namePath": "Verdediging 3",
+        "points": 6,
+        "position": {
+            "x": 1123,
+            "y": 428
+        },
+        "tooltipOffset": null
+    },
+    {
+        "asset": {
+            "image": "water2.gif",
+            "size": 80
+        },
+        "id": "2gHVyrc30ukcU3VLadyGEOsSYPp",
+        "name": "Saber Force Blaster (pt. 2)",
+        "namePath": "Verdediging 4",
+        "points": 12,
+        "position": {
+            "x": 1227,
+            "y": 298
+        },
+        "tooltipOffset": null
+    },
+    {
+        "asset": {
+            "image": "water4.gif",
+            "size": 85
+        },
+        "id": "2gHW2TbuHvi6DjrJDQKsjc9Rgvz",
+        "name": "Ruimtepuin (pt. 1)",
+        "namePath": "Verdediging 5",
+        "points": 10,
+        "position": {
+            "x": 1404,
+            "y": 335
+        },
+        "tooltipOffset": null
+    },
+    {
+        "asset": {
+            "image": "moon2.gif",
+            "size": 40
+        },
+        "id": "2gHW7NfeqBPJAXY9ZjjIKBzFTda",
+        "name": "Ruimtepuin (pt. 2)",
+        "namePath": "Verdediging 6",
+        "points": 30,
+        "position": {
+            "x": 1342,
+            "y": 408
+        },
+        "tooltipOffset": null
+    },
+    {
+        "asset": {
+            "image": "water5.gif",
+            "size": 100
+        },
+        "id": "2gHWAmAXw0Ah7fxjprJaEndEtmd",
+        "name": "Galactic Trench War (pt. 1)",
+        "namePath": "Verdediging 7",
+        "points": 12,
+        "position": {
+            "x": 1529,
+            "y": 527
+        },
+        "tooltipOffset": null
+    },
+    {
+        "asset": {
+            "image": "islands.gif",
+            "size": 90
+        },
+        "id": "2gHWFmemC17iEPtqKCHkYkUQzQi",
+        "name": "Weapon Factory (pt. 1)",
+        "namePath": "Verdediging 9",
+        "points": 20,
+        "position": {
+            "x": 1773,
+            "y": 603
+        },
+        "tooltipOffset": null
+    },
+    {
+        "asset": {
+            "image": "water3.gif",
+            "size": 100
+        },
+        "id": "2gHWKH71weVRavecHPanyr84gja",
+        "name": "Weapon Factory (pt. 2)",
+        "namePath": "Verdediging 10",
+        "points": 12,
+        "position": {
+            "x": 1823,
+            "y": 343
+        },
+        "tooltipOffset": null
+    },
+    {
+        "asset": {
+            "image": "water6.gif",
+            "size": 75
+        },
+        "id": "2gHWOSMkwdUDexawUZTgdjUkhPs",
+        "name": "Galactic Trench War (pt. 2)",
+        "namePath": "Verdediging 8",
+        "points": 20,
+        "position": {
+            "x": 1594,
+            "y": 686
+        },
+        "tooltipOffset": null
+    },
+    {
+        "asset": {
+            "image": "water6.gif",
+            "size": 75
+        },
+        "id": "2gHWSy5M9BpPDw8bh8WMavM6L2i",
+        "name": "Noodweer in de Stad",
+        "namePath": "Verdediging 11",
+        "points": 20,
+        "position": {
+            "x": 1607,
+            "y": 170
+        },
+        "tooltipOffset": null
+    },
+    {
+        "asset": {
+            "image": "blackhole.gif",
+            "size": 250
+        },
+        "id": "2gHWVudEfAIfQw77exDnhNggRC8",
+        "name": "RAKET",
+        "namePath": "Verdediging 12",
+        "points": 20,
+        "position": {
+            "x": 1110,
+            "y": 125
+        },
+        "tooltipOffset": -70
+    },
+    {
+        "asset": {
+            "image": "dry.gif",
+            "size": 110
+        },
+        "id": "2gHXVgynJ6jRtzpUBHsBLpnw2yg",
+        "name": "Rocket Equation (pt. 1)",
+        "namePath": "Aanval 1",
+        "points": 6,
+        "position": {
+            "x": 930,
+            "y": 710
+        },
+        "tooltipOffset": null
+    },
+    {
+        "asset": {
+            "image": "fire2.gif",
+            "size": 90
+        },
+        "id": "2gHXZW2UJgYgyfdOatjWGp3FarZ",
+        "name": "Rocket Equation (pt. 2)",
+        "namePath": "Aanval 2",
+        "points": 6,
+        "position": {
+            "x": 1005,
+            "y": 884
+        },
+        "tooltipOffset": null
+    },
+    {
+        "asset": {
+            "image": "gas1.gif",
+            "size": 75
+        },
+        "id": "2gHXcptP3TcbpAtwH9gZpIu6O7e",
+        "name": "Galactisch Krachtveld",
+        "namePath": "Aanval 3",
+        "points": 12,
+        "position": {
+            "x": 746,
+            "y": 940
+        },
+        "tooltipOffset": null
+    },
+    {
+        "asset": {
+            "image": "gas2.gif",
+            "size": 175
+        },
+        "id": "2gHXfvZqaEAOEYBnjzdTN9erw00",
+        "name": "Destroy Deathstar (pt. 1)",
+        "namePath": "Aanval 4",
+        "points": 20,
+        "position": {
+            "x": 586,
+            "y": 765
+        },
+        "tooltipOffset": -45
+    },
+    {
+        "asset": {
+            "image": "lava.gif",
+            "size": 100
+        },
+        "id": "2gHXjWzvkH6If221LyXj3dhh9rO",
+        "name": "Destroy Deathstar (pt. 2)",
+        "namePath": "Aanval 5",
+        "points": 30,
+        "position": {
+            "x": 449,
+            "y": 953
+        },
+        "tooltipOffset": null
+    },
+    {
+        "asset": {
+            "image": "deathstar.png",
+            "size": 150
+        },
+        "id": "2gHXncZ51Sbor9SDHw70oajTncm",
+        "name": "Destroy Deathstar (pt. 3)",
+        "namePath": "Aanval 6",
+        "points": 30,
+        "position": {
+            "x": 143,
+            "y": 839
+        },
+        "tooltipOffset": null
+    }
+]

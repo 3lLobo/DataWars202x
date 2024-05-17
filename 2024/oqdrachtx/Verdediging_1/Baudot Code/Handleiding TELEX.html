@@ -1,0 +1,85 @@
+<html><body>
+<p>ONGERUBRICEED</p>
+
+<h1>Handleiding voor het Decoderen van TELEX met behulp van het Baudot Alfabet</h1>
+
+<p>&copy; 1974, Diepe Ruimte Kommunikatie Kantoor, Ministerie van Defensie</p>
+
+<p>TELEX is een vernuftigd communicatiesysteem dat wordt aangewend voor de verspreiding en ontvangst van geschreven boodschappen. Het maakt gebruik van een complex alfabetsysteem, welbekend als het het Baudot-schrift, genoemd naar Émile Baudot, een meester van de technische vernuftigheid.</p>
+
+<p>Het Baudot-schrift kenmerkt zich door zijn sublieme opbouw van 5 gaatjes, die worden gestanst in een strook papier. Door het al dan niet weglaten van deze gaatjes, zijn er 32 combinaties mogelijk. Iedere combinatie vertegenwoordigt een specifieke letter, cijfer of leesteken. De gaatjes zijn gerangschikt in twee groepen: eerst 3 posities, een tandwielgat, en dan 2 posities. Het tandwielgat kan worden gebruikt om het papier in de juiste wijze te oriënteren.</p>
+
+<p>Begin met het decoderen van het TELEX-bericht door de strook papier op de juiste manier te oriënteren, door middel van het tandwielgat. Zoek vervolgens, per 5 posities de overeenkomstige letter, cijfer of leesteken op in de onderstaande Baudot-tabel en noteer deze. Herhaal dit proces voor elke set van 5 posities in het bericht totdat het volledige bericht is gedecodeerd. Houd er rekening mee dat het Baudot-alfabet ook speciale tekens (control characters) omvat die worden gebruikt om regeleindes aan te geven, een bel te laten rinkelen of om te schakelen tussen letters en leestekens+cijfers. Deze speciale tekens moeten ook worden geïnterpreteerd volgens de Baudot-tabel.</p>
+    
+<h2>Voorbeeld</h2>
+<pre>
+###o## LETTERS
+###o#. V
+##.o.. O
+##.o.. O
+.#.o#. R
+##.o.# B
+...o.# E
+...o.# E
+#..o#. L
+.#.o.# D
+##.o## TEKENS
+...o## -
+#.#o## 1
+#..o## 2
+...o.# 3
+###o## LETTERS
+...o## A
+##.o.# B
+.##o#. C
+</pre>
+    
+<p><b><pre>VOORBEELD-123ABC</pre></b></p>
+
+<h2>Baudot-alfabet</h2>
+    
+<table border=1>
+    <tr><th>Symbool</th><th>Betekenis</th></tr>
+    <tr><td>.</td><td>Geen gaatje</td></tr>
+    <tr><td>#</td><td>Gaatje</td></tr>
+    <tr><td>o</td><td>Tandwielgat</td></tr>
+</table>
+
+<p>&nbsp;</p>
+    
+<table border=1>
+<tr><th>Code</th><th>Letters</th><th>Tekens</th></tr>
+<tr><td><pre>...o#.</pre></td><td colspan="2">[WAGEN TERURLOOP / CARRIAGE RETURN]</td></tr>
+<tr><td><pre>.#.o..</pre></td><td colspan="2">[NIEUWE REGEL / LINE FEED]</td></tr>
+<tr><td><pre>..#o..</pre></td><td colspan="2">[SPATIE]</td></tr>
+<tr><td><pre>##.o##</pre></td><td colspan="2">[Schakel naar Tekens]</td></tr>
+<tr><td><pre>###o##</pre></td><td colspan="2">[Schakel naar Letters]</td></tr>
+<tr><td><pre>...o##</pre></td><td>A</td><td>-</td></tr>
+<tr><td><pre>##.o.#</pre></td><td>B</td><td>?</td></tr>
+<tr><td><pre>.##o#.</pre></td><td>C</td><td>:</td></tr>
+<tr><td><pre>.#.o.#</pre></td><td>D</td><td>!</td></tr>
+<tr><td><pre>...o.#</pre></td><td>E</td><td>3</td></tr>
+<tr><td><pre>.##o.#</pre></td><td>F</td><td>%</td></tr>
+<tr><td><pre>##.o#.</pre></td><td>G</td><td>@</td></tr>
+<tr><td><pre>#.#o..</pre></td><td>H</td><td>$</td></tr>
+<tr><td><pre>..#o#.</pre></td><td>I</td><td>8</td></tr>
+<tr><td><pre>.#.o##</pre></td><td>J</td><td>[BEL]</td></tr>
+<tr><td><pre>.##o##</pre></td><td>K</td><td>(</td></tr>
+<tr><td><pre>#..o#.</pre></td><td>L</td><td>)</td></tr>
+<tr><td><pre>###o..</pre></td><td>M</td><td>.</td></tr>
+<tr><td><pre>.##o..</pre></td><td>N</td><td>,</td></tr>
+<tr><td><pre>##.o..</pre></td><td>O</td><td>9</td></tr>
+<tr><td><pre>#.#o#.</pre></td><td>P</td><td>0</td></tr>
+<tr><td><pre>#.#o##</pre></td><td>Q</td><td>1</td></tr>
+<tr><td><pre>.#.o#.</pre></td><td>R</td><td>4</td></tr>
+<tr><td><pre>..#o.#</pre></td><td>S</td><td>'</td></tr>
+<tr><td><pre>#..o..</pre></td><td>T</td><td>5</td></tr>
+<tr><td><pre>..#o##</pre></td><td>U</td><td>7</td></tr>
+<tr><td><pre>###o#.</pre></td><td>V</td><td>=</td></tr>
+<tr><td><pre>#..o##</pre></td><td>W</td><td>2</td></tr>
+<tr><td><pre>###o.#</pre></td><td>X</td><td>/</td></tr>
+<tr><td><pre>#.#o.#</pre></td><td>Y</td><td>6</td></tr>
+<tr><td><pre>#..o.#</pre></td><td>Z</td><td>+</td></tr>
+</table>
+    </body>
+</html>

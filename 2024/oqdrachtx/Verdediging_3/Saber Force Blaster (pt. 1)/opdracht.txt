@@ -1,0 +1,19 @@
+Beste kadet,
+
+Het is voor ons Jedi-rekrutenprogramma belangrijk om gevechtssimulaties te
+kunnen evalueren. We laten regelmatig jonge Padawans tegen elkaar sparren om te
+kijken wat hun niveau is. We geven ze een lightsaber (L), een blaster (B) of
+vragen hen louter de Force (F) te gebruiken. We zien het volgende:
+
+* Lightsaber verslaat een Blaster, want alle shots kunnen worden afgeweerd;
+* Lightsaber verliest van de Force, want een Force-gebruiker kan een
+  Lightsaber-gebruiker ontwapenen op korte afstand;
+* Force verliest van Blaster, want de Blaster-gebruiker kan op lange afstand de
+  Force-gebruiker raken.
+
+Als de gebruikers hetzelfde gebruiken wordt het gelijkspel.
+
+Bijgevoegd is een wedstrijdverslag van 10.000 sparsessies van twee Padawans. Hoe
+vaak heeft speler 1 verloren, gelijkgespeeld en gewonnen? Zet de getallen achter
+elkaar. Als voorbeeld: 50 keer verliezen, 13 keer gelijkspelen en 3 keer winnen
+wordt 50133.

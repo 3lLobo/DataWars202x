@@ -1,0 +1,21 @@
+De commandant is tot de conclusie gekomen dat met een enkele loopgraaf zijn
+commando-tent niet aan het zicht ontrokken wordt. Daarom besluit hij dat de
+gehele stelling, dus alles binnen de loopgraaf, moet worden afgegraven en
+vervolgens bedekt. Voor het voorbeeld zal dit er volgt uitzien (wederom het
+bovenaanzicht):
+
+#######
+#######
+#######
+..#####
+..#####
+#######
+#####..
+#######
+.######
+.######
+
+Bereken opnieuw het oppervlak dat met bladeren moet worden bedekt om de gehele
+stelling aan het zicht te onttrekken. Voor het voorbeeld komt dit neer op 62
+vierkante meter; jouw instructies van Dienst Space Geo vind je nog steeds in
+"input.txt".

@@ -1,0 +1,19 @@
+Kadet!
+
+Door een vergissing heb je in deel 1 van deze opdracht maar een gedeelte van de
+data ontvangen in ruimtepuin_x.txt. De helft van de vandaag aanwezige teams
+heeft ruimtepuin_A.txt als input ontvangen en de andere helft ruimtepuin_B.txt.
+
+De werkelijke input – de totale hoeveelheid rondvliegend ruimtepuin – is de
+optelsom van ruimtepuin_A en ruimtepuin_B als je beide bovenop elkaar stapelt!
+
+Ga dus op zoek naar een concurrerend team om een samenwerkingsverband mee aan te
+gaan om input met elkaar uit te wisselen. Wij vinden interoperabiliteit
+belangrijk dus samenwerken wordt goed beloond met 30 punten! Maar het is niet
+verplicht om hier aan mee te doen: je mag deze opdracht overslaan als je daar
+zelf voor kiest.
+
+Het antwoord op deze opdracht geef je op dezelfde manier als bij deel 1: het
+aantal objecten per rij achter elkaar gezet, gestart vanaf de bovenste rij. Lege
+rijen mogen overgeslagen worden. Kijk voor een uitgebreidere uitleg nog even
+terug in deel 1 van de opdracht.

@@ -1,0 +1,56 @@
+Kadetten!
+
+Tijdens de slag om de 5e Maan moeten we onze posities met hand en tand
+verdedigen! De commandant heeft ons peloton de opdracht gegeven om de stelling
+te omringen met een loopgraaf. Het terrein is onregelmatig, daarom heb je van de
+Dienst Space Geo instructies gekregen om de loopgraaf zo soepel mogelijk te
+kunnen graven. Deze instructies zien er bijvoorbeeld als volgt uit:
+
+O 6
+Z 5
+W 2
+Z 2
+O 2
+Z 2
+W 5
+N 2
+W 1
+N 2
+O 2
+N 3
+W 2
+N 2
+
+De graafploeg begint met het graven van een 1 bij 1 bij 1 gat (intergalactische
+pioniersscheppen zijn een meter lang) en volgt bovenstaande instructies om het
+aantal aangeven meters noordwaarts (N), zuidwaarts (Z), oostwaarts (O) of
+westwaarts (W) te graven.
+
+Van bovenaf zal dit in het voorbeeld de volgende loopgraaf opleveren, waarbij de
+# de loopgraaf aanduiden in dit bovenaanzicht:
+
+#######
+#.....#
+###...#
+..#...#
+..#...#
+###.###
+#...#..
+##..###
+.#....#
+.######
+
+Omdat de vijand luchtoverwicht heeft, wil onze commandant dat de verdedigende
+stelling zo heimelijk mogelijk wordt ingericht. Om dit te bereiken wordt de
+gehele loopgraaf overdekt met takken en bladeren, die jouw peloton moet
+verzamelen in het omliggende struikgewas. Om een inschatting te kunnen maken van
+de tijd die hiervoor nodig is, vraagt de commandant je om te rapporteren wat het
+oppervlak is dat bedekt moet worden met bladeren om de gehele loopgraaf aan het
+zicht te onttrekken.
+
+Voor het voorbeeld komt dit neer op 38 vierkante meter. Bereken nu de lengte van
+de loopgraaf die de stelling gaat omringen, de instructies van Dienst Space Geo
+vind je in "input.txt".
+
+Let op: de loopgraaf bestaat uit 1-bij-1-bij-1 gegraven stukken en bevat dus
+enkel rechte hoeken!
