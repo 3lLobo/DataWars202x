@@ -1,0 +1,62 @@
+
+==================================================================================
+Classification: UN-Restricted
+Priority: CRITICAL
+Subject: Implementatie van interoperabiliteit
+
+AAN ALLE SCHEPEN,
+
+Ik beveel hierbij alle eenheden onder mijn commando om onmiddellijk interoperabiliteit
+tussen de verschillende schepen in onze vloot te realiseren. Interoperabiliteit in onze
+systemen is essentieel voor onze samenwerkende operaties, die zeer binnenkort zullen volgen. 
+Bovendien kunnen we niet meer toestaan dat onze geheimen open uitgewisseld moeten worden.
+
+Wanneer meerdere schepen actief worden binnen een operatie, moeten ze snel en effectief
+kunnen samenwerken. Alleen de realisatie van interoperabiliteit kan ervoor zorgen
+dat onze verschillende schepen nu samenwerken om onze vijand te verslaan.
+
+Daarom geef ik alle militaire officieren onder mijn commando de opdracht om interoperabiliteit
+te realiseren, in de communicatiesystemen van onze schepen. Het niet naleven van dit bevel za
+leiden tot disciplinaire maatregelen.
+
+Bedankt voor uw aandacht in deze kwestie,
+
+Hoogachtend,
+
+Admiraal van Spaandonk
+Supreme Allied Commander for Earth Defense 
+United Nations Office for Outer Space Affairs
+
+Enkel vanwege interoperabiliteitsproblemen is dit bericht in plain-text verzonden 
+==================================================================================
+
+Kadet,
+
+U hebt het bericht van de SAC-ED gelezen. Interoperabiliteit tussen de systemen van
+onze vloot moet nu geïmplementeerd worden.
+
+Echter kunnen we onze communicatiecomputer niet snel genoeg opnieuw aanbesteden. Maak 
+daarom een vertaalmodule om berichten van andere schepen te decoderen, en naar onze
+standaard weer te encoderen.
+
+Hier is een bericht van jouw scheepscommunicatieserver:
+NNK3XTFVGRVND66V
+
+Dit bericht is als volgt ge-encodeerd:
+Raw binary -> ROTbits(-4) -> SWAP_NIBBLE -> BASE32
+
+* ROTbits(<key>): Bits in iedere byte worden een aantal plaatsen naar links (rechts indien negatief) geschoven. Bits die van de byte afvallen komen er aan de andere kant weer bij.; Voorbeeld: 10100101 ROT_bits(2) = 10010110
+* SWAP_NIBBLE: De nibble-volgorde wordt omgekeerd.; Voorbeeld SWAP_NIBBLE(11110101) = 01011111
+* BASE32: Base32-encoding; Voorbeeld BASE32(0x12 0x34 0x56 0x78) = "CI2FM6A="
+
+Verzamel (door middel van diplomatie) berichten van andere schepen en systemen,
+en zet ze om naar deze encoding. Je wordt beoordeeld op het aantal schepen waarmee
+je interoperabiliteit bereikt. Voor het eerste verbonden schip ontvang je 8 punten, het
+tweede schip 6 punten, het derde 4 punten, het vierde 3punten  en het vijfde schip 2 punten.
+Alle verdere interoperabiliteit wordt beloond met 1 punt per schip. In totaal zijn er in
+deze missie 30 punten te verdienen!
+
+Zonder Interoperabiliteit, zullen we zeker verslagen worden!
+
+Commander L
+

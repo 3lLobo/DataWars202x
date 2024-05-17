@@ -1,0 +1,38 @@
+Kadet!
+
+De langdurige oorlog met de duistere krachten van het Sith-rijk begint zijn
+uitwerking te krijgen op de wapenvoorraad. Samen met Jedi-generaal Kyra Talon
+sta je voor een zware taak: jullie moeten zo snel mogelijk een nieuwe
+wapenfabriek bouwen om de Republiek te versterken tegen de oprukkende
+Sith-troepen. 
+
+====
+
+Je start met het samenstellen van een klein team van technici om in beraad te
+gaan over de gewenste locatie voor de nieuwe wapenfabriek. Daarbij heeft
+Jedi-generaal Kyra Talon vanuit de Jedi-raad het nadrukkelijke bevel meegekregen
+om de wapenfabriek te bouwen in één van de grote steden binnen het meest
+beschermde gebied van de Inner Rim. De steden zijn genummerd: 1 t/m 30. Het
+netwerk aan mogelijke steden en de bijbehorende infrastructuur is jullie
+toevertrouwd, en beschikbaar in de bijlage ("edgelist.txt"). Deze bijlage bevat
+een zogeheten 'edgelist' die aangeeft tussen welke steden veilige
+(twee-richting) routes bestaan inclusief de bijbehorende afstanden. Zodra de
+nieuwe wapens van de productielijn rollen, is de Republiek gebaat bij een zo
+snel mogelijke distributie van de wapens over de veilige routes. Met dat doel
+voor ogen zoeken jullie naar de stad waarmee de minste afstand afgelegd hoeft te
+worden om alle andere steden te kunnen bereiken. 
+
+In de edgelist vind je de volgende datapunten per regel: stad van oorsprong
+verbonden stad {"afstand": afstand tussen de oorsprong en de verbonden stad}.
+Een route tussen stad 1 en 2 met een afstand van 5 zou dus als volgt eruit zien
+zijn: 1 2 {"afstand": 5}.
+
+Let op: hierbij is de beperking opgelegd dat elke levering vanuit de
+        wapenfabriek telkens maar 1 bestemming kan hebben. Ofwel voor elke stad
+        wordt een apart vrachtschip uitgezonden.
+
+Tip: zonder een technicus met verstand van 'graaftheorie' wordt dit een lastige opgave.
+
+====
+
+Heb je de beste locatie gevonden? Voer dan het nummer in van deze stad.

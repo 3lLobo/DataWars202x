@@ -1,0 +1,35 @@
+Kadet,
+
+We zetten ons afweergeschut in en vuren ons antiraketwapen af om de vijandige raket uit opdracht 'Interceptie (fase 1)' te onderscheppen (de data van de vijandige raket
+is hetzelfde als in opdracht 'Interceptie 1 (fase 1)' en vind je hier nogmaals terug onderaan deze tekst tussen de stippellijnen).
+Ons antiwapen volgt exact dezelfde rechte lijn als de baan van de vijandige raket maar dan uiteraard in tegengestelde richting.
+Ons wapen beweegt voort met 0.8*c (c = lichtsnelheid = 299.792.458 m/s).
+We kunnen echter niet zomaar op ieder moment afvuren: wanneer we de raket te vroeg uit de lucht halen zal de impact ervoor zorgen dat geallieerde planeten
+geraakt worden, en als we de raket onderscheppen terwijl hij al te dicht bij onze planeet is worden we zelf alsnog geraakt.
+
+Gegeven is het volgende:
+- Als de vijandige raket op het moment dat hij door onze afweer geraakt wordt nog verder van onze planeet verwijderd is dan 593157887921.00 meter is het
+niet veilig om deze te vernietigen vanwege impact op geallieerde planeten
+- Wanneer de vijandige raket op het moment dat hij door onze afweer geraakt dichterbij dan 1300000000.00 meter van ons verwijderd is, zijn we te laat en
+zullen we zelf geraakt worden.
+
+Wat is het vroegste en het laatste tijdstip waarop we onze raket moeten afvuren om veiligheid voor onze geallieerden en voor onszelf te kunnen garanderen?
+We zijn geinteresseerd in het tijdsverschil tussen deze momenten. We willen weten of het mogelijk zal zijn tijdig in te grijpen. Hiervoor hebben we de duur van dit
+tijdsinterval in seconden nodig. Hoeveel seconden zit er tussen het vroegste en laatste tijdstip waarop de raket afgevuurd kan worden? Rond af op hele seconden.
+
+-------------------------------------------
+Er zijn 6 waarnemingen gedaan om te bepalen hoe ver de vijandige raket nog van onze planeet verwijderd is in totaal aantal meters tot impact. Die zie je hieronder.
+Op het eerste meetmoment was het dus 25-5-2023 9:37:01 en was de raket nog 2892757385733.60 meter van ons verwijderd.
+
+# timestamp         # distance_left
+# 25-5-2023 9:37:01 # 2892757385733.60
+# 25-5-2023 9:38:49 # 2853904283176.80
+# 25-5-2023 9:39:58 # 2829081467654.40
+# 25-5-2023 9:43:17 # 2757491028684.00
+# 25-5-2023 9:47:31 # 2666114287485.60
+# 25-5-2023 9:51:02 # 2590206837120.00
+-------------------------------------------
+
+Gegroet,
+
+Commander T

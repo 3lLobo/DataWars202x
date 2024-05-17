@@ -1,9 +1,0 @@
-Kadet,
-
-Onze systemen hebben hebben een vijandig ruimteprojectiel gedetecteerd in onze atmosfeer. Onze verdedigingssystemen hebben automatisch raketten afgevuurd om dit object te onderscheppen. Onze analisten hebben voor de komende 12 uren berekend op welke locatie het vijandige ruimteprojectiel en onze afgevuurde raketten zich zullen begeven. 
-Er zijn echter grove fouten gemaakt. Door een fout in ons systeem zijn de bewegingen van van onze raketten echter door de war geraakt met het vijandelijke ruimteprojectiel. Ook weten we niet zeker of onze raketten er in zullen slagen het object te onderscheppen. Willen jullie ons daarbij helpen? 
-
-De data vinden jullie in het input-bestand. Daarin staan de bewegingen van zowel het vijandelijke ruimte projectiel, alsook de afgevuurde raketten. Willen jullie uitzoeken of de paden van twee van de objecten elkaar kruisen? We verwachten dat dit het geval zou moeten zijn in de komende 24 uur. Voor de eerste 12 uur hebben we de verwachte locaties van de objecten al vermeld, daar zijn geen overlappende paden te zien. Met de data van de eerste 12 uur kunnen jullie doorrekenen. Afronden van (x,y,z)-locaties doen wij gewoonlijk op drie decimalen. Het antwoord kunnen jullie als volgt berekenen: het 'id' van het ene object vermenigvuldigd met het 'id' van het tweede object vermenigvuldigd met het tijdstip waarop de botsing plaatsvindt. 
-
-Bedankt!
-Commodore Space Mees
