@@ -26,11 +26,6 @@ curl 'https://datawars.nl/game' \
 
 
 ## Notes
-BI network :
-
-User: 3Def-KHK
-
-Pwd: Ab3584-Ut
 
 Ochtend: Defend
 Avond: Attacq
@@ -38,12 +33,4 @@ Avond: Attacq
 - 3 vliegroutes
 - 3 leveles: 20,15,10
 - bonus voor first-blood: 6,4,2
-- 
-
-https://datawars.nl
-
-TODO:
-
-- Ontwerp mooi team logo
-- login to datawars.nl
-
+  
