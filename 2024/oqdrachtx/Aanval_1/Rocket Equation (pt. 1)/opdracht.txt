@@ -1,0 +1,24 @@
+Het is tijd om te vertrekken richting het intergalactische strijdtoneel. De
+mensen van het Ruimte Ondersteuningscommando laden je snel in een ruimtevaartuig
+en maken zich klaar voor lancering. Voor de lancering moet de raket, bestaande
+uit verschillende raketmodules, worden volgetankt met brandstof voor de
+raketmotor.
+
+De benodigde brandstof om een gegeven module te lanceren, is gebaseerd op zijn
+massa. Om precies te zijn: om de brandstof voor een module te vinden, neem je
+de massa, deel je door drie, rond je af naar beneden en trek je er 2 van af.
+
+Voorbeeld:
+- Voor een massa van 12, deel je door 3 en rond je af naar beneden om 4 te
+  krijgen, trek je er dan 2 van af om 2 te krijgen.
+- Voor een massa van 14, geeft delen door 3 en afronden naar beneden nog steeds
+  4, dus de benodigde brandstof is ook 2.
+- Voor een massa van 1969 is de benodigde brandstof 654.
+- Voor een massa van 100756 is de benodigde brandstof 33583.
+
+De Adjudant Brandstofmeter moet de totale brandstofbehoefte weten. Om deze te
+vinden, bereken je individueel de brandstof die nodig is voor de massa van elke
+module (zie "input.txt"), en tel je vervolgens alle brandstofwaarden bij elkaar
+op.
+
+Wat is de som van de brandstofvereisten voor alle modules op je ruimtevaartuig?

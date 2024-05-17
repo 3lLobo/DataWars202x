@@ -1,0 +1,67 @@
+Kadet,
+
+Werk aan de winkel! Het volgende bericht is onderschept. We weten waar we de
+plannen voor de Deathstar kunnen vinden. Ons SPECOPS-team staat klaar om te
+infiltreren. Om de detectiekans zo klein mogelijk te maken moeten we de kortste
+route weten om alle security terminals te bezoeken en vervolgens naar de plannen
+terminal te gaan. Kun jij berekenen hoeveel stappen deze kortste route kost?
+
+Een voorbeeld:
+
+##################@##########
+# #       #        a#  ijkl/#
+# ##### ### ##### #b###h###$#
+# #   #     #     #cdefg#   #
+#############################
+
+Hier zitten alle terminals op volgorde. Het kost 15 stappen om bij de
+plannen ($) te komen.
+
+Nog een voorbeeld:
+
+##################@##########
+# #       #        l#  dcba/#
+# ##### ### ##### #k###e###$#
+# #   #     #     #jihgf#   #
+#############################
+
+Hier staan de terminals in omgekeerde volgorde. Je moet dus eerst naar a
+lopen (13 stappen), vervolgens alle terminals naar l aflopen (11 stappen) en
+weer teruglopen naar de plannen (13). In totaal 37 stappen.
+
+Veel succes. We verwachten je antwoord voor morgen 0900.
+
+Groet,
+
+Commander L
+
+================================================================================
+
+Datum onderschepping: 3044-02-12
+Classificatie: MULTIVERSE TOP SECRET
+
+Onderschept bericht:
+
+All,
+
+De plannen voor de Deathstar zijn opgeslagen in het LangeTermijnArchief (LTA).
+Toegang tot de plannen is alleen toegankelijk nadat security terminal a t/m l in
+volgorde zijn bezocht. Bijgevoegd is een plattegrond van de LTA. De plannen
+terminal is aangegeven met $, muren met #, de ingang met @ en de
+beveiligingsdeur naar de plannen met /.
+
+Inzage in de plannen is mogelijk voor rangen VDR en hoger.
+
+Met vriendelijke groet,
+
+SPC-CDT G.A.T Wallrunner
+Senior Beheerder LTA
+Light-o-gram: 555-1337-42
+Werkdagen: maandag t/m zondag
+--------------------------------------------------------------------------------
+
+-----===   Vergroen het imperium, overweeg om dit bericht te bekijken   ===-----
+-----===            op een Holodeck voordat u het 3D-rendert            ===-----
+
+Dit bericht is alleen bedoeld voor de geadresseerde. Bekijken van dit bericht
+zonder toestemming leidt tot vervolging en executie.

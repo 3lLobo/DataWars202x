@@ -1,0 +1,126 @@
+Kadet,
+
+We hebben goed nieuws en slecht nieuws.
+
+Eerst het goede nieuws. De SPECOPS hebben dankzij jouw goede voorbereiding de
+plannen van de Deathstar uit het LTA weten te halen. Het slechte nieuws is dat
+het er slecht voor ons uitziet. De Deathstar is een groot gevaar voor ons. Het
+is een wapen met ongekende kracht, in staat om hele planeten in een keer op te
+blazen.
+
+Echter, weggestopt in appendix A-2324-bis stond een kort zinnetje over een
+zwakte in een uitlaatschacht van de Deathstar. De precieze architectuurplaat van
+de uitlaatpijp is echter versleuteld volgens het STAR-algoritme. Bij een andere
+inbraakpoging hebben we de uitleg van het STAR-algoritme gestolen. Zie
+hieronder.
+
+Help ons om de architectuurplaat te ontcijferen, zodat we aan de missie "DOVENDE
+STER" kunnen beginnen. Het antwoord is het controlewoord en het controlegetal
+aan elkaar geplakt.
+
+Goed om te weten: we weten dat de architectuurplaat van de uitlaatpijp 1.000
+regels lang is en 9 karakters breed. Hieronder komt nog de controlezin in
+ASCII-art (zie beschrijving STAR-algoritme). Deze is mogelijk breder dan 9
+karakters.
+
+---------------------------------------------------
+BESCHRIJVING STAR-ALGORITME
+
+Het STAR (Situational Temporal Adaptive Reconnaissance) algoritme is een
+geavanceerde imperiële techniek om 2D architectuurplaten te versleutelen in een
+2D-grid. Een voorbeeld:
+
+(VOORBEELD START HIERONDER)
+Min y: -1
+Min x: -2
+Time elapsed: 3
+Trajectory for #: y(t)=2t + b; x(t)=1t + b
+Trajectory for L: y(t)=-1t + b; x(t)=3t + b
+----------------------------------------------------------------------------------------------------
+  #       
+          
+
+
+
+
+  L
+(VOORBEELD EINDIGT OP DE REGEL HIERBOVEN)
+
+De eerste twee regels zijn de y- en de x-correctiefactor. De derde regel is de
+tijdstapfactor. Die zijn hier respectievelijk -1, -2 en 3. De regels erna tot de
+---- streep zijn versleuteltrajectories voor de elementen van de
+architectuurplaat. Na de ---- streep volgt het 2D-versleutelde grid. Het grid
+wordt van boven naar onder en van links naar rechts ingelezen.
+
+Trajectory i hoort bij het i-de gelezen teken, waarbij spaties en newlines niet
+meetellen. Let op dat dezelfde type tekens dus verschillende trajectories kunnen
+hebben!
+
+In het voorbeeld correspondeert het eerste trajectory met de '#' en de tweede
+met 'L'. Ter hulp is ook aangegeven welk type teken hoort bij een trajectory,
+maar niet wat de positie van dit precieze teken is.
+
+De eindpositie van een teken wordt gevonden door de y- en x-trajectory te
+berekenen. Hierbij moet de b-variabele van de trajectories worden bepaald aan de
+hand van de positie van het teken in het grid en de y- danwel x-correctiefactor.
+
+In dit voorbeeld zit # op positie (0,2) in het grid en L op positie (6,2).
+De b-variabelen voor de y- en x-trajectories behorende bij # zijn
+    b_y = 0 + -1 = -1
+    b_x = 2 + -2 = 0
+Voor het L teken is dit
+    b_y = 6 + -1 = 5
+    b_x = 2 + -2 = 0
+
+We kunnen nu de eindlocaties uitrekenen van de tekens.
+
+Trajectory for #:
+    y(3)=2*3 + -1 = 5;
+    x(3)=1*3 + 0 = 3.
+
+De eindpositie voor # is dus (5,3).
+
+Trajectory for L:
+    y(3)=-1*3 + 5 = 2;
+    x(3)=3*3 + 0 = 9.
+
+De eindpositie voor L is dus (2,9).
+
+Zie hieronder voor een grafische weergave:
+
+ 0123456789ABCDE
+0...............
+1...............
+2.........L.....
+3...............
+4...............
+5...#...........
+
+Bij een echte ontsleutelde architectuurplaat is onderaan ook een controlezin
+geplaatst, zonder spaties. Om deze te zien is het nodig om de ontsleutelde
+architectuurplaat te visualiseren. Deze controlezin is in ASCII-art.
+
+Naast de controlezin moet er een ook controlegetal worden berekend.
+
+Het controlegetal wordt berekend door de som van de ontsleutelde y-coordinaten
+op te tellen bij de som van de ontsleutelde x-coordinaten. In dit voorbeeld zou
+dit (5+2)+(3+9) = 19.
+
+Stel dat de controlezin HALLODAAR is. Dit zou dan getoond worden als
+
+  _    _          _      _      ____  _____                    _____
+ | |  | |   /\   | |    | |    / __ \|  __ \   /\        /\   |  __ \
+ | |__| |  /  \  | |    | |   | |  | | |  | | /  \      /  \  | |__) |
+ |  __  | / /\ \ | |    | |   | |  | | |  | |/ /\ \    / /\ \ |  _  /
+ | |  | |/ ____ \| |____| |___| |__| | |__| / ____ \  / ____ \| | \ \
+ |_|  |_/_/    \_\______|______\____/|_____/_/    \_\/_/    \_\_|  \_\
+
+Noot: dit is breder dan de 9 karakters die de rest van de architectuurplaat
+breed is!
+
+De uiteindelijke controlecode is dan HALLODAAR19
+
+LET OP: Er zijn veel trajectories, waarbij sommige hetzelfde karakter delen. Het 
+        gaat echter *niet* om dezelfde karakterinstantie. Niet elke karakter
+        start dus op dezelfde positie! Nogmaals: trajectory i hoort bij het i-de
+        gelezen teken, waarbij spaties en newlines niet meetellen.
