@@ -1,0 +1,56 @@
+Kadet,
+
+Het Cyber Team heeft een logbestand gevonden van het toegangssysteem voor een
+van de vijandelijke schepen. In dit bestand staan alle toegangspogingen tot dit
+schip van de afgelopen jaren. Echter is niet altijd dezelfde code geldig. Het
+systeem vraagt namelijk niet om de gehele code, maar om enkele cijfers uit die
+code. Zo kan bijvoorbeeld het 1e, 3e en 5e cijfer gevraagd worden, of het 1e, 2e
+en 4e. De cijfers dienen echter altijd in dezelfde volgorde te worden ingevoerd
+zoals deze in de master code voorkomen. Cijfers komen ook maar één keer voor in
+de master code.
+
+Voorbeeld:
+2019-01-15T22:11:00.036Z - CRITICAL - MASTER CODE CHANGED BY 'root' to '*****'
+2019-03-15T09:01:46.831Z - INFO - CODE 184 ENTERED
+2019-03-15T09:01:46.831Z - INFO - ACCESS GRANTED
+2019-04-11T11:33:48.547Z - INFO - CODE 363 ENTERED
+2019-04-11T11:33:48.547Z - WARNING - ACCESS DENIED
+2019-04-25T14:04:33.388Z - INFO - CODE 146 ENTERED
+2019-04-25T14:04:33.388Z - INFO - ACCESS GRANTED
+2019-07-22T06:51:45.748Z - INFO - CODE 186 ENTERED
+2019-07-22T06:51:45.748Z - INFO - ACCESS GRANTED
+2019-08-10T19:35:00.133Z - INFO - CODE 284 ENTERED
+2019-08-10T19:35:00.133Z - INFO - ACCESS GRANTED
+2019-08-15T06:05:20.830Z - INFO - CODE 128 ENTERED
+2019-08-15T06:05:20.830Z - INFO - ACCESS GRANTED
+2019-09-02T09:59:08.299Z - INFO - CODE 286 ENTERED
+2019-09-02T09:59:08.299Z - INFO - ACCESS GRANTED
+2019-09-18T05:27:57.061Z - INFO - CODE 126 ENTERED
+2019-09-18T05:27:57.061Z - INFO - ACCESS GRANTED
+2019-10-03T13:14:28.060Z - INFO - CODE 124 ENTERED
+2019-10-03T13:14:28.060Z - INFO - ACCESS GRANTED
+2019-10-17T06:42:52.777Z - INFO - CODE 313 ENTERED
+2019-10-17T06:42:52.777Z - WARNING - ACCESS DENIED
+2019-10-26T19:26:09.502Z - INFO - CODE 846 ENTERED
+2019-10-26T19:26:09.502Z - INFO - ACCESS GRANTED
+2019-12-14T00:45:22.212Z - INFO - CODE 246 ENTERED
+2019-12-14T00:45:22.212Z - INFO - ACCESS GRANTED
+
+De eerste regel vertelt ons dat de master code 5 cijfers heeft.
+Code 184 geeft 1 < 8 < 4
+Code 363 is fout, dus die negeren we.
+Code 146 geeft 1 < 4 < 6 dus 1 < 8 < 4 < 6
+Code 186 geeft 1 < 8 < 6, dat wisten we al
+Code 284 geeft 2 < 8 < 4, dus [1 en/of 2] < 8 < 4 < 6
+Code 128 geeft 1 < 2 < 8, dus 1 < 2 < 8 < 4 < 6
+De master code kan dus niet anders zijn dan 12846.
+
+Gegeven het bijgevoegde logbestand, bereken de nieuwste MASTER CODE, zodat onze
+Special Space Operation Forces (SSOF) het schip ongemerkt kunnen binnendringen.
+
+Dit heeft nu de hoogste prioriteit.
+
+Groeten,
+
+Majoor De Bladder
+Commandant SSOF

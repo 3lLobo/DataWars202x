@@ -1,0 +1,17 @@
+Kadet,
+
+Ons PsyOps team denkt dat de code die u zojuist hebt ontdekt nog een tweede
+betekenis kan hebben.De twaalf cijfers lijken in twee groepen van 6 te zijn
+gescheiden, door een puntkomma ";", en de letters lijken cijfers te encoderen
+(A=1, B=2, ...). Het team denkt daarom dat dit wel eens heel goed het decimale
+deel van een GPS-locatie zou kunnen zijn, hier op de kazerne in Amersfoort.
+
+We hebben echter op dit moment geen eenheden over op de kazerne, dus moeten we
+een beroep op u doen!
+
+Ga naar deze locatie, en kijk wat u daar kunt vinden!
+
+Groeten,
+
+Majoor De Bladder
+Commandant SSOF

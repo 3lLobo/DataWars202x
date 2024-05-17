@@ -1,0 +1,24 @@
+Kadet!
+
+Haast geboden! We hebben via onze kanalen een geheim bericht onderschept. In dit
+bericht werd gesproken over vijf coördinaten waarop een Unidentified Aerial
+Phenomenon (UAP) iets vanuit de lucht heeft laten vallen. Gelukkig lagen de vijf
+coördinaten redelijk bij elkaar in de buurt, en hebben we een hyperspectrale
+satelliet kunnen tasken om een beeld van dit gebied te maken. 
+
+Dit beeld ("input.tif") en de vijf coördinaten ("input.txt") zijn samen jullie
+input voor deze opdracht. Het hyperspectrale beeld is in een GeoTIFF-formaat:
+het bevat een array met (straling)reflectiewaarden en ook de geocoördinaten van
+elke pixel in de afbeelding. Een hyperspectrale satelliet heeft een geavanceerde
+sensor waardoor het in 224 verschillende banden licht heeft kunnen opvangen. We
+weten uit voorgaand onderzoek dat objecten van UAP's interessante waarden
+bevatten in de 90e band. Kunnen jullie achterhalen welke
+(straling)reflectiewaarden er op de vijf locaties in de 90e band te vinden
+waren? Het antwoord van deze opdracht vind je door de vijf
+(straling)reflectiewaarden op te tellen.
+
+Let op: in veel programmeertalen beginnen we met tellen vanaf 0. In dat geval
+        zou de 90e band dus de index 89 voorstellen.
+
+Gegroet! 
+Generaal Karel Jong
