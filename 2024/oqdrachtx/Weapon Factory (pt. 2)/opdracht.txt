@@ -1,0 +1,39 @@
+Terwijl de bouw van de wapenfabriek in een vergevordend stadium zit, is het
+hoofdkwartier van de vijand dankzij een aantal Sith-spionnen helaas te weten
+gekomen waar de nieuwe wapenfabriek komt te staan.
+
+Sabotage pogingen zijn al in de maak om onze distributie van wapens zoveel
+mogelijk dwars te liggen. Onze recente intel vertelt ons dat de vijand plannen
+heeft om piraten te sturen naar een drietal veilige routes wat het moeilijker
+maakt om van deze routes gebruik te maken. Concreet betekent dit dat het
+'afstandsgewicht' in het netwerk voor deze routes zal worden verhoogd tot een
+waarde van 10.
+
+Om de piratenaanval voor te zijn, vragen we jullie aan te geven welke drie
+veilige routes extra bescherming dienen te ontvangen. Daarbij is de verwachting
+dat de vijand erop gericht is om de gemiddelde (kortste) afstand van de
+wapenfabriek tot alle andere steden (ofwel de berekende waarde van vorige
+opdracht) zoveel mogelijk te doen stijgen.
+
+Let op: de wapenfabriek en de stad waar ze zich in bevindt zijn zeer goed
+beveiligd. Onze intel heeft ons het inzicht gegeven dat de vijand het risico
+daarom niet durft te nemen om een aanval te plegen op een route die aangrenzend
+ligt aan de wapenfabriek. Alle andere routes zijn wel een mogelijk doelwit.
+
+Samengevat zijn dit jullie orders: vind de 3 routes die, wanneer ze aangevallen
+zouden worden door piraten, de verbinding met de stad met de fabriek het meeste
+beïnvloeden, maar zonder dat ze aan die stad grenzen. Aangevallen worden door
+piraten verhoogt het afstandsgewicht van een route tot de waarde 10.  
+
+Als we dus een route 1 2 {"afstand": 5} als regel hebben, zou een piratenaanval
+de afstand verhogen tot 1 2 {"afstand": 10}.
+
+====
+
+Hebben jullie de drie routes gevonden? Voer deze dan in onderstaand format in:
+((n_11, n_12), (n_21, n_22), (n_31, n_32)), met 1) n_ij := node (stad) j van
+edge (route) i, en 2) n_i1 < ni2, en 3) n_k1 < n_m1 voor k < m.
+
+Met andere woorden, als de routes tussen steden 7-29, 1-2 en 13-22 je uitkomst
+zouden zijn, zorg dat je uitkomst dan als volgt geordend is:
+((1, 2), (7, 29), (13, 22)).
