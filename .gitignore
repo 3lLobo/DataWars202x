@@ -177,3 +177,9 @@ poetry.toml
 pyrightconfig.json
 
 # End of https://www.toptal.com/developers/gitignore/api/python
+
+#files that exceed the size limit of GitHub.
+2024/oqdrachtx/Verdediging_2/Bezoeker in Nood/sat_beeld_1337.png
+2024/oqdrachtx/Intel_8/Lost Agents/input.jpg
+2024/oqdrachtx/Intel_7/Hyperspectral Reflectance/input.tif
+2024/oqdrachtx/Intel_3/Universum.db/universe.db
