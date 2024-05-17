@@ -1,0 +1,42 @@
+Kadet,
+
+Het rebellen R&D-centrum heeft het verzoek ontvangen van onze moedige verkenners
+en strijdbare X-Wing-piloten om een Identification & Targeting Assistant (ITA)
+te ontwikkelen die kan helpen bij het bestrijden van die verfoeide TIE-fighters!
+
+Jouw missie is om te helpen bij de ontwikkeling en validatie van een prototype,
+dit doe je via de Data Science Studio (DSS).
+
+Twee van je teameden beginnen door zich op de aangegeven tijd te melden in de
+tactische commandoruimte 0.67 in AC11, een cruciale faciliteit binnen ons
+rebellenbolwerk waar geheime operaties en onderzoeksprojecten plaatsvinden. Bij
+aankomst identificeer je jezelf met jouw u-nummer, waarna je inlogt in de
+beveiligde omgeving. Hierna log je in op jouw DSS, meldt dit, en ontvang je alle
+benodigde security clearances om jouw opdracht te voltooien.
+
+Na het inloggen ontvang je een briefing over de technische specificaties en
+operationele eisen. Zorg ervoor dat je tijdens de briefing alle informatie
+nauwkeurig opneemt en eventuele vragen stelt die je hebt. Deze informatie is
+cruciaal voor de vervolg stappen.
+
+Na de briefing kopieer je het ITA, Tie Fighter Fencing Template project. Vanuit
+hier werk je verder. De volgende stap is het identificeren, labelen en reviewen
+van de resterende TIE-fighters in de trainingsdataset. Dit is essentieel zodat
+het systeem ze nauwkeurig kan herkennen en volgen.
+
+Vervolgens valideer je de validatieset. Na succesvolle validatie presenteer je
+de resultaten aan de Generaal van Dienst voor evaluatie. Deze presentatie is een
+belangrijk moment, omdat het aantoont hoe goed het systeem werkt en hoe het
+bijdraagt aan onze gevechtscapaciteiten.
+
+Als laatste stap controleer je het API-endpoint om zeker te zijn dat het correct
+communiceert met de ITA en de benodigde data levert aan de piloten in het veld.
+Dit zorgt ervoor dat onze X-Wing-piloten real-time informatie hebben tijdens hun
+missies tegen de TIE-fighters.
+
+We rekenen op je, kadet. Jouw vaardigheden en inzet zijn van onschatbare waarde
+in deze missie. Moge de Force met je zijn.
+
+Gegroet,
+
+BGen L. Sabel
