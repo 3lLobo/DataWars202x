@@ -1,0 +1,27 @@
+Beste Kadet,
+
+GALACTIC INTELL heeft onze hulp ingeroepen. Ze zijn op zoek naar de beste
+uitwijkpositie in ons universum voor het geval we moeten vluchten. Ze hebben een
+database van het hele universum ("universe.db") maar gezien de grootte is het
+niet zo makkelijk om daaruit antwoorden te kijgen. Help GALACTIC INTELL en lever
+de volgende inlichtingen:
+
+1) Welk Zonnestelsel heeft het hoogste aantal planeten?
+2) Hoeveel Zonnestelsels hebben geen inwoners?
+3) Welk Hypercluster heeft de planeet met de meeste inwoners?
+4) Hoe zwaar is het Supercluster met de grootste totale massa (afgerond op
+   gehele massa-eenheden)?
+5) Wat is het gemiddeld aantal zonnestelsels per Supercluster (afgerond op 2
+   decimalen)?
+6) Welk Zonnestelsel heeft de laagste gemiddelde massa per planeet?
+7) Welke bewoonde planeet met minder dan 500 inwoners heeft de hoogste massa?
+
+Formuleer uw antwoorden in het volgende formaat: [vraagnummer]-[antwoord].
+Bijvoorbeeld: 5-23.
+
+U kunt deze opdracht meerdere keren beantwoorden, en u krijgt voor ieder
+antwoord punten. Vul elke keer enkel het antwoord op één vraag in.
+
+Groet,
+
+Admiral Nova

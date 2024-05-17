@@ -1,0 +1,16 @@
+Kadet!
+
+Onze Space Sensorspecialisten hebben een boodschap ontvangen uit de ruimte. De
+ontvangen straling is al omgezet naar (voor een computer) leesbare tekst. Deze
+vind je in het bestand "input.txt". Dit is jullie beginpunt. Wij vermoeden dat
+er in de data kleine stukjes nuttige informatie geëncodeerd zijn. Onze analisten
+hebben gezien dat er een woord bij zit dat hetzelfde is wanneer het van links
+naar rechts of van rechts naar links gelezen wordt. Dit is het deel van de
+boodschap waarin we geïnteresseerd zijn. Kunnen jullie alle woorden eruit halen
+waarbij dit zo is? 
+
+Het antwoord vind je door het aantal van deze woorden te vermenigvuldigen met
+het aantal letters van deze woorden samen.
+
+Bedankt! 
+Generaal Blitz Snel

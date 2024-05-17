@@ -1,0 +1,30 @@
+Kadet,
+
+In dit onmetelijke sterrenstelsel is het niet altijd helder wat waarheid is en
+wat misleiding. De duistere zijde van het Keizerrijk heeft haar krachten ingezet
+om verwarring te zaaien met een stroom van valse informatie, bekend als "The
+Great Deception".
+
+De Data Alliance heeft jou, als deskundige codekraker, nodig! Er zijn geruchten
+over een kwetsbaarheid binnen de DataStar, een zwakke schakel verborgen in een
+zee van data, zo subtiel dat het voorbijgaat aan de zintuigen. Deze zwakke
+schakel is de toegangspoort tot de waarheid, verhuld binnen een code die niet in
+woorden kan worden uitgedrukt, maar alleen in de pure taal van data. 
+
+Onder de vele overgebrachte beelden van de DataStar zijn er twee die bijna
+identiek lijken. Echter, de geruchten wijzen op één enkele anomalie, een
+verandering zo klein dat het lijkt op de gefluisterde legende van een oude
+pixel: de Echo Pixel. Het gerucht gaat dat wie de Echo Pixel vindt, de kracht
+heeft om de waarheid te onthullen en de misleiding van het Keizerrijk te
+doorbreken.
+
+Zoek uit wat er waar is van deze legende, en als er een verschil zit tussen deze
+twee afbeeldingen, geef mij dan de exacte positie.
+
+Ik wil het antwoord graag hebben als afstand vanaf de linkerbovenhoek in aantal
+pixels. Vermenigvuldig de x-locatie met 10000 en tel daar de y-locatie bij op.
+
+Groeten,
+
+Kap. Nuvo Vindi
+Legendary Research Office

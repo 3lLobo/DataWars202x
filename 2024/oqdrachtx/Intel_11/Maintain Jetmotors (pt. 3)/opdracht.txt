@@ -1,0 +1,23 @@
+Kadet,
+
+Van bovenaf is besloten om het dataverkeer nog verder te beperken en de analyse
+in het ruimtevaartuig zelf uit te voeren. 
+
+Om de staat van de jetmotor te kunnen begrijpen, en het moment van onderhoud te
+kunnen plannen, is het van belang om een voorspelling te kunnen maken van de
+resterende gebruiksduur (RUL, Remaining Useful Life). Na gesprekken met de
+Adjudant <Y> zijn we te weten gekomen dat, voor bepaalde periode tot falen de
+RUL zich gedraagt als
+
+RUL = -(1/b)*ln((x-c)/a)
+
+Als je de formule voor RUL hierboven als inspiratie gebruikt kun je een
+exponentiële functie op de data fitten die de data goed volgt. Zoek uit hoe je
+dit doet, en los de functie op voor a, b en c.
+
+We zoeken a, b en c in 3 significante cijfers! Het antwoord krijg je door a, b
+en komma-gescheiden op te schrijven. Stel je vindt de volgende waarden: a=3.423,
+b=8.523, c=1.123, dan schrijf je het antwoord als volgt op: 3.423,8.523,-1.123.
+
+Groet,
+Commander X

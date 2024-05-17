@@ -1,0 +1,13 @@
+Kadet,
+
+De technische dienst laat weten dat het aantal relevante sensoren nog steeds te
+groot is om via intergalactische communicatie de jetmotoren uit te lezen. Om het
+dataverkeer verder te reduceren stellen zij voor om bepaalde combinaties van
+sensoren te versturen.
+
+Zoek uit hoeveel (lineaire) combinaties van sensorwaardes nodig zijn om falen
+van de jetmotoren te kunnen voorspellen! Je antwoord is dit aantal. Gebruik de
+dataset uit de voorgaande opdracht.
+
+Groet,
+Commandant X
